@@ -98,12 +98,6 @@ a:hover {
     color: rgb(156,97,50);
 }
 
-#lu-logo {
-    text-align: center;
-    height: auto;
-    max-width: 10em;
-}
-
 .content li {
     padding: 0.5rem;
 }
@@ -116,8 +110,20 @@ code {
 footer {
     color: white;
     text-align: center;
+    font-size: 0.8em;
     background-color: rgb(76,76,68);
     margin-top: auto;
-    padding: 1rem;
+    padding: 1.5rem;
     width: auto;
+}
+
+footer p {
+    margin: auto;
+    max-width: 34rem;
+}
+
+#lu-logo {
+    text-align: center;
+    height: auto;
+    max-width: 12em;
 }
