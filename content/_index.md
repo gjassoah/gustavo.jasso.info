@@ -3,9 +3,9 @@ title: Gustavo Jasso
 ---
 ![Gustavo Jasso's photograph](/img/gjasso.png)  
 Senior Lecturer (Universitetslektor)  
-Department of Mathematics  
-Faculty of Science  
-Lund University
+[Department of Mathematics](https://www.maths.lu.se/english/)  
+[Faculty of Science](https://www.science.lu.se/)  
+[Lund University](https://www.lunduniversity.lu.se/)
 {.me}
 
 ## About me
@@ -231,13 +231,11 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 #### Master students
 
 1. Martin Böhm, _Cluster algebras and knot polynomials_ (Nov 2021)
-1. Jona Klemenc, _The stable hull of exact infinity-categories_ (Aug 2020)
-    *   [arXiv preprint](https://arxiv.org/abs/2010.04957)
-    *   [Publication](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php)
+1. Jona Klemenc, _The stable hull of exact infinity-categories_ (Aug 2020)  
+   [arXiv preprint](https://arxiv.org/abs/2010.04957) | [Publication](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php)
 1. Calvin Pfeifer, _Torsion classes and wide subcategories_ (Jan 2020)  
-   _Afterwards:_ PhD position with Prof. Dr. Christof Geiss in Odense
-   *   [arXiv preprint](https://arxiv.org/abs/1905.01148)
-   *   [Publication](https://link.springer.com/article/10.1007/s10468-021-10079-1)
+   _Afterwards:_ PhD position with Prof. Dr. Christof Geiss in Odense  
+   [arXiv preprint](https://arxiv.org/abs/1905.01148) | [Publication](https://link.springer.com/article/10.1007/s10468-021-10079-1)
 1. Jan-Paul Lerch, _Bijections in tau-tilting theory_ (Oct 2019)  
    _Afterwards:_ PhD position with Prof. Dr. Henning Krause in Bielefeld
 1. Aran Tattar, _On Gorenstein k-categories_ (Apr 2018)  
