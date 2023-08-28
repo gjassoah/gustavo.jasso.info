@@ -137,9 +137,9 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 _Remarks:_
 
-*   My Ph.D. thesis comprises articles [8] and [10-11]
-*   My master’s thesis comprises part of article [13]
-*   My bachelor’s thesis comprises article [12]
+*   My Ph.D. thesis comprises articles [8] and [10-11].
+*   My master’s thesis comprises part of article [13].
+*   My bachelor’s thesis comprises article [12].
 
 ### Proceedings, extended abstracts and other writings
 
