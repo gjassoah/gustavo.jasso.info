@@ -1,0 +1,13 @@
+baseURL = "https://gustavo.jasso.info"
+title = "Gustavo Jasso - Mathematician"
+disableKinds = ["taxonomy"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2

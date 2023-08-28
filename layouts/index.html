@@ -1,0 +1,15 @@
+
+{{ define "main" }}
+<main>
+    <header>
+        <h1>{{.Title}}</h1>
+    </header>
+    <div class="content">
+        {{.Content}}
+    </div>
+</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partial "footer.html" . }}
+{{ end }}

@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Source+Code+Pro&family=Source+Sans+3:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+html, body {
+  margin: 0;
+  height: 100%;
+  color: #4d4c44;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+header {  
+    text-align: center;
+}
+
+#TableOfContents {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
+}
+
+#TableOfContents li {    
+    list-style: none;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+#TableOfContents a {
+    text-decoration: none;
+}
+
+#TableOfContents a:hover {
+    text-decoration: underline;
+}
+
+.me {
+    text-align: center;
+}
+
+.me img {
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.content {
+    padding: 1rem;
+    margin: 0 auto;
+    max-width: 34rem;
+}
+
+h1 {
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 0.5em;
+    margin: 0rem;
+}
+
+a, a:visited { 
+    color: rgb(156,97,20);
+}
+
+a:hover {
+    color: rgb(156,97,50);
+}
+
+#lu-logo {
+    text-align: center;
+    height: auto;
+    max-width: 10em;
+}
+
+.content li {
+    padding: 0.5rem;
+}
+
+code {
+    font-size: 0.9rem;
+    font-family: 'Source Code Pro', monospace;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: rgb(76,76,68);
+    margin-top: auto;
+    padding: 1rem;
+    width: auto;
+}
