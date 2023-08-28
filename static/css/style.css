@@ -47,6 +47,8 @@ header {
 #TableOfContents {
     margin: auto;
     width: 100%;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
     text-align: center;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
@@ -62,6 +64,8 @@ header {
     list-style: none;
     display: inline-block;
     padding: 1em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
 }
 
 #TableOfContents a {
