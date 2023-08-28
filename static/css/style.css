@@ -92,6 +92,10 @@ header {
     max-width: 34rem;
 }
 
+.content ul, .content ol {
+    padding-left: 1.75em;
+}
+
 h1 {
     font-family: 'EB Garamond', serif;
     text-align: center;
