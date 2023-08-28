@@ -1,3 +1,4 @@
 public/
 *.~undo-tree~
 *.lock
+*.tar.gz
