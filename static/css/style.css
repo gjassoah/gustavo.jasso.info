@@ -128,8 +128,17 @@ footer p {
     max-width: 34rem;
 }
 
+footer a, footer a:visited {
+    color: white;
+}
+
+footer hr {
+    color: transparent;
+}
+
 #lu-logo {
     text-align: center;
     height: auto;
     max-width: 12em;
+    margin: 0;
 }
