@@ -197,13 +197,19 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 
 You need a LU student account to access the Canvas pages below.
 
-**HT2023** [MATP43 Representation theory of quivers](https://canvas.education.lu.se/courses/25063)
+#### Fall Term 2023
 
-**HT2023** [MATM35 Number Theory](https://canvas.education.lu.se/courses/25048)
+[MATP43 Representation theory of quivers](https://canvas.education.lu.se/courses/25063)
 
-**VT2023** [MATP33 Group and Ring Theory](https://canvas.education.lu.se/courses/22235)
+[MATM35 Number Theory](https://canvas.education.lu.se/courses/25048)
 
-**HT2022** [MATM35 Number Theory](https://canvas.education.lu.se/courses/18560)
+#### Spring Term 2023
+
+[MATP33 Group and Ring Theory](https://canvas.education.lu.se/courses/22235)
+
+#### Fall Term 2023
+
+[MATM35 Number Theory](https://canvas.education.lu.se/courses/18560)
 
 ### Students
 
