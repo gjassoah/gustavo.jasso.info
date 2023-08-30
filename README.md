@@ -1,4 +1,4 @@
-# gustavo.jasso.info - a simple mathematician's website
+# gustavo.jasso.info - a mathematician's simple website
 
 This website is built using [Hugo](https://gohugo.io/) according to my own personal needs, which are minimal: indicate institutional affiliation through simple design elements, simple navigation and simple maintenance.
 
