@@ -223,19 +223,6 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 
 1. Daniel Falkowski, _Tensor-triangular geometry_ (in progress).
 2. Carl-Fredrik Lidgren, _t-structures_ (in progress).
-{. reversed="reversed"}
-
-#### Bachelor students
-
-1. Diego González Pérez, _Abelian categories_ (in progress).
-1. Behnam Aminpour, _The Eilenberg-Watts Theorem_ (in progress).
-1. Yijia Zeng, _Frieze Patterns_.
-{. reversed="reversed"}
-
-### Former students (University of Bonn)
-
-#### Master students
-
 1. Martin Böhm, _Cluster algebras and knot polynomials_ (Nov 2021)
 1. Jona Klemenc, _The stable hull of exact infinity-categories_ (Aug 2020)  
    [arXiv preprint](https://arxiv.org/abs/2010.04957) | [Publication](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php)
@@ -248,8 +235,13 @@ Please contact me by e-mail if you are a student at Lund University and are inte
    _Afterwards:_ PhD position with Prof. Dr. Sibylle Schroll in Leicester
 {. reversed="reversed"}
 
+_Remark._ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+
 #### Bachelor students
 
+1. Diego González Pérez, _Abelian categories_ (in progress).
+1. Behnam Aminpour, _The Eilenberg-Watts Theorem_ (in progress).
+1. Yijia Zeng, _Frieze Patterns_ (2023).
 1. Felix Anton Brandt, _Decomposition theorems for persistence modules_ (Feb 2021)
 1. Tanja Helme, _Cluster-Algebren und Kettenbrüche_ (Sep 2020)
 1. George Tyriard, _A Morita-theoretic proof of the Dold-Kan correspondence_ (Sep 2020)
@@ -257,5 +249,7 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 1. Roman Höffken, _Morita Theorie für Ringe und Kategorien_ (Jan 2020)
 1. Vincent Siebler, _The derived category of a gentle algebra_ (Dec 2019)
 {. reversed="reversed"}
+
+_Remark._ Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
 [Back to top](#)
