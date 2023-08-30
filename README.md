@@ -1,3 +1,5 @@
+# gustavo.jasso.info - a simple mathematician's website
+
 This website is built using [Hugo](https://gohugo.io/) according to my own personal needs, which are minimal: indicate institutional affiliation through simple design elements, simple navigation and simple maintenance.
 
 * [Install Hugo](https://gohugo.io/installation/)
@@ -26,4 +28,6 @@ The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) stylesheet is stored
 
 The following guide might be useful if you are unfamiliar with Hugo:
 
-[Get started with Hugo](https://gohugo.io/getting-started/quick-start/)
+[Get started with Hugo](https://gohugo.io/getting-started/quick-start/**
+
+**TODO** Automation through datasets and BibTeX import(s).
