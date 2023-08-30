@@ -239,7 +239,7 @@ _Remark._ Students [1-5] were supervised at the [University of Bonn](https://www
 
 #### Bachelor students
 
-1. Erik Christmasson, _Gentle algebras_ (in progress).
+1. Erik Christmansson, _Gentle algebras_ (in progress).
 1. Diego González Pérez, _Abelian categories_ (in progress).
 1. Behnam Aminpour, _The Eilenberg-Watts Theorem_ (in progress).
 1. Yijia Zeng, _Frieze Patterns_ (2023).
