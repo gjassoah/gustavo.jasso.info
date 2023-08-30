@@ -24,7 +24,7 @@ content/_index.md
 layouts/partials/footer.html
 ```
 
-The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) stylesheet is stored under `static/css/`. The photograph and LU's logotype is stored under `static/img/`.
+The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) stylesheet is stored under `static/css/`. The photograph and LU's logotype are stored under `static/img/`.
 
 The following guide might be useful if you are unfamiliar with Hugo:
 
