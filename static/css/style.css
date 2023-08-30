@@ -32,6 +32,7 @@ html, body {
   margin: 0;
   height: 100%;
   color: #4d4c44;
+  background-color: white;
   font-family: 'Source Sans 3', sans-serif;
 }
 
@@ -44,20 +45,26 @@ header {
     text-align: center;
 }
 
+header h1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 3rem;
+    padding-top: 0.5em;
+    margin: 0rem;
+}
+
 #TableOfContents {
     margin: auto;
     width: 100%;
     padding-top: 0.75em;
     padding-bottom: 0.75em;
     text-align: center;
-    background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
 }
 
 #TableOfContents ul {
     padding: 0;
     margin: 0;
-    list-style-position: inside;
+    list-style-position: inside;    
 }
 
 #TableOfContents li {
@@ -69,7 +76,7 @@ header {
 }
 
 #TableOfContents a {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 #TableOfContents a:hover {
@@ -94,14 +101,6 @@ header {
 
 .content ul, .content ol {
     padding-left: 1.75em;
-}
-
-h1 {
-    font-family: 'EB Garamond', serif;
-    text-align: center;
-    font-size: 3rem;
-    padding-top: 0.5em;
-    margin: 0rem;
 }
 
 a, a:visited { 
