@@ -230,7 +230,7 @@ Please contact me by e-mail if you are a student at Lund University and are inte
    _Afterwards:_ PhD position with Prof. Dr. Christof Geiss in Odense.  
    [arXiv preprint](https://arxiv.org/abs/1905.01148) | [Publication](https://link.springer.com/article/10.1007/s10468-021-10079-1)
 1. Jan-Paul Lerch, _Bijections in tau-tilting theory_ (Oct 2019).  
-   _Afterwards:_ PhD position with Prof. Dr. Henning Krause in Bielefeld
+   _Afterwards:_ PhD position with Prof. Dr. Henning Krause in Bielefeld.
 1. Aran Tattar, _On Gorenstein k-categories_ (Apr 2018).  
    _Afterwards:_ PhD position with Prof. Dr. Sibylle Schroll in Leicester.
 {. reversed="reversed"}
