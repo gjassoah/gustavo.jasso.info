@@ -14,7 +14,7 @@ $ cd gustavo.jasso.info
 $ hugo
 ```
 
-Hugo will generate the website and store it in the `public` directory that you can then publish. 
+Hugo will generate the website and store it in the `public` directory that can then be published. 
 
 If you wish to modify this website for your personal use, you will want to modify (at least) the following files:
 
