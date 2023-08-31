@@ -135,7 +135,7 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 1. Barot, M., Geiß, C., Jasso, G.: [Tubular cluster algebras II: Exponential growth](https://doi.org/10.1016/j.jpaa.2012.12.012). J. Pure Appl. Algebra. 217 (2013), 1825–1837 | [arXiv](https://arxiv.org/abs/1202.4816) | [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=3053518)
 {. reversed="reversed"}
 
-_Remarks:_
+##### Remarks
 
 *   My Ph.D. thesis comprises articles [3-4] and [6].
 *   My master’s thesis comprises part of article [1].
@@ -235,7 +235,9 @@ Please contact me by e-mail if you are a student at Lund University and are inte
    _Afterwards:_ PhD position with Prof. Dr. Sibylle Schroll in Leicester.
 {. reversed="reversed"}
 
-_Remark._ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+##### Remark
+
+Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
 #### Bachelor students
 
@@ -251,6 +253,8 @@ _Remark._ Students [1-5] were supervised at the [University of Bonn](https://www
 1. Vincent Siebler, _The derived category of a gentle algebra_ (Dec 2019).
 {. reversed="reversed"}
 
-_Remark._ Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+##### Remark 
+
+Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
 [Back to top](#)
