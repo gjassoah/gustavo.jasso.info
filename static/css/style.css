@@ -93,6 +93,15 @@ header h1 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
 }
 
+@media all and (max-width: 32em){
+    header h1 {
+        margin-bottom: -0.75em;
+    }
+    .me img {
+        display: none;
+    }
+}
+
 .content {
     padding: 1rem;
     margin: 0 auto;
