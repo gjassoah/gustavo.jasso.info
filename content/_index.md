@@ -112,12 +112,12 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ### Preprints
 
-1. Jasso, G.: Derived equivalences of upper-triangular ring spectra via reflection functors. [arXiv:2306.12396 [math.RT]](https://arxiv.org/abs/2306.12396) (submitted)
 1. Jasso, G. and Muro, F.: The Derived Auslander--Iyama Correspondence, with an appendix by B. Keller. [arXiv: 2208.14413 [math.RT]](https://arxiv.org/abs/2208.14413) (submitted)
 {. reversed="reversed"}
 
 ### Publications
 
+1. Jasso, G.: Derived equivalences of upper-triangular ring spectra via lax limits. [arXiv:2306.12396 [math.RT]](https://arxiv.org/abs/2306.12396). Accepted for publication in [C. R. Math. Acad. Sci. Paris](https://comptes-rendus.academie-sciences.fr/mathematique).
 1. Dyckerhoff, T., Jasso, G., Lekili, Y.: [The symplectic geometry of higher Auslander algebras: Symmetric products of disks](https://doi.org/10.1017/fms.2021.2). Forum Math. Sigma. 9 (2021), Paper No. e10, 14 | [arXiv](https://arxiv.org/abs/1911.11719) | [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=4211943)
 1. Dyckerhoff, T., Jasso, G., Walde, T.: [Generalised BGP reflection functors via the Grothendieck construction](https://doi.org/10.1093/imrn/rnz194). Int. Math. Res. Not. IMRN. (2021), 20, 15733–15745 | [arXiv](https://arxiv.org/abs/1901.06993) | [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=4329880) | [PDF (free access link)](http://track.smtpsendmail.com/9032119/c?p=1WthZagbtk2rLtdFP9NFmVM9L5JySm3LFlZ6MjtSbT9mIAdH96Rn7N7MWh7e_Yw5Bc6lmUPJ-Q00PRufvpkErGbRJ-c2mU-o4lvoJakbMrCd40MQoJedKq8YFSIuk-fiCk4VoShN2PlKFPp6MR-2Ky0d4HNX8vEhffcd1GTC0Mek6kDHcsUegDYlhHVDOe7WEma1VEP-IAGoB0M-RD0v2EDDXC0zroAJawj-rPd2aXH2Ug2GKmHyv6EE3SI_WxO6)
 1. Dyckerhoff, T., Jasso, G., Walde, T.: [Simplicial structures in higher Auslander–Reiten theory](https://doi.org/10.1016/j.aim.2019.106762). Adv. Math. 355 (2019), 106762 | [arXiv](https://arxiv.org/abs/1811.02461) | [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=3994443)  
