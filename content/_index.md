@@ -207,7 +207,7 @@ You need a LU student account to access the Canvas pages below.
 
 [MATP33 Group and Ring Theory](https://canvas.education.lu.se/courses/22235)
 
-#### Fall Term 2023
+#### Fall Term 2022
 
 [MATM35 Number Theory](https://canvas.education.lu.se/courses/18560)
 
