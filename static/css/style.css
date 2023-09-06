@@ -184,8 +184,8 @@ footer a, footer a:visited {
     color: white;
 }
 
-footer hr {
-    color: transparent;
+footer p {
+    padding: 0.5em;
 }
 
 #lu-logo {
