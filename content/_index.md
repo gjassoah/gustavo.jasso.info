@@ -168,7 +168,8 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 Below are the notes/slides from some of my talks and also a poster. Click on the titles to download/open the corresponding PDF file.
 
-*  [Quivers, quivers and more quivers]((https://lu.box.com/s/v8jh02ffp0xw618y1raewvvpck4nb1br)). Math Student's Day, Lund, Sweden (2023).
+*  [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/8tlx3135vx8qokucegzw5jcri9mzz0k2). Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry, Casa Matemática Oaxaca, Mexico (2023).
+*  [Quivers, quivers and more quivers](https://lu.box.com/s/v8jh02ffp0xw618y1raewvvpck4nb1br). Math Student's Day, Lund, Sweden (2023).
 *  [(Non-)uniqueness of strong DG enhancements](https://lu.box.com/s/4kabe1c7ie0fwfzso6m610b3pjscba32). Combinatorial aspects of Representation Theory, Oslo, Norway (2023) and New Directions in Group Theory and Triangulated Categories, Online seminar (2023).
 *  [Brackets, trees and the Borromean rings](https://lu.box.com/s/otwuu18qoroncwg6nw3rmetr9zv30zkg). Lund Mathematics Colloquium, Lund, Sweden (2022).
 *  [The Donovan-Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/jhh1dj9fvyntaus1xxa2s89xiwa6ik4j). Geometric Representation Theory Seminar at the YMSC, Beijing, China (2022).
