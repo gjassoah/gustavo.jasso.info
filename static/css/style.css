@@ -200,13 +200,11 @@ code {
     text-align: right;
     font-weight: bold;
     a, a:visited {
-        border: 1px solid rgb(156,97,50);
         padding: 0.25em;
         text-decoration: none;
     }
 
     a:hover {
-        border: 1px solid rgb(156,97,50);
         padding: 0.25em;
         text-decoration: underline;
     }
