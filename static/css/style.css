@@ -200,13 +200,15 @@ code {
     text-align: right;
     font-weight: bold;
     a, a:visited {
-        color: white;        
-        background-color: rgb(156,97,20);
+        color: white;
+        text-decoration: none;
+        background-color: color: #4d4c44;;
     }
 
     a:hover {
         color: white;
-        background-color: rgb(156,97,50);
+        text-decoration: none;
+        background-color: color: #4d4c44;;
     }
 }
 
