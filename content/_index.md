@@ -244,7 +244,6 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 
 1. Erik Christmansson, _Gentle algebras_ (in progress).
 1. Diego González Pérez, _Abelian categories_ (in progress).
-1. Behnam Aminpour, _The Eilenberg-Watts Theorem_ (in progress).
 1. Yijia Zeng, _Frieze Patterns_ (2023).
 1. Felix Anton Brandt, _Decomposition theorems for persistence modules_ (Feb 2021).
 1. Tanja Helme, _Cluster-Algebren und Kettenbrüche_ (Sep 2020).

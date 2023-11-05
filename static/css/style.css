@@ -34,14 +34,16 @@ html, body {
   font-family: 'Source Sans 3', sans-serif;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
     body {
         color: white;
         background-color: rgb(76,76,68);
     }
 }
+*/
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: light), @media (prefers-color-scheme: dark) {
     body {
         color: #4d4c44;
         background-color: white;
@@ -124,7 +126,7 @@ header h1 {
     padding-left: 1.75em;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: light), @media (prefers-color-scheme: dark) {
     a, a:visited { 
         color: rgb(156,97,20);
     }
@@ -134,6 +136,7 @@ header h1 {
     }
 }
 
+/*
 @media (prefers-color-scheme: dark) {
     a, a:visited { 
         color: white;
@@ -143,7 +146,7 @@ header h1 {
         color: white;
     }
 }
-
+*/
 .content li {
     padding: 0.5rem;
 }
@@ -153,19 +156,21 @@ code {
     font-family: 'Source Code Pro', monospace;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: light), @media (prefers-color-scheme: dark) {
     footer {
         color: white;
         background-color: rgb(76,76,68);
     }
 }
 
+/*
 @media (prefers-color-scheme: dark) {
     footer {
         color: white;
         background-color: rgb(76,76,68);
     }
 }
+*/
 
 footer {
     text-align: center;
