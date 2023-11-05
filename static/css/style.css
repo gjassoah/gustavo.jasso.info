@@ -196,6 +196,20 @@ code {
 }
 */
 
+.back-to-top {
+    text-align: right;
+    font-weight: bold;
+    a, a:visited {
+        color: white;        
+        background-color: rgb(156,97,20);
+    }
+
+    a:hover {
+        color: white;
+        background-color: rgb(156,97,50);
+    }
+}
+
 footer {
     text-align: center;
     font-size: 0.8em;

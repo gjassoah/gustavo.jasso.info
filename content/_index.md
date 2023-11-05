@@ -39,6 +39,7 @@ You are welcome to inquire about upcoming advertisements of positions in the Alg
 _Please do not send me unsolicited application materials._
 
 [Back to top](#)
+{.back-to-top}
 
 ## Contact details
 
@@ -63,6 +64,7 @@ Centre for Mathematical Sciences
 Sölvegatan 18, 221 00 Lund, Sweden
 
 [Back to top](#)
+{.back-to-top}
 
 ## Curriculum vitae
 
@@ -87,6 +89,7 @@ Download my [abridged CV](https://lu.box.com/s/xszn7yoj26qbqjp6o6t7d2l9sbw3taim)
 My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
 
 [Back to top](#)
+{.back-to-top}
 
 ## Activities
 
@@ -107,6 +110,7 @@ I am a member of the [Network on Silting Theory](https://networkonsilting.wordpr
 Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
 
 [Back to top](#)
+{.back-to-top}
 
 ## Research
 
@@ -157,12 +161,14 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 {. reversed="reversed"}
 
 [Back to top](#)
+{.back-to-top}
 
 ### Collaborators
 
 [Michael Barot](https://www.matem.unam.mx/~barot/) | [Petter A. Bergh](https://www.ntnu.edu/employees/bergh) | [Laurent Demonet](http://www.math.nagoya-u.ac.jp/~demonet/) | [Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/) | [Christof Geiß](https://www.matem.unam.mx/~christof/) | [Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/) | [Julian Külshammer](https://katalog.uu.se/profile/?id=N18-1115) | [Sondre Kvamme](https://www.math.uu.se/sondre-kvamme/) | [Yanki Lekili](https://lekili.duckdns.org/) | [Fernando Muro](https://personal.us.es/fmuro/) | [Yann Palu](https://www.lamfa.u-picardie.fr/palu/) | [Marius Thaule](https://www.ntnu.edu/employees/marius.thaule) | [Tashi Walde](http://www.math.uni-bonn.de/people/twalde/)
 
 [Back to top](#)
+{.back-to-top}
 
 ## Resources
 
@@ -191,6 +197,7 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 *  [The extended affine Lie algebra associated with a connected non-negative unit form](https://lu.box.com/s/2o3o2ac63aepns6fe71tth3v31nrbklw). XIV International Conference on Representations of Algebras (ICRA), Tokyo, Japan (2010).
 
 [Back to top](#)
+{.back-to-top}
 
 ## Teaching
 
@@ -258,3 +265,4 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
 [Back to top](#)
+{.back-to-top}
