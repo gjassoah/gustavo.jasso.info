@@ -238,7 +238,7 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 #### Master students
 
 1. Daniel Falkowski, _Tensor-triangular geometry_ (in progress).
-2. Carl-Fredrik Lidgren, _t-structures_ (in progress).
+2. Carl-Fredrik Lidgren, _t-structures_ (Oct 2023).
 1. Martin Böhm, _Cluster algebras and knot polynomials_ (Nov 2021).
 1. Jona Klemenc, _The stable hull of exact infinity-categories_ (Aug 2020).  
    [arXiv preprint](https://arxiv.org/abs/2010.04957) | [Publication](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php)
@@ -259,7 +259,7 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 
 1. Erik Christmansson, _Gentle algebras_ (in progress).
 1. Diego González Pérez, _Abelian categories_ (in progress).
-1. Yijia Zeng, _Frieze Patterns_ (2023).
+1. Yijia Zeng, _Frieze Patterns_ (Feb 2023).
 1. Felix Anton Brandt, _Decomposition theorems for persistence modules_ (Feb 2021).
 1. Tanja Helme, _Cluster-Algebren und Kettenbrüche_ (Sep 2020).
 1. George Tyriard, _A Morita-theoretic proof of the Dold-Kan correspondence_ (Sep 2020).
