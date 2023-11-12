@@ -215,10 +215,10 @@ p.logo {
 }
 
 .logo img {    
-    width: 5em;
+    width: 15%;
     vertical-align: middle;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
 }
 
 footer {
