@@ -238,7 +238,7 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 #### Master students
 
 1. Daniel Falkowski, _Tensor-triangular geometry_ (in progress).
-2. Carl-Fredrik Lidgren, _t-structures_ (Oct 2023).
+2. Carl-Fredrik Lidgren, _t-structures & recollements_ (Oct 2023).
 1. Martin Böhm, _Cluster algebras and knot polynomials_ (Nov 2021).
 1. Jona Klemenc, _The stable hull of exact infinity-categories_ (Aug 2020).  
    [arXiv preprint](https://arxiv.org/abs/2010.04957) | [Publication](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php)
