@@ -70,7 +70,7 @@ Sölvegatan 18, 221 00 Lund, Sweden
 
 Download my [abridged CV](https://lu.box.com/s/xszn7yoj26qbqjp6o6t7d2l9sbw3taim) (comprehensive CV available upon request).
 
-I have been affiliated to the following institutions during my academical career:
+Including my student years, I have been affiliated to the following institutions during my academical career:
 
 [![UNAM's Logo](/img/unam-logo.png)](https://www.unam.mx/)
 [![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
