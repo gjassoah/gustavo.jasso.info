@@ -60,7 +60,7 @@ E-mail sent to any of the following addresses will arrive to the same inbox.
 
 Room MH:406
 
-Centre for Mathematical Sciences  
+Centre for Mathematical Sciences
 Sölvegatan 18, 221 00 Lund, Sweden
 
 [Back to top &uarr;](#)
@@ -69,6 +69,14 @@ Sölvegatan 18, 221 00 Lund, Sweden
 ## Curriculum vitae
 
 Download my [abridged CV](https://lu.box.com/s/xszn7yoj26qbqjp6o6t7d2l9sbw3taim) (comprehensive CV available upon request).
+
+I have been affiliated to the following institutions during my academical career:
+
+[![UNAM's Logo](/img/unam-logo.png)](https://www.unam.mx/)
+[![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
+[![University of Bonn's Logo](/img/bonn-logo.jpg)](https://www.uni-bonn.de/)
+[![Lund University's Logo](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
+{.logo}
 
 **2022-10-15** [11th Award for Encouragement of Alumni and Students ("Hida Award")](https://www.math.nagoya-u.ac.jp/ja/alumni/hida-prize.html#result-11), Alumni Association of the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/en/index.html), [Nagoya University](https://en.nagoya-u.ac.jp/).
 
@@ -86,7 +94,7 @@ Download my [abridged CV](https://lu.box.com/s/xszn7yoj26qbqjp6o6t7d2l9sbw3taim)
 
 **1987-03-18** Born in [Guadalajara](https://en.wikipedia.org/wiki/Guadalajara), [Jalisco](https://en.wikipedia.org/wiki/Jalisco), [Mexico](https://en.wikipedia.org/wiki/Mexico).
 
-My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
+_Notes._ My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
 
 [Back to top &uarr;](#)
 {.back-to-top}

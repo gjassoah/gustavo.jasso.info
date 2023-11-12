@@ -210,6 +210,17 @@ code {
     }
 }
 
+p.logo {
+    text-align: center;
+}
+
+.logo img {    
+    width: 5em;
+    vertical-align: middle;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
 footer {
     text-align: center;
     font-size: 0.8em;
