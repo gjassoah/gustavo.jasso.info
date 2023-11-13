@@ -74,7 +74,7 @@ Including my student years, I have been affiliated to the following institutions
 
 [![UNAM's Logo](/img/unam-logo.png)](https://www.unam.mx/)
 [![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
-[![University of Bonn's Logo](/img/bonn-logo.jpg)](https://www.uni-bonn.de/)
+[![University of Bonn's Logo](/img/bonn-logo.png)](https://www.uni-bonn.de/)
 [![Lund University's Logo](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
 {.logo}
 
