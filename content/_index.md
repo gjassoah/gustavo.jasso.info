@@ -180,8 +180,9 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ## Resources
 
-Below are the notes/slides from some of my talks and also a poster. Click on the titles to download/open the corresponding PDF file.
+Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
 
+* [Exact infinity-categories](https://lu.box.com/s/b1ywhltbtddbzm92ybamjohno3mn4p04). Current trends in representation theory, cluster algebras and geometry, CIRM-Luminy, Marseille, France (2023).
 *  [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/8tlx3135vx8qokucegzw5jcri9mzz0k2). Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry, Casa Matemática Oaxaca, Mexico (2023).
 *  [Quivers, quivers and more quivers](https://lu.box.com/s/v8jh02ffp0xw618y1raewvvpck4nb1br). Math Student's Day, Lund, Sweden (2023).
 *  [(Non-)uniqueness of strong DG enhancements](https://lu.box.com/s/4kabe1c7ie0fwfzso6m610b3pjscba32). Combinatorial aspects of Representation Theory, Oslo, Norway (2023) and New Directions in Group Theory and Triangulated Categories, Online seminar (2023).
