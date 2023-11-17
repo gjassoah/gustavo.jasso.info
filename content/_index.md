@@ -182,7 +182,7 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
 
-* [Auslander' Formula for stable infinity-categories, after Klemenc](https://lu.box.com/s/rm61fajehq6tae7ewypbovih3zbfvn7v). Representation theory and non-commutative geometry/ARTIG 3, Paderborn, Germany (2023).
+* [Auslander's Formula for stable infinity-categories, after Klemenc](https://lu.box.com/s/rm61fajehq6tae7ewypbovih3zbfvn7v). Representation theory and non-commutative geometry/ARTIG 3, Paderborn, Germany (2023).
 * [Exact infinity-categories](https://lu.box.com/s/b1ywhltbtddbzm92ybamjohno3mn4p04). Current trends in representation theory, cluster algebras and geometry, CIRM-Luminy, Marseille, France (2023).
 *  [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/8tlx3135vx8qokucegzw5jcri9mzz0k2). Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry, Casa Matemática Oaxaca, Mexico (2023).
 *  [Quivers, quivers and more quivers](https://lu.box.com/s/v8jh02ffp0xw618y1raewvvpck4nb1br). Math Student's Day, Lund, Sweden (2023).
