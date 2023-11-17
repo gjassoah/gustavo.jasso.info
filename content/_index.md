@@ -94,7 +94,9 @@ Including my student years, I have been affiliated to the following institutions
 
 **1987-03-18** Born in [Guadalajara](https://en.wikipedia.org/wiki/Guadalajara), [Jalisco](https://en.wikipedia.org/wiki/Jalisco), [Mexico](https://en.wikipedia.org/wiki/Mexico).
 
-_Notes._ My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
+##### Remark
+
+My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
 
 [Back to top &uarr;](#)
 {.back-to-top}
@@ -200,10 +202,10 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 *  [Universal properties of derived categories, after Lurie](https://lu.box.com/s/k8xwq5xnhcovcxjshrxffgk9rpjjzyyw). BIREP Seminar, Bielefeld, Germany (online talk) (2021).
 *  [Deriving a theorem of Ladkani](https://lu.box.com/s/56f9ck9ch56sf6qn9s6j3mxw3gj0ao54). Flash Talks in Representation Theory at NTNU, Trondheim, Norway (online event) (2021).
 *  [Partially wrapped Fukaya categories of symmetric products of marked disks](https://lu.box.com/s/yqmr8oeqv8wallhg8okrusi18x2o2605). Winter School: Connections between representation theory and geometry, Bonn, Germany (online event) (2020).
-*  [Stable ∞-categories: localisations and recollements](https://lu.box.com/s/cx51sn4wkw32zcwo3ib56cn2g44xgmkx). ‘Two Weeks of Silting’ Summer School, Stuttgart, Germany (2019) | [Exercises](https://lu.box.com/s/wvp47k57yw3nzjisspqjlhv790boipz0).
+*  [Stable infinity-categories: localisations and recollements](https://lu.box.com/s/cx51sn4wkw32zcwo3ib56cn2g44xgmkx). ‘Two Weeks of Silting’ Summer School, Stuttgart, Germany (2019) | [Exercises](https://lu.box.com/s/wvp47k57yw3nzjisspqjlhv790boipz0).
 *  [Higher-dimensional Auslander algebras of type A and the higher-dimensional Waldhausen S-constructions](https://lu.box.com/s/wpbaojp44wivbvpx6kolyujiwkrin6is). XVIII International Conference on Representations of Algebras (ICRA), Prague, Czech Republic (2018).
-* Panorama of Mathematics. Bonn, Germany. Oct 2015. [d-homological algebra](https://lu.box.com/s/fg0ldg5wmk3x05rq7mvysmfvertub2qo) (poster).
-*  [τ-tilting reduction](https://lu.box.com/s/933nnxm8d0ppb4l7kpnjyl536xaw48ak). XV International Conference on Representations of Algebras (ICRA), Bielefeld, Germany (2012).
+* [d-homological algebra](https://lu.box.com/s/fg0ldg5wmk3x05rq7mvysmfvertub2qo). Panorama of Mathematics. Bonn, Germany. Oct (2015)..
+*  [tau-tilting reduction](https://lu.box.com/s/933nnxm8d0ppb4l7kpnjyl536xaw48ak). XV International Conference on Representations of Algebras (ICRA), Bielefeld, Germany (2012).
 *  [The extended affine Lie algebra associated with a connected non-negative unit form](https://lu.box.com/s/2o3o2ac63aepns6fe71tth3v31nrbklw). XIV International Conference on Representations of Algebras (ICRA), Tokyo, Japan (2010).
 
 [Back to top &uarr;](#)
