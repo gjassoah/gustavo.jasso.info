@@ -36,7 +36,7 @@ Open doctoral and postdoctoral/researcher positions at Lund University can be fo
 
 You are welcome to inquire about upcoming advertisements of positions in the Algebra group, but please note that applications are handled through the Varbi system (accessible from the previous link). 
 
-_Please do not send me unsolicited application materials._
+_Please do not send me unsolicited application materials. For security reasons, **I will not open unsolicited files.**_
 
 [Back to top &uarr;](#)
 {.back-to-top}
