@@ -16,9 +16,9 @@ I am a member of the [Research Group in Algebra](https://www.maths.lu.se/english
 
 My research interests include the following topics:
 
-*   Representation theory of quivers and algebras
-*   Homological and homotopical algebra
-*   Cluster algebras and their categorifications
+* Representation theory of quivers and algebras
+* Homological and homotopical algebra
+* Cluster algebras and their categorifications
 
 Visit my [Profile at Lund University's Research Portal](https://portal.research.lu.se/en/persons/gustavo-jasso-ahuja).
 
@@ -151,9 +151,9 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ##### Remarks
 
-*   My Ph.D. thesis comprises articles [3-4] and [6].
-*   My master’s thesis comprises part of article [1].
-*   My bachelor’s thesis comprises article [2].
+* My Ph.D. thesis comprises articles [3-4] and [6].
+* My master’s thesis comprises part of article [1].
+* My bachelor’s thesis comprises article [2].
 
 ### Proceedings, extended abstracts and other writings
 
@@ -184,29 +184,30 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
 
+* [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/pecgtccpfcyvei248jtidj8xrwnvjrm8). McKay correspondence, Tilting Theory and Related Topics, Kavli IMPU, Kashiwa, Japan (2023).
 * [Auslander's Formula for stable infinity-categories, after Klemenc](https://lu.box.com/s/rm61fajehq6tae7ewypbovih3zbfvn7v). Representation theory and non-commutative geometry/ARTIG 3, Paderborn, Germany (2023).
 * [Exact infinity-categories](https://lu.box.com/s/b1ywhltbtddbzm92ybamjohno3mn4p04). Current trends in representation theory, cluster algebras and geometry, CIRM-Luminy, Marseille, France (2023).
-*  [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/8tlx3135vx8qokucegzw5jcri9mzz0k2). Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry, Casa Matemática Oaxaca, Mexico (2023).
-*  [Quivers, quivers and more quivers](https://lu.box.com/s/v8jh02ffp0xw618y1raewvvpck4nb1br). Math Student's Day, Lund, Sweden (2023).
-*  [(Non-)uniqueness of strong DG enhancements](https://lu.box.com/s/4kabe1c7ie0fwfzso6m610b3pjscba32). Combinatorial aspects of Representation Theory, Oslo, Norway (2023) and New Directions in Group Theory and Triangulated Categories, Online seminar (2023).
-*  [Brackets, trees and the Borromean rings](https://lu.box.com/s/otwuu18qoroncwg6nw3rmetr9zv30zkg). Lund Mathematics Colloquium, Lund, Sweden (2022).
-*  [The Donovan-Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/jhh1dj9fvyntaus1xxa2s89xiwa6ik4j). Geometric Representation Theory Seminar at the YMSC, Beijing, China (2022).
-*  [The Triangulated Auslander--Iyama Correspondence](https://lu.box.com/s/6nwq2tri9g4ck14mih7ljykbvshckq22). Algebra Days in Paris in honor of Bernhard Keller, Paris, France (2022).
-*  [The Triangulated Auslander–Iyama Correspondence](https://lu.box.com/s/9ihsw70l3puidqlu6pi8abmyxsszdsxd). 28th Nordic Congress of Mathematicians, Helsinki, Finland (2022).
-*  [The Triangulated Auslander–Iyama Correspondence, part I](https://lu.box.com/s/4zw3p9asl76sa2hstj6v08b0ujym88ve). Abel Symposium 2022, Ålesund, Norway (2022) | [Notes of part II by F. Muro](https://personal.us.es/fmuro/files/slides/aalesund.pdf) (external link).
-*  [La conjectura "optimista" de Lekili y Polishchuk](https://lu.box.com/s/fjry4o810iczh8nb6tdka6kg0xfb3k1i). Coloquio Oaxaqueño de Matemáticas, Oaxaca, Mexico (2022).
-*  [The Triangulated Auslander–Iyama Correspondence](https://lu.box.com/s/4wylfbvu4hsmzgzzof6osvg4xujor300). Online Workshop on Higher Dimensional Homological Algebra, IPM-Isfahan, Iran (2022).
-*  [Generalised BGP reflection functors](https://lu.box.com/s/la1p78bpd4y175jdi6qo971i6wwxyopc). Workshop: Representation Theory of Alegbras and Sheaves, Bielefeld, Germany (2021).
-*  [Homotopical algebra in exact (infinity-)categories](https://lu.box.com/s/mdofu5ch1rawbifw528nqofrs7upcv5e). 2021 London Mathematical Society Northern Regional Meeting and Conference (A conference in celebration of the work of Bill Crawley-Boevey), Bielefeld, Germany (online event) (2021).
-*  [The Waldhausen S-dot construction and the symplectic geometry of surfaces and their symmetric products](https://lu.box.com/s/uqsmdtsdz2qrndg5tnil5p9j0yltmmnp). Opening Workshop (IRP Higher Homotopical Structures), CRM Barcelona, Spain (online event) (2021).
-*  [Universal properties of derived categories, after Lurie](https://lu.box.com/s/k8xwq5xnhcovcxjshrxffgk9rpjjzyyw). BIREP Seminar, Bielefeld, Germany (online talk) (2021).
-*  [Deriving a theorem of Ladkani](https://lu.box.com/s/56f9ck9ch56sf6qn9s6j3mxw3gj0ao54). Flash Talks in Representation Theory at NTNU, Trondheim, Norway (online event) (2021).
-*  [Partially wrapped Fukaya categories of symmetric products of marked disks](https://lu.box.com/s/yqmr8oeqv8wallhg8okrusi18x2o2605). Winter School: Connections between representation theory and geometry, Bonn, Germany (online event) (2020).
-*  [Stable infinity-categories: localisations and recollements](https://lu.box.com/s/cx51sn4wkw32zcwo3ib56cn2g44xgmkx). ‘Two Weeks of Silting’ Summer School, Stuttgart, Germany (2019) | [Exercises](https://lu.box.com/s/wvp47k57yw3nzjisspqjlhv790boipz0).
-*  [Higher-dimensional Auslander algebras of type A and the higher-dimensional Waldhausen S-constructions](https://lu.box.com/s/wpbaojp44wivbvpx6kolyujiwkrin6is). XVIII International Conference on Representations of Algebras (ICRA), Prague, Czech Republic (2018).
+* [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/8tlx3135vx8qokucegzw5jcri9mzz0k2). Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry, Casa Matemática Oaxaca, Mexico (2023).
+* [Quivers, quivers and more quivers](https://lu.box.com/s/v8jh02ffp0xw618y1raewvvpck4nb1br). Math Student's Day, Lund, Sweden (2023).
+* [(Non-)uniqueness of strong DG enhancements](https://lu.box.com/s/4kabe1c7ie0fwfzso6m610b3pjscba32). Combinatorial aspects of Representation Theory, Oslo, Norway (2023) and New Directions in Group Theory and Triangulated Categories, Online seminar (2023).
+* [Brackets, trees and the Borromean rings](https://lu.box.com/s/otwuu18qoroncwg6nw3rmetr9zv30zkg). Lund Mathematics Colloquium, Lund, Sweden (2022).
+* [The Donovan-Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/jhh1dj9fvyntaus1xxa2s89xiwa6ik4j). Geometric Representation Theory Seminar at the YMSC, Beijing, China (2022).
+* [The Triangulated Auslander--Iyama Correspondence](https://lu.box.com/s/6nwq2tri9g4ck14mih7ljykbvshckq22). Algebra Days in Paris in honor of Bernhard Keller, Paris, France (2022).
+* [The Triangulated Auslander–Iyama Correspondence](https://lu.box.com/s/9ihsw70l3puidqlu6pi8abmyxsszdsxd). 28th Nordic Congress of Mathematicians, Helsinki, Finland (2022).
+* [The Triangulated Auslander–Iyama Correspondence, part I](https://lu.box.com/s/4zw3p9asl76sa2hstj6v08b0ujym88ve). Abel Symposium 2022, Ålesund, Norway (2022) | [Notes of part II by F. Muro](https://personal.us.es/fmuro/files/slides/aalesund.pdf) (external link).
+* [La conjectura "optimista" de Lekili y Polishchuk](https://lu.box.com/s/fjry4o810iczh8nb6tdka6kg0xfb3k1i). Coloquio Oaxaqueño de Matemáticas, Oaxaca, Mexico (2022).
+* [The Triangulated Auslander–Iyama Correspondence](https://lu.box.com/s/4wylfbvu4hsmzgzzof6osvg4xujor300). Online Workshop on Higher Dimensional Homological Algebra, IPM-Isfahan, Iran (2022).
+* [Generalised BGP reflection functors](https://lu.box.com/s/la1p78bpd4y175jdi6qo971i6wwxyopc). Workshop: Representation Theory of Alegbras and Sheaves, Bielefeld, Germany (2021).
+* [Homotopical algebra in exact (infinity-)categories](https://lu.box.com/s/mdofu5ch1rawbifw528nqofrs7upcv5e). 2021 London Mathematical Society Northern Regional Meeting and Conference (A conference in celebration of the work of Bill Crawley-Boevey), Bielefeld, Germany (online event) (2021).
+* [The Waldhausen S-dot construction and the symplectic geometry of surfaces and their symmetric products](https://lu.box.com/s/uqsmdtsdz2qrndg5tnil5p9j0yltmmnp). Opening Workshop (IRP Higher Homotopical Structures), CRM Barcelona, Spain (online event) (2021).
+* [Universal properties of derived categories, after Lurie](https://lu.box.com/s/k8xwq5xnhcovcxjshrxffgk9rpjjzyyw). BIREP Seminar, Bielefeld, Germany (online talk) (2021).
+* [Deriving a theorem of Ladkani](https://lu.box.com/s/56f9ck9ch56sf6qn9s6j3mxw3gj0ao54). Flash Talks in Representation Theory at NTNU, Trondheim, Norway (online event) (2021).
+* [Partially wrapped Fukaya categories of symmetric products of marked disks](https://lu.box.com/s/yqmr8oeqv8wallhg8okrusi18x2o2605). Winter School: Connections between representation theory and geometry, Bonn, Germany (online event) (2020).
+* [Stable infinity-categories: localisations and recollements](https://lu.box.com/s/cx51sn4wkw32zcwo3ib56cn2g44xgmkx). ‘Two Weeks of Silting’ Summer School, Stuttgart, Germany (2019) | [Exercises](https://lu.box.com/s/wvp47k57yw3nzjisspqjlhv790boipz0).
+* [Higher-dimensional Auslander algebras of type A and the higher-dimensional Waldhausen S-constructions](https://lu.box.com/s/wpbaojp44wivbvpx6kolyujiwkrin6is). XVIII International Conference on Representations of Algebras (ICRA), Prague, Czech Republic (2018).
 * [d-homological algebra](https://lu.box.com/s/fg0ldg5wmk3x05rq7mvysmfvertub2qo). Panorama of Mathematics. Bonn, Germany. Oct (2015)..
-*  [tau-tilting reduction](https://lu.box.com/s/933nnxm8d0ppb4l7kpnjyl536xaw48ak). XV International Conference on Representations of Algebras (ICRA), Bielefeld, Germany (2012).
-*  [The extended affine Lie algebra associated with a connected non-negative unit form](https://lu.box.com/s/2o3o2ac63aepns6fe71tth3v31nrbklw). XIV International Conference on Representations of Algebras (ICRA), Tokyo, Japan (2010).
+* [tau-tilting reduction](https://lu.box.com/s/933nnxm8d0ppb4l7kpnjyl536xaw48ak). XV International Conference on Representations of Algebras (ICRA), Bielefeld, Germany (2012).
+* [The extended affine Lie algebra associated with a connected non-negative unit form](https://lu.box.com/s/2o3o2ac63aepns6fe71tth3v31nrbklw). XIV International Conference on Representations of Algebras (ICRA), Tokyo, Japan (2010).
 
 [Back to top &uarr;](#)
 {.back-to-top}
@@ -237,7 +238,7 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 
 #### Ph.D. students
 
-*   [Jan Henrik Thomm](https://www.lu.se/lucat/user/121156b806646ca954f2db51eae817a1) (since October 2022).
+* [Jan Henrik Thomm](https://www.lu.se/lucat/user/121156b806646ca954f2db51eae817a1) (since October 2022).
 
 #### Master students
 
