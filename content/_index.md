@@ -242,6 +242,7 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 
 #### Master students
 
+1. Eric Dannetun, _Quotients of triangulated categories_ (in progress).
 1. Daniel Falkowski, _Tensor-triangular geometry_ (in progress).
 2. Carl-Fredrik Lidgren, _t-structures & recollements_ (Oct 2023).
 1. Martin Böhm, _Cluster algebras and knot polynomials_ (Nov 2021).
@@ -262,6 +263,9 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 
 #### Bachelor students
 
+1. Arthur Faxén, _The Barr-Beck Mondadicity Theorem_ (in progress).
+1. Bror Vårdstedt Persson, _Hereditary cluster categories_ (in progress).
+1. Sebastian Westerlund, _Hall algebras_ (in progress).
 1. Erik Christmansson, _Gentle algebras_ (in progress).
 1. Diego González Pérez, _Abelian categories_ (in progress).
 1. Yijia Zeng, _Frieze Patterns_ (Feb 2023).
