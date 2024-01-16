@@ -238,7 +238,8 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 
 #### Ph.D. students
 
-* [Jan Henrik Thomm](https://www.lu.se/lucat/user/121156b806646ca954f2db51eae817a1) (since October 2022).
+* [Marvin Plogmann](https://www.lunduniversity.lu.se/lucat/user/3ccc754605b71210a9c90ff0c99facba) (since January 2024).
+* [Jan Henrik Thomm](https://www.lunduniversity.lu.se/lucat/user/121156b806646ca954f2db51eae817a1) (since October 2022).
 
 #### Master students
 
