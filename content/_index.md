@@ -265,7 +265,7 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 #### Bachelor students
 
 1. Arthur Faxén, _The Barr-Beck Mondadicity Theorem_ (in progress).
-1. Bror Vårdstedt Persson, _Hereditary cluster categories_ (in progress).
+1. Bror Vårdstedt Persson, _Introduction to Auslander-Reiten Theory_ (in progress).
 1. Sebastian Westerlund, _Hall algebras_ (in progress).
 1. Erik Christmansson, _Gentle algebras_ (in progress).
 1. Diego González Pérez, _Abelian categories_ (in progress).
