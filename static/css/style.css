@@ -122,6 +122,9 @@ header h1 {
 }
 
 @media all and (max-width: 32em){
+    #TableOfContents {
+        font-size: 0.8em;
+    }
     header h1 {
         margin-bottom: -0.75em;
     }
