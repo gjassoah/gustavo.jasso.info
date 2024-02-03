@@ -34,6 +34,10 @@ html, body {
   font-family: 'Source Sans 3', sans-serif;
 }
 
+body {
+    height: fit-content;
+}
+
 @media (prefers-color-scheme: light) {
     body {
         color: #4d4c44;
@@ -80,6 +84,9 @@ header h1 {
     padding-bottom: 0.75em;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
+    background-color: white;
+    position: sticky;
+    top: 0;
 }
 
 #TableOfContents ul {
