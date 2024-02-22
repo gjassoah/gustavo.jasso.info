@@ -126,6 +126,7 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ### Preprints
 
+1. Jasso, G.: On a theorem of B. Keller on Yoneda algebras of simple modules. [arXiv: 2402.14004 [math.RT]](https://arxiv.org/abs/2402.14004)
 1. Jasso, G. and Muro, F.: The Derived Auslander--Iyama Correspondence, with an appendix by B. Keller. [arXiv: 2208.14413 [math.RT]](https://arxiv.org/abs/2208.14413) (submitted)
 {. reversed="reversed"}
 
@@ -182,7 +183,8 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ## Resources
 
-Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
+Below are the notes/slides from some of my talks and also a poster. Click on the titles t
+o open/download the corresponding PDF file.
 
 * [The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence](https://lu.box.com/s/pecgtccpfcyvei248jtidj8xrwnvjrm8). McKay correspondence, Tilting Theory and Related Topics, Kavli IMPU, Kashiwa, Japan (2023).
 * [Auslander's Formula for stable infinity-categories, after Klemenc](https://lu.box.com/s/rm61fajehq6tae7ewypbovih3zbfvn7v). Representation theory and non-commutative geometry/ARTIG 3, Paderborn, Germany (2023).
