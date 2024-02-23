@@ -70,7 +70,7 @@
   year: 2022
   extra: Notes of part II by F. Muro (external link)
   url: https://lu.box.com/s/4zw3p9asl76sa2hstj6v08b0ujym88ve
-  url-2: https://personal.us.es/fmuro/files/slides/aalesund.pdf
+  url2: https://personal.us.es/fmuro/files/slides/aalesund.pdf
 
 - title: La conjectura “optimista” de Lekili y Polishchuk
   conference: Coloquio Oaxaqueño de Matemáticas
@@ -128,8 +128,9 @@
   conference: "‘Two Weeks of Silting’ Summer School"
   location: Stuttgart, Germany
   year: 2019
-  extra: exercises
+  extra: Exercises
   url: https://lu.box.com/s/cx51sn4wkw32zcwo3ib56cn2g44xgmkx
+  url2: 
 
 - title: Higher-dimensional Auslander algebras of type A and the higher-dimensional Waldhausen S-constructions
   conference: XVIII International Conference on Representations of Algebras (ICRA)

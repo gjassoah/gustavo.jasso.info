@@ -1,2 +1,2 @@
-{{ range .Site.Data.resources }}1. [{{ .title }}]({{ .url }}). {{ .conference }}. {{ .location }} ({{ .year }})
+{{ range .Site.Data.resources }}1. [{{ .title }}]({{ .url }}). {{ .conference }}. {{ .location }} ({{ .year }}) {{ if .extra }} | [{{ .extra }}]({{ .url2 }}){{ end }}
 {{ end }}{. reversed="reversed"}

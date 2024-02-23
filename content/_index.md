@@ -171,7 +171,7 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ### Collaborators
 
-[Michael Barot](https://www.matem.unam.mx/~barot/) | [Petter A. Bergh](https://www.ntnu.edu/employees/bergh) | [Laurent Demonet](http://www.math.nagoya-u.ac.jp/~demonet/) | [Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/) | [Christof Geiß](https://www.matem.unam.mx/~christof/) | [Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/) | [Julian Külshammer](https://katalog.uu.se/profile/?id=N18-1115) | [Sondre Kvamme](https://folk.ntnu.no/sondkv/) | [Yanki Lekili](https://lekili.duckdns.org/) | [Fernando Muro](https://personal.us.es/fmuro/) | [Yann Palu](https://www.lamfa.u-picardie.fr/palu/) | [Marius Thaule](https://www.ntnu.edu/employees/marius.thaule) | [Tashi Walde](http://www.math.uni-bonn.de/people/twalde/)
+{{% list-coauthors %}}
 
 {{% back-to-top %}}
 
