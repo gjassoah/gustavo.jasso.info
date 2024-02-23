@@ -1,6 +1,6 @@
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   collection: Oberwolfach Rep.
   proceedings: "Representation theory of quivers and
     finite-dimensional algebras: Abstracts from the workshop held
@@ -8,13 +8,13 @@
   doi: 10.14760/OWR-2023-7
   editor:
   - family: Amiot
-    given: Claire
+    given: C.
   - family: Crawley-Boevey
-    given: William
+    given: W.
   - family: Iyama
-    given: Osamu
+    given: O.
   - family: Schröer
-    given: Jan
+    given: J.
   id: MR
   issued: to appear
   title: Derived Endomorphism Algebras in Higher Auslander--Reiten
@@ -24,11 +24,11 @@
   errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Keller
-    given: Bernhard
+    given: B.
   - family: Muro
-    given: Fernando
+    given: F.
   id: JKM22-2
   issued: 2023
   note: "contribution to the proceedings of the Abel Symposium 2022:
@@ -39,7 +39,7 @@
   url: "https://arxiv.org/abs/2301.11593"
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   collectionNo: 1
   collection: Oberwolfach Rep.
   proceedings: "Representation theory of quivers and finite
@@ -48,13 +48,13 @@
   doi: 10.4171/owr/2020/3
   editor:
   - family: Amiot
-    given: Claire
+    given: C.
   - family: Crawley-Boevey
-    given: William
+    given: W.
   - family: Iyama
-    given: Osamu
+    given: O.
   - family: Krause
-    given: Henning
+    given: H.
   id: MR4214785
   issn: 1660-8933
   issued: 2020
@@ -66,15 +66,15 @@
   volume: 17
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   collection: Contemp. Math.
   proceedings: Representation theory and beyond
   doi: 10.1090/conm/758/15238
   editor:
   - family: Šťovíček
-    given: Jan
+    given: J.
   - family: Trlifaj
-    given: Jan
+    given: J.
   id: MR4186973
   issued: 2020
   keyword: proceedings
@@ -87,21 +87,21 @@
   volume: 758
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Külshammer
-    given: Julian
+    given: J.
   collection: Contemp. Math.
   proceedings: Representations of algebras
   doi: 10.1090/conm/705/14191
   editor:
   - family: Leuschke
-    given: Graham J.
-  - family: Frauke Bleher
-    given: Frauke
+    given: G. J.
+  - family: Bleher
+    given: F.
   - family: Schiffler
-    given: Ralf
+    given: R.
   - family: Zacharia
-    given: Dan
+    given: D.
   id: MR3799490
   issued: 2018
   keyword: proceedings
@@ -113,7 +113,7 @@
   volume: 705
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   collectionNo: 1
   collection: Oberwolfach Rep.
   proceedings: "Representation Theory of Quivers and Finite
@@ -122,11 +122,11 @@
   doi: 10.4171/OWR/2017/12
   editor:
   - family: Crawley-Boevey
-    given: William
+    given: W.
   - family: Iyama
-    given: Osamu
+    given: O.
   - family: Krause
-    given: Henning
+    given: H.
   id: MR3757080
   issn: 1660-8933
   issued: 2017
@@ -139,9 +139,9 @@
   volume: 14
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Külshammer
-    given: Julian
+    given: J.
   url: "https://arxiv.org/abs/1604.03473"
   id: Naive
   proceedings: arXiv:1604.03473 [math.RT]
@@ -152,7 +152,7 @@
   notpub: true
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   proceedings: Proceedings of the 16th Workshop on Represenation
     Theory of Algebraic Groups and Quantum Groups
   id: 16RAQ
@@ -163,7 +163,7 @@
   type: paper-conference
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   proceedings: Proceedings of the 45th Symposium on Ring Theory and
     Representation Theory
   id: 45SRTRT
@@ -175,7 +175,7 @@
   type: paper-conference
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   proceedings: Proceedings of the 15th Workshop on Represenation
     Theory of Algebraic Groups and Quantum Groups
   id: 15RAQ

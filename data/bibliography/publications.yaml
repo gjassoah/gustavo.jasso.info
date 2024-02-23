@@ -1,6 +1,6 @@
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   id: Jas23
   issued: 2023
   journal: Accepted for publication in C. R. Math. Acad. Sci. Paris
@@ -10,11 +10,11 @@
   url: "https://arxiv.org/abs/2306.12396"
 - author:
   - family: Dyckerhoff
-    given: Tobias
+    given: T.
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Lekili
-    given: Yankı
+    given: Y.
   journal: Forum Math. Sigma
   doi: 10.1017/fms.2021.2
   id: DJL21
@@ -30,11 +30,11 @@
   mr: 4211943
 - author:
   - family: Dyckerhoff
-    given: Tobias
+    given: T.
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Walde
-    given: Tashi
+    given: T.
   journal: Int. Math. Res. Not. IMRN
   doi: 10.1093/imrn/rnz194
   id: DJW21
@@ -51,11 +51,11 @@
   url2: http://track.smtpsendmail.com/9032119/c?p=1WthZagbtk2rLtdFP9NFmVM9L5JySm3LFlZ6MjtSbT9mIAdH96Rn7N7MWh7e_Yw5Bc6lmUPJ-Q00PRufvpkErGbRJ-c2mU-o4lvoJakbMrCd40MQoJedKq8YFSIuk-fiCk4VoShN2PlKFPp6MR-2Ky0d4HNX8vEhffcd1GTC0Mek6kDHcsUegDYlhHVDOe7WEma1VEP-IAGoB0M-RD0v2EDDXC0zroAJawj-rPd2aXH2Ug2GKmHyv6EE3SI_WxO6
 - author:
   - family: Dyckerhoff
-    given: Tobias
+    given: T.
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Walde
-    given: Tashi
+    given: T.
   journal: Adv. Math.
   doi: 10.1016/j.aim.2019.106762
   id: DJW19b
@@ -71,9 +71,9 @@
   errata: "In Remark 2.29, the symbol S_{m}^{n+1} should be be replaced by S^{n+1}."
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Külshammer
-    given: Julian
+    given: J.
   journal: Adv. Math.
   doi: 10.1016/j.aim.2019.05.026
   id: JK19a
@@ -90,9 +90,9 @@
   mr: 3959141
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Kvamme
-    given: Sondre
+    given: S.
   journal: Bull. Lond. Math. Soc.
   doi: 10.1112/blms.12204
   id: JK19
@@ -108,11 +108,11 @@
   mr: 3919557
 - author:
   - family: Demonet
-    given: Laurent
+    given: L.
   - family: Iyama
-    given: Osamu
+    given: O.
   - family: Jasso
-    given: Gustavo
+    given: G.
   journal: Int. Math. Res. Not. IMRN
   doi: 10.1093/imrn/rnx135
   id: DIJ19
@@ -127,9 +127,9 @@
   mr: 3910476
 - author:
   - family: Iyama
-    given: Osamu
+    given: O.
   - family: Jasso
-    given: Gustavo
+    given: G.
   journal: Algebr. Represent. Theory
   doi: 10.1007/s10468-016-9645-0
   id: IJ17
@@ -145,7 +145,7 @@
   mr: 3638352
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   journal: Math. Z.
   doi: 10.1007/s00209-016-1619-8
   id: Jas16
@@ -161,11 +161,11 @@
   errata: "In Lemma 3.22, the adverbs 'contravariantly' and 'covariantly' should be exchanged in items (vi) and (vii)."
 - author:
   - family: Bergh
-    given: Petter Andreas
+    given: P. A.
   - family: Jasso
-    given: Gustavo
+    given: G.
   - family: Thaule
-    given: Marius
+    given: M.
   journal: J. Lond. Math. Soc. (2)
   doi: 10.1112/jlms/jdv064
   id: BJT16
@@ -181,7 +181,7 @@
   mr: 3455785
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   journal: Adv. Math.
   doi: 10.1016/j.aim.2014.12.018
   id: Jas15
@@ -197,7 +197,7 @@
   mr: 3311756
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   journal: Int. Math. Res. Not. IMRN
   doi: 10.1093/imrn/rnu163
   id: Jas15a
@@ -212,7 +212,7 @@
   mr: 3428959
 - author:
   - family: Jasso
-    given: Gustavo
+    given: G.
   journal: J. Algebra
   doi: 10.1016/j.jalgebra.2014.03.029
   id: Jas14
