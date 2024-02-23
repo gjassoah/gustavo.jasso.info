@@ -143,10 +143,9 @@
     given: J.
   url: "https://arxiv.org/abs/1604.03473"
   id: Naive
-  proceedings: arXiv:1604.03473 [math.RT]
-  note: Not intended for publication.
-  title: The naive approach for constructing the derived category of a
-    _d_-abelian category fails
+  arXiv: 1604.03473 [math.RT]
+  note: not intended for publication
+  title: The naive approach for constructing the derived category of a _d_-abelian category fails
   type: article-journal
   notpub: true
 - author:
