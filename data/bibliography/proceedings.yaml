@@ -1,0 +1,187 @@
+- author:
+  - family: Jasso
+    given: Gustavo
+  collection: Oberwolfach Rep.
+  proceedings: "Representation theory of quivers and
+    finite-dimensional algebras: Abstracts from the workshop held
+    January 12--18, 2023"
+  doi: 10.14760/OWR-2023-7
+  editor:
+  - family: Amiot
+    given: Claire
+  - family: Crawley-Boevey
+    given: William
+  - family: Iyama
+    given: Osamu
+  - family: Schröer
+    given: Jan
+  id: MR
+  issued: to appear
+  title: Derived Endomorphism Algebras in Higher Auslander--Reiten
+    Theory
+  type: chapter
+  url: "https://doi.org/10.14760/OWR-2023-7"
+  errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
+- author:
+  - family: Jasso
+    given: Gustavo
+  - family: Keller
+    given: Bernhard
+  - family: Muro
+    given: Fernando
+  id: JKM22-2
+  issued: 2023
+  note: "contribution to the proceedings of the Abel Symposium 2022:
+    Triangulated categories in representation theory and beyond"
+  title: The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama
+    Correspondence
+  type: webpage
+  url: "https://arxiv.org/abs/2301.11593"
+- author:
+  - family: Jasso
+    given: Gustavo
+  collectionNo: 1
+  collection: Oberwolfach Rep.
+  proceedings: "Representation theory of quivers and finite
+    dimensional algebras: Abstracts from the workshop held January
+    19--25, 2020"
+  doi: 10.4171/owr/2020/3
+  editor:
+  - family: Amiot
+    given: Claire
+  - family: Crawley-Boevey
+    given: William
+  - family: Iyama
+    given: Osamu
+  - family: Krause
+    given: Henning
+  id: MR4214785
+  issn: 1660-8933
+  issued: 2020
+  page: 143-230
+  title: The symplectic geometry of higher Auslander algebras, an
+    overview
+  type: chapter
+  url: "https://doi.org/10.4171/owr/2020/3"
+  volume: 17
+- author:
+  - family: Jasso
+    given: Gustavo
+  collection: Contemp. Math.
+  proceedings: Representation theory and beyond
+  doi: 10.1090/conm/758/15238
+  editor:
+  - family: Šťovíček
+    given: Jan
+  - family: Trlifaj
+    given: Jan
+  id: MR4186973
+  issued: 2020
+  keyword: proceedings
+  page: 249-265
+  publisher: Amer. Math. Soc., Providence, RI
+  title: Higher Auslander algebras of type $A$ and the higher Waldhausen
+    $S$-constructions
+  type: chapter
+  url: "https://doi.org/10.1090/conm/758/15238"
+  volume: 758
+- author:
+  - family: Jasso
+    given: Gustavo
+  - family: Külshammer
+    given: Julian
+  collection: Contemp. Math.
+  proceedings: Representations of algebras
+  doi: 10.1090/conm/705/14191
+  editor:
+  - family: Leuschke
+    given: Graham J.
+  - family: Frauke Bleher
+    given: Frauke
+  - family: Schiffler
+    given: Ralf
+  - family: Zacharia
+    given: Dan
+  id: MR3799490
+  issued: 2018
+  keyword: proceedings
+  page: 79-98
+  publisher: Amer. Math. Soc., Providence, RI
+  title: Nakayama-type phenomena in higher Auslander-Reiten theory
+  type: chapter
+  url: "https://doi.org/10.1090/conm/705/14191"
+  volume: 705
+- author:
+  - family: Jasso
+    given: Gustavo
+  collectionNo: 1
+  collection: Oberwolfach Rep.
+  proceedings: "Representation Theory of Quivers and Finite
+    Dimensional Algebras: Abstracts from the workshop held February
+    19--25, 2017"
+  doi: 10.4171/OWR/2017/12
+  editor:
+  - family: Crawley-Boevey
+    given: William
+  - family: Iyama
+    given: Osamu
+  - family: Krause
+    given: Henning
+  id: MR3757080
+  issn: 1660-8933
+  issued: 2017
+  keyword: proceedings
+  page: 591-681
+  title: Spherical objects in higher Auslander--Reiten theory (joint
+    work with J. Külshammer)
+  type: chapter
+  url: "https://doi.org/10.4171/OWR/2017/12"
+  volume: 14
+- author:
+  - family: Jasso
+    given: Gustavo
+  - family: Külshammer
+    given: Julian
+  url: "https://arxiv.org/abs/1604.03473"
+  id: Naive
+  proceedings: arXiv:1604.03473 [math.RT]
+  note: Not intended for publication.
+  title: The naive approach for constructing the derived category of a
+    $d$-abelian category fails
+  type: article-journal
+  notpub: true
+- author:
+  - family: Jasso
+    given: Gustavo
+  proceedings: Proceedings of the 16th Workshop on Represenation
+    Theory of Algebraic Groups and Quantum Groups
+  id: 16RAQ
+  issued: 2013
+  keyword: proceedings
+  page: 157-160
+  title: Reduction of $\tau$-tilting modules and torsion classes
+  type: paper-conference
+- author:
+  - family: Jasso
+    given: Gustavo
+  proceedings: Proceedings of the 45th Symposium on Ring Theory and
+    Representation Theory
+  id: 45SRTRT
+  issued: 2012
+  keyword: proceedings
+  page: 61-68
+  title: Cluster-tilted algebras of canonical type and quivers with
+    potential
+  type: paper-conference
+- author:
+  - family: Jasso
+    given: Gustavo
+  proceedings: Proceedings of the 15th Workshop on Represenation
+    Theory of Algebraic Groups and Quantum Groups
+  id: 15RAQ
+  issued: 2012
+  keyword: proceedings
+  page: 13-18
+  title: Cluster-tilted algebras of canonical type and graded quivers
+    with potential
+  type: paper-conference

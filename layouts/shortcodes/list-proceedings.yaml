@@ -1,0 +1,3 @@
+{{ range .Site.Data.bibliography.proceedings }}1. {{ range .author }}{{ .family }}, {{ .given }}, {{ end }} [{{ .title }}]({{ .url }}). {{ if .notpub }}{{ else }}In: {{ end }}{{ if .editor }}{{ range .editor }}{{ .family }}, {{ .given }}, {{ end }} \(.eds\).{{ end }} {{ .proceedings }}. {{ if .collection }} {{ .collection }}{{ end }} {{ .volume }} {{ if .issued }}\({{ .issued }}\){{ end }} {{ if .issue }}{{ .issue}},{{ end }} {{ .page }}{{ if .arXiv }} | [arXiv](https://arxiv.org/abs/{{ .arXiv }}){{ end }}{{ if .mr }} | [MathSciNet](http://www.ams.org/mathscinet-getitem?mr={{ .mr }}){{ end }} {{ if .url2 }} | [PDF \(free access\)]({{ .url2 }}){{ end }}{{ if .errata }}\
+_Errata:_ {{ .errata }}{{ end }}
+{{ end }}{. reversed="reversed"}

@@ -1,0 +1,249 @@
+- author:
+  - family: Jasso
+    given: Gustavo
+  id: Jas23
+  issued: 2023
+  journal: Accepted for publication in C. R. Math. Acad. Sci. Paris
+  title: Derived equivalences of upper-triangular ring spectra via lax
+    limits
+  type: webpage
+  url: "https://arxiv.org/abs/2306.12396"
+- author:
+  - family: Dyckerhoff
+    given: Tobias
+  - family: Jasso
+    given: Gustavo
+  - family: Lekili
+    given: Yankı
+  journal: Forum Math. Sigma
+  doi: 10.1017/fms.2021.2
+  id: DJL21
+  issued: 2021
+  page: Paper No. e10, 49
+  title: "The symplectic geometry of higher Auslander algebras:
+    symmetric products of disks"
+  title-short: The symplectic geometry of higher Auslander algebras
+  type: article-journal
+  url: "https://doi.org/10.1017/fms.2021.2"
+  volume: 9
+  arXiv: 1911.11719
+  mr: 4211943
+- author:
+  - family: Dyckerhoff
+    given: Tobias
+  - family: Jasso
+    given: Gustavo
+  - family: Walde
+    given: Tashi
+  journal: Int. Math. Res. Not. IMRN
+  doi: 10.1093/imrn/rnz194
+  id: DJW21
+  issn: 1073-7928
+  issue: 20
+  issued: 2021
+  page: 15733-15745
+  title: Generalised BGP reflection functors via the Grothendieck
+    construction
+  type: article-journal
+  url: "https://doi.org/10.1093/imrn/rnz194"
+  arXiv: 1901.06993
+  mr: 4329880
+  url2: http://track.smtpsendmail.com/9032119/c?p=1WthZagbtk2rLtdFP9NFmVM9L5JySm3LFlZ6MjtSbT9mIAdH96Rn7N7MWh7e_Yw5Bc6lmUPJ-Q00PRufvpkErGbRJ-c2mU-o4lvoJakbMrCd40MQoJedKq8YFSIuk-fiCk4VoShN2PlKFPp6MR-2Ky0d4HNX8vEhffcd1GTC0Mek6kDHcsUegDYlhHVDOe7WEma1VEP-IAGoB0M-RD0v2EDDXC0zroAJawj-rPd2aXH2Ug2GKmHyv6EE3SI_WxO6
+- author:
+  - family: Dyckerhoff
+    given: Tobias
+  - family: Jasso
+    given: Gustavo
+  - family: Walde
+    given: Tashi
+  journal: Adv. Math.
+  doi: 10.1016/j.aim.2019.106762
+  id: DJW19b
+  issn: 0001-8708
+  issued: 2019
+  page: 106762
+  title: Simplicial structures in higher Auslander--Reiten theory
+  type: article-journal
+  url: "https://doi.org/10.1016/j.aim.2019.106762"
+  volume: 355
+  arXiv: 1811.02461
+  mr: 3994443
+  errata: "In Remark 2.29, the symbol S_{m}^{n+1} should be be replaced by S^{n+1}."
+- author:
+  - family: Jasso
+    given: Gustavo
+  - family: Külshammer
+    given: Julian
+  journal: Adv. Math.
+  doi: 10.1016/j.aim.2019.05.026
+  id: JK19a
+  issn: 0001-8708
+  issued: 2019
+  page: 1139-1200
+  title: "Higher Nakayama algebras I: Construction: with an appendix by
+    J. Külshammer and Ch. Psaroudakis and an appendix by S. Kvamme"
+  title-short: Higher Nakayama algebras I
+  type: article-journal
+  url: "https://doi.org/10.1016/j.aim.2019.05.026"
+  volume: 351
+  arXiv: 1604.03500
+  mr: 3959141
+- author:
+  - family: Jasso
+    given: Gustavo
+  - family: Kvamme
+    given: Sondre
+  journal: Bull. Lond. Math. Soc.
+  doi: 10.1112/blms.12204
+  id: JK19
+  issn: 0024-6093
+  issue: 1
+  issued: 2019
+  page: 1-24
+  title: An introduction to higher Auslander-Reiten theory
+  type: article-journal
+  url: "https://doi.org/10.1112/blms.12204"
+  volume: 51
+  arXiv: 1610.05458
+  mr: 3919557
+- author:
+  - family: Demonet
+    given: Laurent
+  - family: Iyama
+    given: Osamu
+  - family: Jasso
+    given: Gustavo
+  journal: Int. Math. Res. Not. IMRN
+  doi: 10.1093/imrn/rnx135
+  id: DIJ19
+  issn: 1073-7928
+  issue: 3
+  issued: 2019
+  page: 852-892
+  title: $\tau$-tilting finite algebras, bricks, and $g$-vectors
+  type: article-journal
+  url: "https://doi.org/10.1093/imrn/rnx135"
+  arXiv: 1503.00285
+  mr: 3910476
+- author:
+  - family: Iyama
+    given: Osamu
+  - family: Jasso
+    given: Gustavo
+  journal: Algebr. Represent. Theory
+  doi: 10.1007/s10468-016-9645-0
+  id: IJ17
+  issn: 1386-923X
+  issue: 2
+  issued: 2017
+  page: 335-354
+  title: Higher Auslander correspondence for dualizing $R$-varieties
+  type: article-journal
+  url: "https://doi.org/10.1007/s10468-016-9645-0"
+  volume: 20
+  arXiv: 1602.00127
+  mr: 3638352
+- author:
+  - family: Jasso
+    given: Gustavo
+  journal: Math. Z.
+  doi: 10.1007/s00209-016-1619-8
+  id: Jas16
+  issn: 0025-5874
+  issue: 3-4
+  issued: 2016
+  page: 703-759
+  title: $n$-abelian and $n$-exact categories
+  type: article-journal
+  volume: 283
+  arXiv: 1405.7805
+  mr: 3519980
+  errata: "In Lemma 3.22, the adverbs 'contravariantly' and 'covariantly' should be exchanged in items (vi) and (vii)."
+- author:
+  - family: Bergh
+    given: Petter Andreas
+  - family: Jasso
+    given: Gustavo
+  - family: Thaule
+    given: Marius
+  journal: J. Lond. Math. Soc. (2)
+  doi: 10.1112/jlms/jdv064
+  id: BJT16
+  issn: 0024-6107
+  issue: 1
+  issued: 2016
+  page: 123-142
+  title: Higher $n$-angulations from local rings
+  type: article-journal
+  url: "http://dx.doi.org/10.1112/jlms/jdv064"
+  volume: 93
+  arXiv: 1311.2089
+  mr: 3455785
+- author:
+  - family: Jasso
+    given: Gustavo
+  journal: Adv. Math.
+  doi: 10.1016/j.aim.2014.12.018
+  id: Jas15
+  issn: 0001-8708
+  issued: 2015
+  page: 1-31
+  title: $\tau^2$-stable tilting complexes over weighted projective
+    lines
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.aim.2014.12.018"
+  volume: 273
+  arXiv: 1402.6036
+  mr: 3311756
+- author:
+  - family: Jasso
+    given: Gustavo
+  journal: Int. Math. Res. Not. IMRN
+  doi: 10.1093/imrn/rnu163
+  id: Jas15a
+  issn: 1073-7928
+  issue: 16
+  issued: 2015
+  page: 7190-7237
+  title: Reduction of $\tau$-tilting modules and torsion pairs
+  type: article-journal
+  url: "http://dx.doi.org/10.1093/imrn/rnu163"
+  arXiv: 1302.2709
+  mr: 3428959
+- author:
+  - family: Jasso
+    given: Gustavo
+  journal: J. Algebra
+  doi: 10.1016/j.jalgebra.2014.03.029
+  id: Jas14
+  issn: 0021-8693
+  issued: 2014
+  page: 148-161
+  title: The extended affine Lie algebra associated with a connected
+    non-negative unit form
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.jalgebra.2014.03.029"
+  volume: 409
+  arXiv: 1209.4380
+  mr: 3198837
+- author:
+  - family: Barot
+    given: M.
+  - family: Geiss
+    given: Ch.
+  - family: Jasso
+    given: G.
+  journal: J. Pure Appl. Algebra
+  doi: 10.1016/j.jpaa.2012.12.012
+  id: BGJ13
+  issn: 0022-4049
+  issue: 10
+  issued: 2013
+  page: 1825-1837
+  title: "Tubular cluster algebras II: Exponential growth"
+  title-short: Tubular cluster algebras II
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.jpaa.2012.12.012"
+  volume: 217
+  arXiv: 1202.4816
+  mr: 3053518
