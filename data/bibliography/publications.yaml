@@ -2,12 +2,11 @@
   - family: Jasso
     given: G.
   id: Jas23
-  issued: 2023
   journal: Accepted for publication in C. R. Math. Acad. Sci. Paris
   title: Derived equivalences of upper-triangular ring spectra via lax
     limits
-  type: webpage
-  url: "https://arxiv.org/abs/2306.12396"
+  type: webpage  
+  arXiv: 2306.12396
 - author:
   - family: Dyckerhoff
     given: T.
@@ -80,8 +79,8 @@
   issn: 0001-8708
   issued: 2019
   page: 1139-1200
-  title: "Higher Nakayama algebras I: Construction: with an appendix by
-    J. Külshammer and Ch. Psaroudakis and an appendix by S. Kvamme"
+  title: "Higher Nakayama algebras I: Construction"
+  subtitle: with an appendix by J. Külshammer and Ch. Psaroudakis and an appendix by S. Kvamme
   title-short: Higher Nakayama algebras I
   type: article-journal
   url: "https://doi.org/10.1016/j.aim.2019.05.026"
@@ -120,7 +119,7 @@
   issue: 3
   issued: 2019
   page: 852-892
-  title: $\tau$-tilting finite algebras, bricks, and $g$-vectors
+  title: _τ_-tilting finite algebras, bricks, and _g_-vectors
   type: article-journal
   url: "https://doi.org/10.1093/imrn/rnx135"
   arXiv: 1503.00285
@@ -137,7 +136,7 @@
   issue: 2
   issued: 2017
   page: 335-354
-  title: Higher Auslander correspondence for dualizing $R$-varieties
+  title: Higher Auslander correspondence for dualizing _R_-varieties
   type: article-journal
   url: "https://doi.org/10.1007/s10468-016-9645-0"
   volume: 20
@@ -153,11 +152,12 @@
   issue: 3-4
   issued: 2016
   page: 703-759
-  title: $n$-abelian and $n$-exact categories
+  title: _n_-abelian and _n_-exact categories
   type: article-journal
   volume: 283
   arXiv: 1405.7805
   mr: 3519980
+  url: https://doi.org/10.1007/s00209-016-1619-8
   errata: "In Lemma 3.22, the adverbs 'contravariantly' and 'covariantly' should be exchanged in items (vi) and (vii)."
 - author:
   - family: Bergh
@@ -173,7 +173,7 @@
   issue: 1
   issued: 2016
   page: 123-142
-  title: Higher $n$-angulations from local rings
+  title: Higher _n_-angulations from local rings
   type: article-journal
   url: "http://dx.doi.org/10.1112/jlms/jdv064"
   volume: 93
@@ -188,7 +188,7 @@
   issn: 0001-8708
   issued: 2015
   page: 1-31
-  title: $\tau^2$-stable tilting complexes over weighted projective
+  title: _τ²_-stable tilting complexes over weighted projective
     lines
   type: article-journal
   url: "http://dx.doi.org/10.1016/j.aim.2014.12.018"
@@ -205,7 +205,7 @@
   issue: 16
   issued: 2015
   page: 7190-7237
-  title: Reduction of $\tau$-tilting modules and torsion pairs
+  title: Reduction of _τ_-tilting modules and torsion pairs
   type: article-journal
   url: "http://dx.doi.org/10.1093/imrn/rnu163"
   arXiv: 1302.2709

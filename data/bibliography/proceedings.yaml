@@ -30,13 +30,12 @@
   - family: Muro
     given: F.
   id: JKM22-2
-  issued: 2023
-  note: "contribution to the proceedings of the Abel Symposium 2022:
-    Triangulated categories in representation theory and beyond"
-  title: The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama
-    Correspondence
+  issued: to appear
+  proceedings: "The Abel Symposium 2022: Triangulated categories in representation theory and beyond"
+  title: The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence
   type: webpage
   url: "https://arxiv.org/abs/2301.11593"
+  arXiv: 2301.11593
 - author:
   - family: Jasso
     given: G.
@@ -80,8 +79,8 @@
   keyword: proceedings
   page: 249-265
   publisher: Amer. Math. Soc., Providence, RI
-  title: Higher Auslander algebras of type $A$ and the higher Waldhausen
-    $S$-constructions
+  title: Higher Auslander algebras of type _A_ and the higher Waldhausen
+    _S_-constructions
   type: chapter
   url: "https://doi.org/10.1090/conm/758/15238"
   volume: 758
@@ -147,7 +146,7 @@
   proceedings: arXiv:1604.03473 [math.RT]
   note: Not intended for publication.
   title: The naive approach for constructing the derived category of a
-    $d$-abelian category fails
+    _d_-abelian category fails
   type: article-journal
   notpub: true
 - author:
@@ -159,7 +158,7 @@
   issued: 2013
   keyword: proceedings
   page: 157-160
-  title: Reduction of $\tau$-tilting modules and torsion classes
+  title: Reduction of _τ_-tilting modules and torsion classes
   type: paper-conference
 - author:
   - family: Jasso
