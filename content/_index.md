@@ -38,8 +38,7 @@ You are welcome to inquire about upcoming advertisements of positions in the Alg
 
 _Please do not send me unsolicited application materials. For security reasons, **I will not open unsolicited files.**_
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ## Contact details
 
@@ -63,8 +62,7 @@ Room MH:406
 Centre for Mathematical Sciences
 Sölvegatan 18, 221 00 Lund, Sweden
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ## Curriculum vitae
 
@@ -98,8 +96,7 @@ Including my student years, I have been affiliated to the following institutions
 
 My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ## Activities
 
@@ -119,8 +116,7 @@ I am a member of the [Network on Silting Theory](https://networkonsilting.wordpr
 
 Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ## Research
 
@@ -171,15 +167,13 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 1. Jasso, G.: Cluster-tilted algebras of canonical type and graded quivers with potential. In: Proceedings of the 15th Workshop on Represenation Theory of Algebraic Groups and Quantum Groups. pp. 13–18 (2012)
 {. reversed="reversed"}
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ### Collaborators
 
 [Michael Barot](https://www.matem.unam.mx/~barot/) | [Petter A. Bergh](https://www.ntnu.edu/employees/bergh) | [Laurent Demonet](http://www.math.nagoya-u.ac.jp/~demonet/) | [Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/) | [Christof Geiß](https://www.matem.unam.mx/~christof/) | [Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/) | [Julian Külshammer](https://katalog.uu.se/profile/?id=N18-1115) | [Sondre Kvamme](https://folk.ntnu.no/sondkv/) | [Yanki Lekili](https://lekili.duckdns.org/) | [Fernando Muro](https://personal.us.es/fmuro/) | [Yann Palu](https://www.lamfa.u-picardie.fr/palu/) | [Marius Thaule](https://www.ntnu.edu/employees/marius.thaule) | [Tashi Walde](http://www.math.uni-bonn.de/people/twalde/)
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ## Resources
 
@@ -211,8 +205,7 @@ o open/download the corresponding PDF file.
 * [tau-tilting reduction](https://lu.box.com/s/933nnxm8d0ppb4l7kpnjyl536xaw48ak). XV International Conference on Representations of Algebras (ICRA), Bielefeld, Germany (2012).
 * [The extended affine Lie algebra associated with a connected non-negative unit form](https://lu.box.com/s/2o3o2ac63aepns6fe71tth3v31nrbklw). XIV International Conference on Representations of Algebras (ICRA), Tokyo, Japan (2010).
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}
 
 ## Teaching
 
@@ -240,25 +233,11 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 
 #### Ph.D. students
 
-* [Marvin Plogmann](https://www.lunduniversity.lu.se/lucat/user/3ccc754605b71210a9c90ff0c99facba) (since January 2024).
-* [Jan Henrik Thomm](https://www.lunduniversity.lu.se/lucat/user/121156b806646ca954f2db51eae817a1) (since October 2022).
+{{% list-students level="phd" %}}
 
 #### Master students
 
-1. Eric Dannetun, _Quotients of triangulated categories_ (in progress).
-1. Daniel Falkowski, _Tensor-triangular geometry_ (in progress).
-2. Carl-Fredrik Lidgren, _t-structures & recollements_ (Oct 2023).
-1. Martin Böhm, _Cluster algebras and knot polynomials_ (Nov 2021).
-1. Jona Klemenc, _The stable hull of exact infinity-categories_ (Aug 2020).  
-   [arXiv preprint](https://arxiv.org/abs/2010.04957) | [Publication](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php)
-1. Calvin Pfeifer, _Torsion classes and wide subcategories_ (Jan 2020).  
-   _Afterwards:_ PhD position with Prof. Dr. Christof Geiss in Odense.  
-   [arXiv preprint](https://arxiv.org/abs/1905.01148) | [Publication](https://link.springer.com/article/10.1007/s10468-021-10079-1)
-1. Jan-Paul Lerch, _Bijections in tau-tilting theory_ (Oct 2019).  
-   _Afterwards:_ PhD position with Prof. Dr. Henning Krause in Bielefeld.
-1. Aran Tattar, _On Gorenstein k-categories_ (Apr 2018).  
-   _Afterwards:_ PhD position with Prof. Dr. Sibylle Schroll in Leicester.
-{. reversed="reversed"}
+{{% list-students level="msc" %}}
 
 ##### Remark
 
@@ -266,23 +245,10 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 
 #### Bachelor students
 
-1. Arthur Faxén, _The Barr-Beck Mondadicity Theorem_ (in progress).
-1. Bror Persson, _Introduction to Auslander-Reiten Theory_ (in progress).
-1. Sebastian Westerlund, _Hall algebras_ (in progress).
-1. Erik Christmansson, _Gentle algebras_ (in progress).
-1. Diego González Pérez, _Abelian categories_ (in progress).
-1. Yijia Zeng, _Frieze Patterns_ (Feb 2023).
-1. Felix Anton Brandt, _Decomposition theorems for persistence modules_ (Feb 2021).
-1. Tanja Helme, _Cluster-Algebren und Kettenbrüche_ (Sep 2020).
-1. George Tyriard, _A Morita-theoretic proof of the Dold-Kan correspondence_ (Sep 2020).
-1. Aaron Wild, _Lurie’s differential graded nerve is a right Quillen functor_ (Sep 2020).
-1. Roman Höffken, _Morita Theorie für Ringe und Kategorien_ (Jan 2020).
-1. Vincent Siebler, _The derived category of a gentle algebra_ (Dec 2019).
-{. reversed="reversed"}
+{{% list-students level="bsc" %}}
 
 ##### Remark 
 
 Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
-[Back to top &uarr;](#)
-{.back-to-top}
+{{% back-to-top %}}

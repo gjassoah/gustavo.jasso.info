@@ -1,0 +1,3 @@
+{{ $level := .Get "level" }}{{ range $students := ( index .Site.Data.students $level) }}1. {{ if .website }}[{{ .name }}]({{ .website }}){{ else }}{{ .name }}{{ end }}{{ if .title }}, _{{ .title }}_{{ end }} ({{ .year }}).
+{{ end }}{. reversed="reversed"}
+
