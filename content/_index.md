@@ -26,7 +26,7 @@ Visit my [Profile at Lund University's Research Portal](https://portal.research.
 
 ### Academical profiles
 
-[arXiv.org](https://arxiv.org/a/jasso_g_1.html) | [Google Scholar](https://scholar.google.com/citations?user=xWC_njoAAAAJ) | [MathSciNet](https://www.ams.org/mathscinet/search/author.html?mrauthid=1019284) | [ORCID](http://orcid.org/0000-0002-9449-0033) | [Web of Science](https://www.webofscience.com/wos/author/record/GRR-9565-2022) | [zbMATH Open](https://zbmath.org/authors/jasso.gustavo)
+{{% list-profiles %}}
 
 ### Open positions
 
