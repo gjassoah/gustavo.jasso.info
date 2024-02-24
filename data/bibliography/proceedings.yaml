@@ -79,11 +79,11 @@
   keyword: proceedings
   page: 249-265
   publisher: Amer. Math. Soc., Providence, RI
-  title: Higher Auslander algebras of type _A_ and the higher Waldhausen
-    _S_-constructions
+  title: Higher Auslander algebras of type _A_ and the higher Waldhausen _S_-constructions
   type: chapter
   url: "https://doi.org/10.1090/conm/758/15238"
   volume: 758
+  arXiv: 1904.10163
 - author:
   - family: Jasso
     given: G.
@@ -171,6 +171,7 @@
   title: Cluster-tilted algebras of canonical type and quivers with
     potential
   type: paper-conference
+  url: "https://ring-theory-japan.com/ring/oldmeeting/2012/report2012/11.pdf/1000"
 - author:
   - family: Jasso
     given: G.
