@@ -22,6 +22,7 @@
   type: chapter
   url: "https://doi.org/10.14760/OWR-2023-7"
   errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
+  url2: pdf/mfo/OWR-2023-7-jasso.pdf
 - author:
   - family: Jasso
     given: G.
@@ -63,6 +64,7 @@
   type: chapter
   url: "https://doi.org/10.4171/owr/2020/3"
   volume: 17
+  url2: pdf/mfo/OWR-2020-3-jasso.pdf
 - author:
   - family: Jasso
     given: G.
@@ -136,6 +138,7 @@
   type: chapter
   url: "https://doi.org/10.4171/OWR/2017/12"
   volume: 14
+  url2: pdf/mfo/OWR-2017-12-jasso.pdf
 - author:
   - family: Jasso
     given: G.
@@ -151,7 +154,7 @@
 - author:
   - family: Jasso
     given: G.
-  proceedings: Proceedings of the 16th Workshop on Represenation
+  proceedings: Proceedings of the 16th Workshop on Representation
     Theory of Algebraic Groups and Quantum Groups
   id: 16RAQ
   issued: 2013
@@ -175,7 +178,7 @@
 - author:
   - family: Jasso
     given: G.
-  proceedings: Proceedings of the 15th Workshop on Represenation
+  proceedings: Proceedings of the 15th Workshop on Representation
     Theory of Algebraic Groups and Quantum Groups
   id: 15RAQ
   issued: 2012
