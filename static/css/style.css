@@ -188,6 +188,9 @@ code {
         color: white;
         background-color: rgb(76,76,68);
     }
+    footer a:hover {
+        color: white;
+    }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -195,6 +198,9 @@ code {
         color: white;
         background-color: rgb(76,76,68);
     }
+    footer a:hover {
+        color: white;
+   }
 }
 
 /*
