@@ -1,2 +1,4 @@
-{{ $level := .Get "level" }}{{ range ( index .Site.Data.students $level) }}1. {{ if .website }}[{{ .name }}]({{ .website }}){{ else }}{{ .name }}{{ end }}{{ if .title }}, {{ .title }}{{ end }} ({{ .year }}).
+{{ $level := .Get "level" }}{{ range ( index .Site.Data.students $level) }}1. {{ if .website }}[{{ .name }}]({{ .website }}){{ else }}{{ .name }}{{ end }}{{ if .title }}, {{ .title }}{{ end }} ({{ .year }}).{{ if .afterwards }}\
+_Afterwards:_ {{ .afterwards }}{{ end }}{{ if .arXiv }}\
+[arXiv](https://arxiv.org/abs/{{ .arXiv }}){{ end }}{{ if .url }} | [Publication]({{ .url }}){{ end }}
 {{ end }}{. reversed="reversed"}

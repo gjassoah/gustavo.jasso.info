@@ -17,15 +17,15 @@
 - name: Jona Klemenc
   title: The stable hull of exact infinity-categories
   year: 2020
-  arXiv: https://arxiv.org/abs/2010.04957
-  publicaiton: https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php
+  arXiv: 2010.04957
+  url: https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0002/a009/index.php
 
 - name: Calvin Pfeifer
   title: Torsion classes and wide subcategories
   year: 2020
   afterwards: PhD position with Prof. Dr. Christof Geiss in Odense.
-  arXiv: https://arxiv.org/abs/1905.01148
-  publication: https://link.springer.com/article/10.1007/s10468-021-10079-1
+  arXiv: 1905.01148
+  url: https://link.springer.com/article/10.1007/s10468-021-10079-1
 
 - name: Jan-Paul Lerch
   title: Bijections in tau-tilting theory
