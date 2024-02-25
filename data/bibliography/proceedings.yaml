@@ -19,7 +19,7 @@
   issued: to appear
   title: Derived Endomorphism Algebras in Higher Auslander--Reiten
     Theory
-  type: chapter
+  type: proceedings
   url: "https://doi.org/10.14760/OWR-2023-7"
   errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
   url2: pdf/mfo/OWR-2023-7-jasso.pdf
@@ -31,12 +31,12 @@
   - family: Muro
     given: F.
   id: JKM22-2
-  issued: to appear
+  status: "to appear in the proceedings of the Abel Symposium 2022: Triangulated categories in representation theory and beyond"
   proceedings: "The Abel Symposium 2022: Triangulated categories in representation theory and beyond"
   title: The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence
-  type: webpage
+  type: preprint
   url: "https://arxiv.org/abs/2301.11593"
-  arXiv: 2301.11593
+  arXiv: 2301.11593 [math.AG]
 - author:
   - family: Jasso
     given: G.
@@ -61,7 +61,7 @@
   page: 143-230
   title: The symplectic geometry of higher Auslander algebras, an
     overview
-  type: chapter
+  type: proceedings
   url: "https://doi.org/10.4171/owr/2020/3"
   volume: 17
   url2: pdf/mfo/OWR-2020-3-jasso.pdf
@@ -82,7 +82,7 @@
   page: 249-265
   publisher: Amer. Math. Soc., Providence, RI
   title: Higher Auslander algebras of type _A_ and the higher Waldhausen _S_-constructions
-  type: chapter
+  type: proceedings
   url: "https://doi.org/10.1090/conm/758/15238"
   volume: 758
   arXiv: 1904.10163
@@ -109,7 +109,7 @@
   page: 79-98
   publisher: Amer. Math. Soc., Providence, RI
   title: Nakayama-type phenomena in higher Auslander-Reiten theory
-  type: chapter
+  type: proceedings
   url: "https://doi.org/10.1090/conm/705/14191"
   volume: 705
 - author:
@@ -135,7 +135,7 @@
   page: 591-681
   title: Spherical objects in higher Auslander--Reiten theory (joint
     work with J. Külshammer)
-  type: chapter
+  type: proceedings
   url: "https://doi.org/10.4171/OWR/2017/12"
   volume: 14
   url2: pdf/mfo/OWR-2017-12-jasso.pdf
@@ -147,9 +147,9 @@
   url: "https://arxiv.org/abs/1604.03473"
   id: Naive
   arXiv: 1604.03473 [math.RT]
-  note: not intended for publication
+  status: not intended for publication
   title: The naive approach for constructing the derived category of a _d_-abelian category fails
-  type: article-journal
+  type: preprint
   notpub: true
 - author:
   - family: Jasso
@@ -161,7 +161,7 @@
   keyword: proceedings
   page: 157-160
   title: Reduction of _τ_-tilting modules and torsion classes
-  type: paper-conference
+  type: proceedings
 - author:
   - family: Jasso
     given: G.
@@ -173,7 +173,7 @@
   page: 61-68
   title: Cluster-tilted algebras of canonical type and quivers with
     potential
-  type: paper-conference
+  type: proceedings
   url: "https://ring-theory-japan.com/ring/oldmeeting/2012/report2012/11.pdf/1000"
 - author:
   - family: Jasso
@@ -186,4 +186,4 @@
   page: 13-18
   title: Cluster-tilted algebras of canonical type and graded quivers
     with potential
-  type: paper-conference
+  type: proceedings

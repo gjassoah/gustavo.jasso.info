@@ -122,13 +122,13 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ### Preprints
 
-{{% list-preprints %}}
+{{% list-bib bib="preprints" %}}
 
 {{% back-to-top %}}
 
 ### Publications
 
-{{% list-publications %}}
+{{% list-bib bib="publications" %}}
 
 ##### Remarks
 
@@ -140,7 +140,7 @@ Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/ind
 
 ### Proceedings, extended abstracts and other writings
 
-{{% list-proceedings %}}
+{{% list-bib bib="proceedings" %}}
 
 {{% back-to-top %}}
 

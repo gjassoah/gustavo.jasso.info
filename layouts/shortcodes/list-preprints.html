@@ -1,2 +1,0 @@
-{{ range .Site.Data.bibliography.preprints }}1. {{ range .author }}{{ .family }}, {{ .given }}, {{ end }} _{{ .title }}_{{ if .subtitle }}, {{ .subtitle }}{{ end }}. [arXiv:{{ .arXiv }}]({{ .url }}){{ if .submitted }} \(submitted\){{ end }}.
-{{ end }}{. reversed="reversed"}

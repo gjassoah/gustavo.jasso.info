@@ -2,11 +2,12 @@
   - family: Jasso
     given: G.
   id: Jas23
-  journal: Accepted for publication in C. R. Math. Acad. Sci. Paris
+  status: accepted for publication in C. R. Math. Acad. Sci. Paris
   title: Derived equivalences of upper-triangular ring spectra via lax
     limits
-  type: webpage
-  arXiv: 2306.12396
+  type: preprint
+  url: "https://arxiv.org/abs/2306.12396"
+  arXiv: 2306.12396 [math.RT]
 - author:
   - family: Dyckerhoff
     given: T.
@@ -22,7 +23,7 @@
   title: "The symplectic geometry of higher Auslander algebras:
     symmetric products of disks"
   title-short: The symplectic geometry of higher Auslander algebras
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1017/fms.2021.2"
   volume: 9
   arXiv: 1911.11719
@@ -43,7 +44,7 @@
   page: 15733-15745
   title: Generalised BGP reflection functors via the Grothendieck
     construction
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1093/imrn/rnz194"
   arXiv: 1901.06993
   mr: 4329880
@@ -61,7 +62,7 @@
   issued: 2019
   page: 106762
   title: Simplicial structures in higher Auslander--Reiten theory
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1016/j.aim.2019.106762"
   volume: 355
   arXiv: 1811.02461
@@ -81,7 +82,7 @@
   title: "Higher Nakayama algebras I: Construction"
   subtitle: with an appendix by J. Külshammer and Ch. Psaroudakis and an appendix by S. Kvamme
   title-short: Higher Nakayama algebras I
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1016/j.aim.2019.05.026"
   volume: 351
   arXiv: 1604.03500
@@ -99,7 +100,7 @@
   issued: 2019
   page: 1-24
   title: An introduction to higher Auslander-Reiten theory
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1112/blms.12204"
   volume: 51
   arXiv: 1610.05458
@@ -119,7 +120,7 @@
   issued: 2019
   page: 852-892
   title: _τ_-tilting finite algebras, bricks, and _g_-vectors
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1093/imrn/rnx135"
   arXiv: 1503.00285
   mr: 3910476
@@ -136,7 +137,7 @@
   issued: 2017
   page: 335-354
   title: Higher Auslander correspondence for dualizing _R_-varieties
-  type: article-journal
+  type: article
   url: "https://doi.org/10.1007/s10468-016-9645-0"
   volume: 20
   arXiv: 1602.00127
@@ -152,7 +153,7 @@
   issued: 2016
   page: 703-759
   title: _n_-abelian and _n_-exact categories
-  type: article-journal
+  type: article
   volume: 283
   arXiv: 1405.7805
   mr: 3519980
@@ -173,7 +174,7 @@
   issued: 2016
   page: 123-142
   title: Higher _n_-angulations from local rings
-  type: article-journal
+  type: article
   url: "http://dx.doi.org/10.1112/jlms/jdv064"
   volume: 93
   arXiv: 1311.2089
@@ -189,7 +190,7 @@
   page: 1-31
   title: _τ²_-stable tilting complexes over weighted projective
     lines
-  type: article-journal
+  type: article
   url: "http://dx.doi.org/10.1016/j.aim.2014.12.018"
   volume: 273
   arXiv: 1402.6036
@@ -205,7 +206,7 @@
   issued: 2015
   page: 7190-7237
   title: Reduction of _τ_-tilting modules and torsion pairs
-  type: article-journal
+  type: article
   url: "http://dx.doi.org/10.1093/imrn/rnu163"
   arXiv: 1302.2709
   mr: 3428959
@@ -220,7 +221,7 @@
   page: 148-161
   title: The extended affine Lie algebra associated with a connected
     non-negative unit form
-  type: article-journal
+  type: article
   url: "http://dx.doi.org/10.1016/j.jalgebra.2014.03.029"
   volume: 409
   arXiv: 1209.4380
@@ -241,7 +242,7 @@
   page: 1825-1837
   title: "Tubular cluster algebras II: Exponential growth"
   title-short: Tubular cluster algebras II
-  type: article-journal
+  type: article<
   url: "http://dx.doi.org/10.1016/j.jpaa.2012.12.012"
   volume: 217
   arXiv: 1202.4816

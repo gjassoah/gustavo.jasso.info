@@ -6,7 +6,8 @@
   title: On a theorem of B. Keller on Yoneda algebras of simple modules
   url: "https://arxiv.org/abs/2402.14004"
   arXiv: 2402.14004 [math.RT]
-  submitted: true
+  status: submitted
+  type: preprint
 - author:
   - family: Jasso
     given: G.
@@ -18,5 +19,5 @@
   subtitle: with an appendix by B. Keller
   arXiv: 2208.14413 [math.RT]
   url: "https://arxiv.org/abs/2208.14413"
-  submitted: true
-
+  status: submitted
+  type: preprint
