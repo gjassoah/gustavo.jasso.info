@@ -67,7 +67,7 @@
   volume: 355
   arXiv: 1811.02461
   mr: 3994443
-  errata: "In Remark 2.29, the symbol S_{m}^{n+1} should be be replaced by S^{n+1}."
+  errata: "In 1.10 and 1.11 the endomorphism algebras should be their opposites. In the line after 1.14 'right' should be 'left'. In the proof of Prop. 1.17, '(left)' should be '(right)' and the factors of the tensor product should be commuted. In Remark 2.29, the symbol S_{m}^{n+1} should be be replaced by S^{n+1}."
 - author:
   - family: Jasso
     given: G.
