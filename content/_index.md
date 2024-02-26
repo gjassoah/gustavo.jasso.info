@@ -80,7 +80,7 @@ Including my student years, I have been affiliated to the following institutions
 
 **Since 2022-03-01** Senior Lecturer at the [Centre for Mathematical Sciences](https://www.maths.lu.se/english/) ([Faculty of Science](https://www.science.lu.se/)) of [Lund University](https://www.lu.se/).
 
-**2018-08-13** [International Conference on Representations of Algebras (ICRA) Award 2018](https://www.icra2018.cz/program/icra-awards) (a second prize was awarded to Julian Külshammer).
+**2018-08-13** [International Conference on Representations of Algebras (ICRA) Award 2018](https://icra2018.karlin.mff.cuni.cz/program/icra-awards.html) (a second prize was awarded to Julian Külshammer).
 
 **2017-10-01 -- 2022-02-28** [Akademischer Rat auf Zeit](https://de.wikipedia.org/wiki/Akademischer_Rat#Akademischer_Rat_auf_Zeit) at the [Mathematisches Institut](http://www.math.uni-bonn.de/) of the [Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.uni-bonn.de) working in the research group of [Jan Schröer](http://www.math.uni-bonn.de/~schroer/).
 
