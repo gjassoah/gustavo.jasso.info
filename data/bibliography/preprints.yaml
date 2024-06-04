@@ -1,16 +1,6 @@
 - author:
   - family: Jasso
     given: G.
-  id: Jas24
-  issued: 2024
-  title: On a theorem of B. Keller on Yoneda algebras of simple modules
-  url: "https://arxiv.org/abs/2402.14004"
-  arXiv: 2402.14004 [math.RT]
-  status: submitted
-  type: preprint
-- author:
-  - family: Jasso
-    given: G.
   - family: Muro
     given: F.
   id: JKM22

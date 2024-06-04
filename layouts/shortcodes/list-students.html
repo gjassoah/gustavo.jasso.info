@@ -1,4 +1,4 @@
 {{ $level := .Get "level" }}{{ range ( index .Site.Data.students $level) }}1. {{ if .website }}[{{ .name }}]({{ .website }}){{ else }}{{ .name }}{{ end }}{{ if .title }}, _{{ .title }}_{{ end }} ({{ .year }}).{{ if .afterwards }}\
-_Afterwards:_ {{ .afterwards }}{{ end }}{{ if .url }}\
+_Afterwards:_ {{ .afterwards }}.{{ end }}{{ if .url }}\
 [Publication]({{ .url }}){{ end }} {{ if .arXiv }} | [arXiv](https://arxiv.org/abs/{{ .arXiv }}){{ end }}
 {{ end }}{. reversed="reversed"}

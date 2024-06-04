@@ -1,13 +1,26 @@
 - author:
   - family: Jasso
     given: G.
-  id: Jas23
-  status: accepted for publication in C. R. Math. Acad. Sci. Paris
+  id: Jas24
+  issued: 2024
+  title: On a theorem of B. Keller on Yoneda algebras of simple modules
+  url: "https://arxiv.org/abs/2402.14004"
+  arXiv: 2402.14004 [math.RT]
+  status: Accepted for publication in C. R. Math. Acad. Sci. Paris
+  type: preprint
+- author:
+  - family: Jasso
+    given: G.
+  id: Jas24a
+  journal: C. R. Math. Acad. Sci. Paris
   title: Derived equivalences of upper-triangular ring spectra via lax
     limits
-  type: preprint
-  url: "https://arxiv.org/abs/2306.12396"
-  arXiv: 2306.12396 [math.RT]
+  type: article
+  url: "https://doi.org/10.5802/crmath.559"
+  arXiv: 2306.12396
+  issued: 2024
+  volume: 362
+  page: 279-285
 - author:
   - family: Dyckerhoff
     given: T.

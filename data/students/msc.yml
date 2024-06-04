@@ -1,10 +1,11 @@
 - name: Eric Dannetun
   title: Quotients of triangulated categories
-  year: in progress
+  year: 2024
+  afterwards: PhD position with Dr. Samuel Lundqvist at Stockholm University
 
 - name: Daniel Falkowski
-  title: Tensor-triangular geometry
-  year: in progress
+  title: A note on tensor-triangular geometry
+  year: 2024
 
 - name: Carl-Fredrik Lidgren
   title: t-structures & recollements
@@ -23,17 +24,16 @@
 - name: Calvin Pfeifer
   title: Torsion classes and wide subcategories
   year: 2020
-  afterwards: PhD position with Prof. Dr. Christof Geiss in Odense.
+  afterwards: PhD position with Prof. Dr. Christof Geiss in Odense
   arXiv: 1905.01148
   url: https://link.springer.com/article/10.1007/s10468-021-10079-1
 
 - name: Jan-Paul Lerch
   title: Bijections in tau-tilting theory
   year: 2019
-  afterwards: PhD position with Prof. Dr. Henning Krause in Bielefeld.
+  afterwards: PhD position with Prof. Dr. Henning Krause in Bielefeld
 
 - name: Aran Tattar
   title: On Gorenstein k-categories
   year: 2018
-  afterwards: PhD position with Prof. Dr. Sibylle Schroll in Leicester.
-
+  afterwards: PhD position with Prof. Dr. Sibylle Schroll in Leicester

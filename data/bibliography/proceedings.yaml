@@ -2,6 +2,26 @@
   - family: Jasso
     given: G.
   collection: Oberwolfach Rep.
+  proceedings: "Hochschild (Co)Homology and Applications: Abstracts from the workshop held
+    April 14--19, 2024"
+  doi: 
+  editor:
+  - family: Keller
+    given: B.
+  - family: Krause
+    given: H.
+  - family: Lowen
+    given: W.
+  - family: Solotar
+    given: A.
+  id: MR
+  issued: to appear
+  title: Universal Massey Products in Representation Theory of Algebras
+  type: proceedings
+- author:
+  - family: Jasso
+    given: G.
+  collection: Oberwolfach Rep.
   proceedings: "Representation theory of quivers and
     finite-dimensional algebras: Abstracts from the workshop held
     January 12--18, 2023"
