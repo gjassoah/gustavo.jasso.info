@@ -7,8 +7,7 @@
   url: "https://arxiv.org/abs/2402.14004"
   arXiv: 2402.14004 [math.RT]
   status: Accepted for publication in C. R. Math. Acad. Sci. Paris
-  type: preprint
-  mr: 4745338
+  type: preprint  
 - author:
   - family: Jasso
     given: G.
@@ -22,6 +21,7 @@
   issued: 2024
   volume: 362
   page: 279-285
+  mr: 4745338
 - author:
   - family: Dyckerhoff
     given: T.
