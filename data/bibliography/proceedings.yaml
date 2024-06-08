@@ -4,7 +4,7 @@
   collection: Oberwolfach Rep.
   proceedings: "Hochschild (Co)Homology and Applications: Abstracts from the workshop held
     April 14--19, 2024"
-  doi: 
+  doi: 10.14760/OWR-2024-20
   editor:
   - family: Keller
     given: B.
@@ -16,8 +16,10 @@
     given: A.
   id: MR
   issued: to appear
+  url: "https://doi.org/10.14760/OWR-2024-20"
   title: Universal Massey Products in Representation Theory of Algebras
   type: proceedings
+  url2: pdf/mfo/OWR-2024-20-jasso.pdf
 - author:
   - family: Jasso
     given: G.
