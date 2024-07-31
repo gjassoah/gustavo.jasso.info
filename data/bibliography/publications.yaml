@@ -172,7 +172,7 @@
   arXiv: 1405.7805
   mr: 3519980
   url: https://doi.org/10.1007/s00209-016-1619-8
-  errata: "In Lemma 3.22, the adverbs 'contravariantly' and 'covariantly' should be exchanged in items (vi) and (vii)."
+  errata: "(S.Kvamme) In Lemma 3.22, the adverbs 'contravariantly' and 'covariantly' should be exchanged in items (vi) and (vii). In Theorem 4.14 the ambient additive category should be assumed to be weakly idempotent complete so that the class Y is closed under weak isomorphisms."
 - author:
   - family: Bergh
     given: P. A.
