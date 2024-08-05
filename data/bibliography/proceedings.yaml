@@ -52,13 +52,20 @@
     given: B.
   - family: Muro
     given: F.
+  editor:
+  - family: Bergh
+    given: P. A.
+  - family: Oppermann
+    given: S.
+  - family: Solberg
+    given: Øyvind
   id: JKM22-2
-  status: "to appear in the proceedings of the Abel Symposium 2022: Triangulated categories in representation theory and beyond"
-  proceedings: "The Abel Symposium 2022: Triangulated categories in representation theory and beyond"
+  proceedings: "Triangulated categories in representation theory and beyond. The Abel Symposium 2022"
   title: The Donovan--Wemyss Conjecture via the Derived Auslander--Iyama Correspondence
-  type: preprint
-  url: "https://arxiv.org/abs/2301.11593"
-  arXiv: 2301.11593 [math.AG]
+  type: proceedings
+  doi: 10.1007/978-3-031-57789-5
+  url: "https://doi.org/10.1007/978-3-031-57789-5"
+  arXiv: 2301.11593
 - author:
   - family: Jasso
     given: G.
