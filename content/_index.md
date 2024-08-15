@@ -53,7 +53,7 @@ In order to ensure that your messages are read, _please contact me only through 
 
 `gjasso[at]math.uni-koeln.de`
 
-Any other institutional e-mail addresses of mine have been or will be close.
+Any other institutional e-mail addresses of mine have been or will be closed.
 
 ### PGP key fingerprint</h3>
 
