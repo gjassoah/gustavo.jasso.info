@@ -274,7 +274,7 @@ footer p {
     .logo img {    
         width: 15%;
         vertical-align: middle;
-        padding-left: 0.5em;
-        padding-right: 0.5em;
+        padding-left: 0.33em;
+        padding-right: 0.33em;
     }
 }
