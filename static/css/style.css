@@ -79,6 +79,7 @@ header h1 {
 
 #TableOfContents {
     margin: auto;
+
     width: 100%;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
@@ -131,6 +132,7 @@ header h1 {
     }
     header h1 {
         margin-bottom: -0.75em;
+        font-size: 2.0rem;
     }
     .me img {
         display: none;
