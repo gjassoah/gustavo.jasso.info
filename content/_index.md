@@ -2,7 +2,7 @@
 title: Prof. Dr. Gustavo Jasso
 ---
 ![Gustavo Jasso's photograph](/img/gjasso.png)  
-[Mathematisches Institut](http://www.mi.uni-koeln.de/)  
+[Mathematical Insitute](http://www.mi.uni-koeln.de/)  
 [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/)  
 [University of Cologne](https://www.uni-koeln.de/)
 {.me}
