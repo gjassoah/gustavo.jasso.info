@@ -1,5 +1,5 @@
 baseURL = "https://gustavo.jasso.info"
-title = "Gustavo Jasso - Mathematician"
+title = "Prof. Dr. Gustavo Jasso - Mathematician"
 disableKinds = ["taxonomy"]
 
 [markup]

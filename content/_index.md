@@ -1,28 +1,23 @@
 ---
-title: Gustavo Jasso
+title: Prof. Dr. Gustavo Jasso
 ---
 ![Gustavo Jasso's photograph](/img/gjasso.png)  
-Senior Lecturer (Universitetslektor)  
-[Department of Mathematics](https://www.maths.lu.se/english/)  
-[Faculty of Science](https://www.science.lu.se/)  
-[Lund University](https://www.lunduniversity.lu.se/)
+[Mathematisches Institut](http://www.mi.uni-koeln.de/)  
+[Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/)  
+[University of Cologne](https://www.uni-koeln.de/)
 {.me}
 
 ## About me
 
 Pronouns: he / him
 
-I am a member of the [Research Group in Algebra](https://www.maths.lu.se/english/research/research-groups/algebra/).
-
 My research interests include the following topics:
 
 * Representation theory of quivers and algebras
-* Homological and homotopical algebra
+* Homological and homotopical algebra, higher category theory
 * Cluster algebras and their categorifications
 
-Visit my [Profile at Lund University's Research Portal](https://portal.research.lu.se/en/persons/gustavo-jasso-ahuja).
-
-**2023-01-01 -- 2026-12-31** My research is supported by a [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) from the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
+**2023-01-01 -- 2024-08-14** My research was supported by a [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) from the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
 
 ### Academical profiles
 
@@ -30,11 +25,7 @@ Visit my [Profile at Lund University's Research Portal](https://portal.research.
 
 ### Open positions
 
-Open doctoral and postdoctoral/researcher positions at Lund University can be found at the following URL: 
-
-[https://www.lunduniversity.lu.se/vacancies](https://www.lunduniversity.lu.se/vacancies)
-
-You are welcome to inquire about upcoming advertisements of positions in the Algebra group, but please note that applications are handled through the Varbi system (accessible from the previous link). 
+You are welcome to inquire about upcoming advertisements of positions in the Algebra and Representation Theory Group, but please note that applications are handled through official channels.
 
 _Please do not send me unsolicited application materials. For security reasons, **I will not open unsolicited files.**_
 
@@ -42,31 +33,39 @@ _Please do not send me unsolicited application materials. For security reasons, 
 
 ## Contact details
 
-### E-mail address(es)
+### Visiting and postal address
 
-E-mail sent to any of the following addresses will arrive to the same inbox.
+Mathematical Insitute  
+University of Cologne
 
-`gustavo.jasso[at]math.lu.se`  
-`gustavo.jasso_ahuja[at]math.lu.se`
+Weyertal 86-90  
+D-50931 Cologne  
+Germany
+
+Building 162, office 1.14  
+Office hours: by appointment (nach Vereinbarung)
+
+Secretary: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
+
+### E-mail address
+
+In order to ensure that your messages are read, _please contact me only through the following e-mail address_:
+
+`gjasso[at]math.uni-koeln.de`
+
+Any other institutional e-mail addresses of mine have been or will be close.
 
 ### PGP key fingerprint</h3>
 
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
-[Download public PGP key](https://lu.box.com/s/i6v9s33m7gc4iy1k7snpc3ubouoh74f5) | [What is PGP? (external)](https://www.openpgp.org/about/)
-
-### Visiting address
-
-Room MH:406
-
-Centre for Mathematical Sciences
-Sölvegatan 18, 221 00 Lund, Sweden
+[Download public PGP key](/pgp/gjasso-public_pgp_key.asc) | [What is PGP?](https://www.openpgp.org/about/)
 
 {{% back-to-top %}}
 
 ## Curriculum vitae
 
-Download my [abridged CV](https://lu.box.com/s/xszn7yoj26qbqjp6o6t7d2l9sbw3taim) (comprehensive CV available upon request).
+Download my [abridged CV](pdf/gjasso-cv.pdf) (comprehensive CV available upon request).
 
 Including my student years, I have been affiliated to the following institutions during my academical career:
 
@@ -74,21 +73,24 @@ Including my student years, I have been affiliated to the following institutions
 [![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
 [![University of Bonn's Logo](/img/bonn-logo.png)](https://www.uni-bonn.de/)
 [![Lund University's Logo](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
+[![University of Cologne's Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
+
+**Since 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany) at the [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/) of the [University of Cologne](https://www.uni-koeln.de/).
 
 **2022-10-15** [11th Award for Encouragement of Alumni and Students ("Hida Award")](https://www.math.nagoya-u.ac.jp/ja/alumni/hida-prize.html#result-11), Alumni Association of the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/en/index.html), [Nagoya University](https://en.nagoya-u.ac.jp/).
 
-**Since 2022-03-01** Senior Lecturer at the [Centre for Mathematical Sciences](https://www.maths.lu.se/english/) ([Faculty of Science](https://www.science.lu.se/)) of [Lund University](https://www.lu.se/).
+**2022-03-01 -- 2024-08-14** [Senior Lecturer](https://www.lunduniversity.lu.se/about-university/work-lund-university/applying-position/academic-positions-lund-university#senior) at the [Centre for Mathematical Sciences](https://www.maths.lu.se/english/) ([Faculty of Science](https://www.science.lu.se/)) of [Lund University](https://www.lu.se/).
 
 **2018-08-13** [International Conference on Representations of Algebras (ICRA) Award 2018](https://icra2018.karlin.mff.cuni.cz/program/icra-awards.html) (a second prize was awarded to Julian Külshammer).
 
-**2017-10-01 -- 2022-02-28** [Akademischer Rat auf Zeit](https://de.wikipedia.org/wiki/Akademischer_Rat#Akademischer_Rat_auf_Zeit) at the [Mathematisches Institut](http://www.math.uni-bonn.de/) of the [Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.uni-bonn.de) working in the research group of [Jan Schröer](http://www.math.uni-bonn.de/~schroer/).
+**2017-10-01 -- 2022-02-28** [Akademischer Rat auf Zeit](https://de.wikipedia.org/wiki/Akademischer_Rat#Akademischer_Rat_auf_Zeit) at the [Mathematisches Institut](http://www.math.uni-bonn.de/) of the [Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.uni-bonn.de) working in the research group of [Prof. Dr. Jan Schröer](http://www.math.uni-bonn.de/~schroer/).
 
-**2014-10-01 -- 2017-09-30** [Hausdorff Postdoc](https://www.hcm.uni-bonn.de/people/postdocs/hausdorff-postdocs/) at the [Hausdorff Center for Mathematics](https://www.hcm.uni-bonn.de/research/research-areas/ra-a2/) of the [Rheinische Friedrich-Wilhelms-Universität Bonn](http://www3.uni-bonn.de/) under the mentorship of [Jan Schröer](http://www.math.uni-bonn.de/~schroer/).
+**2014-10-01 -- 2017-09-30** [Hausdorff Postdoc](https://www.hcm.uni-bonn.de/people/postdocs/hausdorff-postdocs/) at the [Hausdorff Center for Mathematics](https://www.hcm.uni-bonn.de/research/research-areas/ra-a2/) of the [Rheinische Friedrich-Wilhelms-Universität Bonn](http://www3.uni-bonn.de/) under the mentorship of [Prof. Dr. Jan Schröer](http://www.math.uni-bonn.de/~schroer/).
 
-**2011-10-01 -- 2014-09-29** Ph.D student at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) of [Nagoya University](http://en.nagoya-u.ac.jp/) under the supervision of [Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/).
+**2011-10-01 -- 2014-09-29** Ph.D student at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) of [Nagoya University](http://en.nagoya-u.ac.jp/) under the supervision of [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/).
 
-**2005-08-15 -- 2011-09-14** B.Sc. and M.Sc. student at the [Facultad de Ciencias](http://www.fciencias.unam.mx/) (B.Sc.) and the [Instituto de Matemáticas](https://www.matem.unam.mx/) (M.Sc.) of the [Universidad Nacional Autónoma de México](https://www.unam.mx/) under the supervision of [Michael Barot](https://www.matem.unam.mx/~barot/) (B.Sc. and M.Sc. thesis advisor) and [Christof Geiß](https://www.matem.unam.mx/~christof/) (M.Sc. thesis unofficial second advisor).
+**2005-08-15 -- 2011-09-14** B.Sc. and M.Sc. student at the [Facultad de Ciencias](http://www.fciencias.unam.mx/) (B.Sc.) and the [Instituto de Matemáticas](https://www.matem.unam.mx/) (M.Sc.) of the [Universidad Nacional Autónoma de México](https://www.unam.mx/) under the supervision of [Michael Barot](https://www.matem.unam.mx/~barot/) (B.Sc. and M.Sc. thesis advisor) and [Prof. Dr. Christof Geiß](https://www.matem.unam.mx/~christof/) (M.Sc. thesis unofficial second advisor).
 
 **1987-03-18** Born in [Guadalajara](https://en.wikipedia.org/wiki/Guadalajara), [Jalisco](https://en.wikipedia.org/wiki/Jalisco), [Mexico](https://en.wikipedia.org/wiki/Mexico).
 
@@ -100,25 +102,39 @@ My full (legal) name, formed according to the [Spanish Naming Customs](https://e
 
 ## Activities
 
-### FD Seminar
+### Cologne Algebra and Representation Theory Group
 
-I am one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an online seminar on representation theory of quivers and finite-dimensional algebras.
-
-### FDLIST
-
-Since May 2021, I am one for the maintainers of the [FDLIST](https://fdlist.math.uni-bielefeld.de), an information list that provides a forum for the exchange of information, ideas, problems and questions, which are related to representation theory of finite-dimensional algebras.
-
-### Network on Silting Theory
-
-I am a member of the [Network on Silting Theory](https://networkonsilting.wordpress.com/), which is funded by the Deutsche Forschungsgemeinschaft, DFG.
+I am a member of the [Algebra and Representation Theory Group](https://www.mi.uni-koeln.de/RepTheory/) at the University of Cologne. Visit the link to learn about our activities.
 
 ### Learning seminar
 
 Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
 
+### FDLIST
+
+Since May 2021, I am one for the maintainers of the [FDLIST](https://fdlist.math.uni-bielefeld.de), an information list that provides a forum for the exchange of information, ideas, problems and questions, which are related to representation theory of finite-dimensional algebras.
+
+### FD Seminar
+
+I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an online seminar on representation theory of quivers and finite-dimensional algebras. The seminar ran from May 2020 until May 2024.
+
+## Research group
+
+### Ph.D. students
+
+{{% list-students level="phd" %}}
+
+### Visitors
+
+1. David T. Nkansah, Sep-Dec 2024 (Aarhus)
+1. Prof. Dr. Catharina Stroppel, May 2024 (Bonn)
+1. Prof. Dr. Bernhard Keller, Oct 2023 (Paris)
+1. Sebastian H. Martensen, Oct 2023 (Trondheim)
+{. reversed="reversed"}
+
 {{% back-to-top %}}
 
-## Research
+## Writings
 
 ### Preprints
 
@@ -158,39 +174,54 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 
 {{% back-to-top %}}
 
-## Teaching
+## Lehre
 
-### Teaching activities
+Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis](http://www.mi.uni-koeln.de/main/Alle/Lehre-Studium/Vorlesungsverzeichnis/index.php).
 
-You need a LU student account to access the Canvas pages below.
+Informationen zu den von der Algebra und Darstellungstheorie-Gruppe organisierten Seminaren finden Sie unter folgendem Link:  
+[https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
 
-#### Spring Term 2024
+Bitte schreiben Sie mir eine E-Mail, wenn Sie daran interessiert, eine Abschlussarbeit unter meiner Betreuung zu schreiben.
 
-[MATP33 Group and Ring Theory](https://canvas.education.lu.se/courses/28067)
+### Vorlesungen an der Universität zu Köln (seit 2024)
 
-#### Fall Term 2023
+* **Summer Semester 2025**  
+  Introduction to &#x221E;-category theory
+* **Winter Semester 2024/2025**  
+  Homotopy theory of simplicial sets
 
-[MATP43 Representation theory of quivers](https://canvas.education.lu.se/courses/25063)
+{{% back-to-top %}}
 
-[MATM35 Number Theory](https://canvas.education.lu.se/courses/25048)
+### Teaching at Lund University (2022-2024)
 
-#### Spring Term 2023
+* **Spring Term 2024**  
+  MATP33 Group and Ring Theory
+* **Fall Term 2023**  
+  MATP43 Representation Theory of Quivers and Algebras  
+  MATM35 Number Theory
+* **Spring Term 2023**  
+  MATP33 Group and Ring Theory
+* **Fall Term 2022**  
+  MATM35 Number Theory
 
-[MATP33 Group and Ring Theory](https://canvas.education.lu.se/courses/22235)
+{{% back-to-top %}}
 
-#### Fall Term 2022
+### Teaching at the University of Bonn (2016--2021)
 
-[MATM35 Number Theory](https://canvas.education.lu.se/courses/18560)
+* **Winter Semester 2021/2022**  
+  S4A2 Graduate Seminar on Representation Theory "Tilting theory" (co-organised with Prof. Dr. Jan Schröer)
+* **Summer Semester 2021**  
+  V5A2 Selected topics in Algebra "Differential graded categories"
+* **Summer Semester 2019**  
+  S4A2 Graduate Seminar on Representation Theory "Triangulated categories in the representation theory of finite-dimensional algebras"
+* **Summer Semester 2018**  
+  S4A2 Graduate Seminar on Representation Theory "τ-tilting theory"
+* **Winter Semester 2016/2017**  
+  V5A5 Advanced Topics in Representation Theory "Differential graded categories, a representation theoretic approach"
 
 {{% back-to-top %}}
 
 ### Students
-
-Please contact me by e-mail if you are a student at Lund University and are interested in writing your bachelor's or master's thesis under my supervision.
-
-#### Ph.D. students
-
-{{% list-students level="phd" %}}
 
 #### Master students
 
@@ -198,7 +229,10 @@ Please contact me by e-mail if you are a student at Lund University and are inte
 
 ##### Remark
 
-Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+* Students [7-8] were supervised at [Lund University](https://www.maths.lu.se/english/).
+* Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+
+{{% back-to-top %}}
 
 #### Bachelor students
 
@@ -206,6 +240,7 @@ Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-
 
 ##### Remark 
 
-Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+* Students [7-12] were supervised at [Lund University](https://www.maths.lu.se/english/).
+* Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
 {{% back-to-top %}}

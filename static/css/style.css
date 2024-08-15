@@ -71,8 +71,8 @@ header {
 }
 
 header h1 {
-    font-family: 'EB Garamond', serif;
-    font-size: 3rem;
+    /*font-family: 'EB Garamond', serif;/*/
+    font-size: 2.5rem;
     padding-top: 0.5em;
     margin: 0rem;
 }
@@ -80,13 +80,15 @@ header h1 {
 #TableOfContents {
     margin: auto;
     width: 100%;
-    padding-top: 0.75em;
-    padding-bottom: 0.75em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
-    background-color: white;
+    background-color: #32475b;
     position: sticky;
     top: 0;
+    font-weight: bold;
+    border-bottom: 10px solid #0082c6;
 }
 
 #TableOfContents ul {
@@ -104,11 +106,13 @@ header h1 {
 }
 
 #TableOfContents a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: white;
 }
 
 #TableOfContents a:hover {
     text-decoration: underline;
+    color: white;
 }
 
 .me {
@@ -145,21 +149,21 @@ header h1 {
 
 @media (prefers-color-scheme: light) {
     a, a:visited { 
-        color: rgb(156,97,20);
+        color: rgb(50,71,91);
     }
 
     a:hover {
-        color: rgb(156,97,50);
+        color: rgb(50,71,91);
     }
 }
 
 @media (prefers-color-scheme: dark) {
     a, a:visited { 
-        color: rgb(156,97,20);
+        color: rgb(50,71,91);
     }
 
     a:hover {
-        color: rgb(156,97,50);
+        color: rgb(50,71,91);
     }
 }
 
@@ -186,7 +190,8 @@ code {
 @media (prefers-color-scheme: light) {
     footer {
         color: white;
-        background-color: rgb(76,76,68);
+        background-color: #253746;
+        border-top: 2em solid #32475b;
     }
     footer a:hover {
         color: white;
@@ -196,7 +201,8 @@ code {
 @media (prefers-color-scheme: dark) {
     footer {
         color: white;
-        background-color: rgb(76,76,68);
+        background-color: #253746;
+        border-top: 2em solid #32475b;
     }
     footer a:hover {
         color: white;
@@ -258,9 +264,9 @@ footer p {
     padding: 0.5em;
 }
 
-#lu-logo {
+#uni-koeln-logo {
     text-align: center;
     height: auto;
-    max-width: 12em;
+    max-width: 12.5em;
     margin: 0;
 }
