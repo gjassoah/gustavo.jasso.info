@@ -35,12 +35,12 @@ _Please do not send me unsolicited application materials. For security reasons, 
 
 ### Visiting and postal address
 
-Mathematical Insitute  
-University of Cologne
+Mathematisches Institut  
+Universität zu Köln  
 
 Weyertal 86-90  
-D-50931 Cologne  
-Germany
+D-50931 Köln  
+Deutschland
 
 Building 162, office 1.14  
 Office hours: by appointment (nach Vereinbarung)
