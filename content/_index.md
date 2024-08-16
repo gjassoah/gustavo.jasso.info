@@ -33,6 +33,8 @@ _Please do not send me unsolicited application materials. For security reasons, 
 
 ## Contact details
 
+Office hours: by appointment (nach Vereinbarung)
+
 ### Visiting and postal address
 
 Mathematisches Institut  
@@ -43,7 +45,6 @@ D-50931 Köln
 Deutschland
 
 Building 162, office 1.14  
-Office hours: by appointment (nach Vereinbarung)
 
 Secretary: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
@@ -60,6 +61,10 @@ Any other institutional e-mail addresses of mine have been or will be closed.
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
 [Download public PGP key](/pgp/gjasso-public_pgp_key.asc) | [What is PGP?](https://www.openpgp.org/about/)
+
+### Telephone
+
+`+49 221 470 3715`
 
 {{% back-to-top %}}
 
