@@ -7,30 +7,6 @@ title: Prof. Dr. Gustavo Jasso
 [University of Cologne](https://www.uni-koeln.de/)
 {.me}
 
-## About me
-
-Pronouns: he / him
-
-My research interests include the following topics:
-
-* Representation theory of quivers and algebras
-* Homological and homotopical algebra, higher category theory
-* Cluster algebras and their categorifications
-
-**2023-01-01 -- 2024-08-14** My research was supported by a [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) from the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
-
-### Academical profiles
-
-{{% list-profiles %}}
-
-### Open positions
-
-You are welcome to inquire about upcoming advertisements of positions in the Algebra and Representation Theory Group, but please note that applications are handled through official channels.
-
-_Please do not send me unsolicited application materials. For security reasons, **I will not open unsolicited files.**_
-
-{{% back-to-top %}}
-
 ## Contact details
 
 Office hours: by appointment (nach Vereinbarung)
@@ -65,6 +41,30 @@ Any other institutional e-mail addresses of mine have been or will be closed.
 ### Telephone
 
 `+49 221 470 3715`
+
+{{% back-to-top %}}
+
+## About me
+
+Pronouns: he / him
+
+My research interests include the following topics:
+
+* Representation theory of quivers and algebras
+* Homological and homotopical algebra, higher category theory
+* Cluster algebras and their categorifications
+
+**2023-01-01 -- 2024-08-14** My research was supported by a [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) from the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
+
+### Academical profiles
+
+{{% list-profiles %}}
+
+### Open positions
+
+You are welcome to inquire about upcoming advertisements of positions in the Algebra and Representation Theory Group, but please note that applications are handled through official channels.
+
+_Please do not send me unsolicited application materials. For security reasons, **I will not open unsolicited files.**_
 
 {{% back-to-top %}}
 
