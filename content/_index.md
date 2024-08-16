@@ -9,8 +9,6 @@ title: Prof. Dr. Gustavo Jasso
 
 ## Contact details
 
-Office hours: by appointment (nach Vereinbarung)
-
 ### Visiting and postal address
 
 Mathematisches Institut  
@@ -22,7 +20,7 @@ Deutschland
 
 Building 162, office 1.14  
 
-Secretary: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
+Office hours: by appointment (nach Vereinbarung)
 
 ### E-mail address
 
@@ -41,6 +39,10 @@ Any other institutional e-mail addresses of mine have been or will be closed.
 ### Telephone
 
 `+49 221 470 3715`
+
+### Secretrary 
+
+[Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
 {{% back-to-top %}}
 
