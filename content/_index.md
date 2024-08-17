@@ -32,9 +32,13 @@ Any other institutional e-mail addresses of mine have been or will be closed.
 
 ### PGP key fingerprint</h3>
 
+I sign all outgoing e-mail messages using PGP.  
+
+My public key fingerprint is the following:
+
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
-[Download public PGP key](/pgp/gjasso-public_pgp_key.asc) | [What is PGP?](https://www.openpgp.org/about/)
+[Download public key (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) | [What is PGP?](https://www.openpgp.org/about/)
 
 ### Telephone
 
@@ -50,7 +54,7 @@ Any other institutional e-mail addresses of mine have been or will be closed.
 
 Pronouns: he / him
 
-My research interests include the following topics:
+I am a mathematician. My research interests include the following topics:
 
 * Representation theory of quivers and algebras
 * Homological and homotopical algebra, higher category theory
