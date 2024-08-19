@@ -62,8 +62,6 @@ I am a mathematician. My research interests include the following topics:
 * Homological and homotopical algebra, higher category theory
 * Cluster algebras and their categorifications
 
-**2023-01-01 -- 2024-08-14** My research was supported by a [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) from the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
-
 ### Academical profiles
 
 {{% list-profiles %}}
@@ -90,6 +88,8 @@ Including my student years, I have been affiliated to the following institutions
 {.logo}
 
 **Since 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany) at the [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/) of the [University of Cologne](https://www.uni-koeln.de/).
+
+**2023-01-01 -- 2024-08-01** My research was supported by a [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) from the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
 
 **2022-10-15** [11th Award for Encouragement of Alumni and Students ("Hida Award")](https://www.math.nagoya-u.ac.jp/ja/alumni/hida-prize.html#result-11), Alumni Association of the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/en/index.html), [Nagoya University](https://en.nagoya-u.ac.jp/).
 
