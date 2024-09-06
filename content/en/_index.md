@@ -13,19 +13,20 @@ title: Prof. Dr. Gustavo Jasso
 
 [Show in OpenStreetMap](https://www.openstreetmap.org/way/258820998)
 
-Mathematisches Institut  
-Universität zu Köln  
+Mathematical Institute  
+University of Cologne  
 
 Weyertal 86-90  
-D-50931 Köln  
-Deutschland
+D-50931 Cologne  
+Germany
 
 Building 162, office 1.14  
-Telephone number: `+49 221 470 3715`  
+
+Telephone number: +49 221 470 3715  
+
+Office hours: by appointment  
+
 Secretrary: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
-
-Office hours: by appointment
-
 
 ### E-mail address
 

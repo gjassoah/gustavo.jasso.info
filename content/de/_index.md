@@ -21,10 +21,12 @@ D-50931 Köln
 Deutschland
 
 Gebäude 162, Büro 1.14  
-Telefonnummer: `+49 221 470 3715`  
-Sekretariat: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
-Sprechstunden: nach Vereinbarung
+Telefonnummer: +49 221 470 3715  
+
+Sprechstunden: nach Vereinbarung  
+
+Sekretariat: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
 ### E-mail Adresse
 
