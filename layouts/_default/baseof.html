@@ -3,7 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name=author content="{{ .Params.Author }}">
+        {{ if eq $.Site.Language.LanguageName "English" }}
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        {{ else }}
+        <title>{{ block "title" . }}Prof. Dr. Gustavo Jasso - Mathematiker{{ end }}</title>
+        {{ end }}
         <link rel="stylesheet" href="/css/style.css">
         <!-- Enable responsiveness on mobile devices -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
