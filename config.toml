@@ -1,5 +1,4 @@
 baseURL = "https://gustavo.jasso.info"
-title = "Prof. Dr. Gustavo Jasso - Mathematician"
 disableKinds = ["taxonomy"]
 
 [markup]
@@ -22,6 +21,7 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 1
+    title = "Prof. Dr. Gustavo Jasso - Mathematician"
   [languages.de]
     contentDir = 'content/de'
     disabled = false
@@ -29,5 +29,5 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'Deutsch'
     weight = 2
-
+    title = "Prof. Dr. Gustavo Jasso - Mathematiker"
 
