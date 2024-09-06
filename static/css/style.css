@@ -125,6 +125,7 @@ header h1 {
     background-color: #253746;
     border: solid 1px;
     border-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
 }
 
 #language-switcher a {
@@ -133,7 +134,6 @@ header h1 {
     text-decoration: none;
     padding-left: 0.25em;
     padding-right: 0.25em;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
 }
 .me {
     text-align: center;

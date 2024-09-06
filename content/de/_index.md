@@ -42,7 +42,7 @@ Der Fingerabdruck meines öffentlichen Schlüssels lautet wie folgt:
 
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
-[Öffentlichen Schlüssel herunterladen (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) | [What is PGP?](https://www.openpgp.org/about/)
+[Öffentlichen Schlüssel herunterladen (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) | [Was ist PGP?](https://www.openpgp.org/about/)
 
 {{% back-to-top %}}
 
@@ -50,7 +50,7 @@ Der Fingerabdruck meines öffentlichen Schlüssels lautet wie folgt:
 
 Pronomen: er / ihm
 
-Ich bin Mathematike.r Meine Forschungsinteressen umfassen die folgenden Themen:
+Ich bin Mathematiker. Meine Forschungsinteressen umfassen die folgenden Themen:
 
 * Darstellungstheorie von Köchern und Algebren
 * Homologische und homotopische Algebra, höhere Kategorientheorie
@@ -64,13 +64,13 @@ Ich bin Mathematike.r Meine Forschungsinteressen umfassen die folgenden Themen:
 
 Sie können sich gerne über bevorstehende Stellenausschreibungen in der Gruppe Algebra und Darstellungstheorie erkundigen, aber bitte beachten Sie, dass Bewerbungen über den Dienstweg abgewickelt werden.
 
-Bitte schicken Sie mir keine unaufgeforderten Bewerbungsunterlagen. Aus Sicherheitsgründen werde ich **unverlangt eingesandte Dateien nicht öffnen.**_
+Bitte schicken Sie mir keine unaufgeforderten Bewerbungsunterlagen. Aus Sicherheitsgründen werde ich **unverlangt eingesandte Dateien nicht öffnen.**
 
 {{% back-to-top %}}
 
 ## Curriculum vitae
 
-Meinen [verkürzten Lebenslauf](pdf/gjasso-cv.pdf) (comprehensive CV available upon request) herunterladen.
+Meinen [verkürzten Lebenslauf herunterladen](pdf/gjasso-cv.pdf) (vollständiger Lebenslauf auf Anfrage erhältlich).
 
 Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufbahn an den folgenden Einrichtungen beteiligt:
 
@@ -81,9 +81,9 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 [![Universität zu Köln Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
 
-**Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany) at the [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/) of the [University of Cologne](https://www.uni-koeln.de/).
+**Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany), [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/), [Universität zu Köln](https://www.uni-koeln.de/).
 
-**2023-01-01 -- 2024-08-01** Meine Forschung wurde unterstützt durch ein [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) von [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
+**2023-01-01 -- 2024-08-01** Meine Forschung wurde unterstützt durch ein [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) von der [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
 
 **2022-10-15** [11th Award for Encouragement of Alumni and Students ("Hida Award")](https://www.math.nagoya-u.ac.jp/ja/alumni/hida-prize.html#result-11), Alumni Association of the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/en/index.html), [Nagoya University](https://en.nagoya-u.ac.jp/).
 
@@ -101,7 +101,7 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 
 **1987-03-18** Geboren in [Guadalajara](https://de.wikipedia.org/wiki/Guadalajara_(Mexiko)), [Jalisco](https://de.wikipedia.org/wiki/Jalisco), [Mexiko](https://de.wikipedia.org/wiki/Mexiko).
 
-##### Bemerkung
+##### Bemerkungen
 
 Mein vollständiger (rechtlicher) Name, gebildet nach den [spanischen Namensgebräuchen](https://de.wikipedia.org/wiki/Spanischer_Name) (die auch in Mexiko verwendet werden), lautet Gustavo Jasso Ahuja. Beachten Sie jedoch, dass ich meinen zweiten Nachnamen in keinem beruflichen Zusammenhang verwende.
 
