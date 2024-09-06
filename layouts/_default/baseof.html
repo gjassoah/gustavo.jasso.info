@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name=author content="{{ .Params.Author }}">
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="/css/style.css">
         <!-- Enable responsiveness on mobile devices -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <!-- favicon -->
@@ -15,11 +15,39 @@
     </head>
     <body>
         {{ .TableOfContents }}
+        {{ if eq $.Site.Language.LanguageName "English" }}
+        <span id="language-switcher"><a href="/de">DE</a></span>
+        {{ else }}
+        <span id="language-switcher"><a href="/">EN</a></span>
+        {{ end }}
         {{ block "main" . }}
         {{ end }}
         <!-- This is the default footer -->
         <footer>
-            {{ block "footer" . }}
+            {{ if eq $.Site.Language.LanguageName "English" }}
+            <p>I am affiliated with the <a href="https://www.uni-koeln.de/">University of Cologne</a>.</p>
+            
+            <p><a href="https://www.uni-koeln.de/"><img src="img/uni-koeln-logo-w-full.png" id="uni-koeln-logo" alt="University of Cologne's Logotype"></img></a></p>
+
+            <p>This website was built with <a href="https://gohugo.io/">Hugo</a>. View the <a href="https://git.sr.ht/~gjasso/gustavo.jasso.info">source code</a>.</p>
+
+            <p>&copy; <script type="text/javascript">document. write( new Date(). getFullYear() );</script>&nbsp; Gustavo Jasso</p>
+
+            <p>This website's content is the sole reponsibility of its author.</p>
+
+            <p>Please contact me by email with any suggestions for improving this website's accessibility.</p>
+            {{ else }}
+            <p>Ich bin an der <a href="https://www.uni-koeln.de/">Universität zu Köln</a> tätig.</p>
+
+            <p><a href="https://www.uni-koeln.de/"><img src="/img/uni-koeln-logo-w-full-de.png" id="uni-koeln-logo" alt="Universität zu Köln Logo"></img></a></p>
+
+            <p>Diese Website wurde mit <a href="https://gohugo.io/">Hugo</a> entwickelt. Sehen Sie sich den <a href="https://git.sr.ht/~gjasso/gustavo.jasso.info">Quellcode</a> an.</p>
+
+            <p>&copy; <script type="text/javascript">document. write( new Date(). getFullYear() );</script>&nbsp; Gustavo Jasso</p>
+
+            <p>Für den Inhalt dieser Website ist allein der Autor verantwortlich.</p>
+
+            <p>Bitte kontaktieren Sie mich per E-Mail, wenn Sie Vorschläge zur Verbesserung der Barrierefreiheit dieser Website haben.</p>
             {{ end }}
         </footer>    
     </body>

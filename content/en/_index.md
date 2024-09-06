@@ -21,8 +21,11 @@ D-50931 Köln
 Deutschland
 
 Building 162, office 1.14  
+Telephone number: `+49 221 470 3715`  
+Secretrary: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
-Office hours: by appointment (nach Vereinbarung)
+Office hours: by appointment
+
 
 ### E-mail address
 
@@ -41,14 +44,6 @@ My public key fingerprint is the following:
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
 [Download public key (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) | [What is PGP?](https://www.openpgp.org/about/)
-
-### Telephone
-
-`+49 221 470 3715`
-
-### Secretrary 
-
-[Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
 {{% back-to-top %}}
 
@@ -189,16 +184,16 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 
 {{% back-to-top %}}
 
-## Lehre
+## Teaching
 
-Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis](http://www.mi.uni-koeln.de/main/Alle/Lehre-Studium/Vorlesungsverzeichnis/index.php).
+Detailed information on my current teaching activities can be found in the [course catalogue](http://www.mi.uni-koeln.de/main/Alle/Lehre-Studium/Vorlesungsverzeichnis/index.php).
 
-Informationen zu den von der Algebra und Darstellungstheorie-Gruppe organisierten Seminaren finden Sie unter folgendem Link:  
+Information on the seminars organised by the Algebra and Representation Theory Group can be found at the following URL:  
 [https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
 
-Bitte schreiben Sie mir eine E-Mail, wenn Sie daran interessiert, eine Abschlussarbeit unter meiner Betreuung zu schreiben.
+@UzK students: Please write me an e-mail if you are interested in writing a bachelor's or master's thesis under my supervision.
 
-### Vorlesungen an der Universität zu Köln (seit 2024)
+### Teaching at the University of Cologne (since 2024)
 
 * **Summer Semester 2025**  
   Introduction to &#x221E;-category theory
