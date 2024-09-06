@@ -26,7 +26,7 @@ Sekretariat: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen
 
 Sprechstunden: nach Vereinbarung
 
-### E-mail Address
+### E-mail Adresse
 
 Um sicherzustellen, dass Ihre Nachrichten gelesen werden, _bitte kontaktieren Sie mich nur über die folgende E-Mail-Adresse_:
 
