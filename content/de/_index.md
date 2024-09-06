@@ -123,7 +123,7 @@ Seit Mai 2021 bin ich einer der Betreuer der [FDLIST](https://fdlist.math.uni-bi
 
 ### FD Seminar
 
-Ich war einer der Organisatoren des [FD-Seminars] (https://www.fd-seminar.xyz), eines Online-Seminars zur Darstellungstheorie von Köchern und endlich-dimensionalen Algebren. Das Seminar lief von Mai 2020 bis Mai 2024.
+Ich war einer der Organisatoren des [FD-Seminars](https://www.fd-seminar.xyz), eines Online-Seminars zur Darstellungstheorie von Köchern und endlich-dimensionalen Algebren. Das Seminar lief von Mai 2020 bis Mai 2024.
 
 Die Aufzeichnungen der meisten Vorträge des FD-Seminars können auf dem [BigBlueButton Server](https://bbb.fd-seminar.xyz) des Seminars gestreamt werden (Konto erforderlich).
 
