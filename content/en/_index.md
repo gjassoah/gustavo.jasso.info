@@ -7,7 +7,7 @@ title: Prof. Dr. Gustavo Jasso
 [University of Cologne](https://www.uni-koeln.de/)
 {.me}
 
-## Contact details
+## Contact
 
 ### Visiting and postal address
 
