@@ -14,17 +14,18 @@
         <link rel="manifest" href="/site.webmanifest">
         <!-- Hide navbar when scrolling -->
         <script>
-         var prevScrollpos = window.pageYOffset;
-         window.onscroll = function() {
-             var currentScrollPos = window.pageYOffset;
+         var lastScrollTop;
+         window.addEventListener('scroll',function(){
              var theheight = document.getElementById("TableOfContents").offsetHeight-10;
-             if (prevScrollpos > currentScrollPos) {
-                 document.getElementById("TableOfContents").style.top = "0";
-             } else {
-                 document.getElementById("TableOfContents").style.top = "-" + theheight + "px";
+             var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+             if(scrollTop > lastScrollTop){
+                 document.getElementById("TableOfContents").style.top="-" + theheight + "px";
              }
-             prevScrollpos = currentScrollPos;
-         }
+             else{
+                 document.getElementById("TableOfContents").style.top='0';
+             }
+             lastScrollTop = scrollTop;
+         });
         </script>
     </head>
     <body>
