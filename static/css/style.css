@@ -85,6 +85,7 @@ header h1 {
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
     background-color: #32475b;
+    position: sticky;
     top: 0;
     font-weight: bold;
     border-bottom: 10px solid #0082c6;
