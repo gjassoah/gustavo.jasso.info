@@ -12,6 +12,20 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
+        <!-- Hide navbar when scrolling -->
+        <script>
+         var prevScrollpos = window.pageYOffset;
+         window.onscroll = function() {
+             var currentScrollPos = window.pageYOffset;
+             var theheight = document.getElementById("TableOfContents").offsetHeight-10;
+             if (prevScrollpos > currentScrollPos) {
+                 document.getElementById("TableOfContents").style.top = "0";
+             } else {
+                 document.getElementById("TableOfContents").style.top = "-" + theheight + "px";
+             }
+             prevScrollpos = currentScrollPos;
+         }
+        </script>
     </head>
     <body>
         {{ .TableOfContents }}
@@ -26,6 +40,6 @@
         <footer>
             {{ block "footer" . }}
             {{ end }}
-        </footer>    
+        </footer>
     </body>
 </html>
