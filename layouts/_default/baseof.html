@@ -15,10 +15,10 @@
         <!-- Hide navbar when scrolling -->
         <script>
          var lastScrollTop;
-         window.addEventListener('scroll',function(){
-             var theheight = document.getElementById("TableOfContents").offsetHeight-10;
+         window.addEventListener('scroll',function(){             
              var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
              if(scrollTop > lastScrollTop){
+                 var theheight = document.getElementById("TableOfContents").offsetHeight-10;
                  document.getElementById("TableOfContents").style.top="-" + theheight + "px";
              }
              else{
