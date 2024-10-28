@@ -1,0 +1,3 @@
+{{ range $i, $e := .Site.Data.guests }}
+1. {{ .name }}, {{ .period }} ({{ .affiliation }}) {{ end }}
+{. reversed="reversed"}

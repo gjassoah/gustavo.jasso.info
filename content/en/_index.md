@@ -137,11 +137,7 @@ The recordings of most talks that took place at the FD Seminar can be streamed f
 
 ### Visitors
 
-1. David T. Nkansah, Sep-Dec 2024 (Aarhus)
-1. Prof. Dr. Catharina Stroppel, May 2024 (Bonn)
-1. Prof. Dr. Bernhard Keller, Oct 2023 (Paris)
-1. Sebastian H. Martensen, Oct 2023 (Trondheim)
-{. reversed="reversed"}
+{{% list-guests %}}
 
 {{% back-to-top %}}
 

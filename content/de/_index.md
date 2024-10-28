@@ -137,11 +137,7 @@ Die Aufzeichnungen der meisten Vorträge des FD-Seminars können auf dem [BigBlu
 
 ### Gäste
 
-1. David T. Nkansah, Sep-Dec 2024 (Aarhus)
-1. Prof. Dr. Catharina Stroppel, May 2024 (Bonn)
-1. Prof. Dr. Bernhard Keller, Oct 2023 (Paris)
-1. Sebastian H. Martensen, Oct 2023 (Trondheim)
-{. reversed="reversed"}
+{{% list-guests %}}
 
 {{% back-to-top %}}
 
