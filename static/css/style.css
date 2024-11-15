@@ -144,6 +144,14 @@ header h1 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.1);
 }
 
+.photo-credit {
+    font-family: "Source Code Pro";
+    margin-top: -2em;
+    margin-bottom: -0.5em;
+    font-size: 0.66em;
+    text-align: center;
+}
+
 .content {
     padding: 1rem;
     margin: 0 auto;
@@ -287,6 +295,9 @@ footer p {
         font-size: 2.0rem;
     }
     .me img {
+        display: none;
+    }
+    .photo-credit {
         display: none;
     }
     .logo img {    
