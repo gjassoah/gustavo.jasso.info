@@ -1,13 +1,16 @@
 - author:
   - family: Jasso
     given: G.
-  id: Jas24
+  id: Jas24b
+  journal: C. R. Math. Acad. Sci. Paris
   issued: 2024
   title: On a theorem of B. Keller on Yoneda algebras of simple modules
-  url: "https://arxiv.org/abs/2402.14004"
-  arXiv: 2402.14004 [math.RT]
-  status: Accepted for publication in C. R. Math. Acad. Sci. Paris
-  type: preprint  
+  url: "https://doi.org/10.5802/crmath.655"
+  arXiv: 2402.14004
+  volume: 362
+  page: 1449-1453
+  mr: 4824940
+  type: article
 - author:
   - family: Jasso
     given: G.
