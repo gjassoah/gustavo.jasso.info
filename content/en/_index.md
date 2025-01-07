@@ -118,6 +118,8 @@ My full (legal) name, formed according to the [Spanish Naming Customs](https://e
 
 I am a member of the [Algebra and Representation Theory Group](https://www.mi.uni-koeln.de/RepTheory/) at the University of Cologne. Visit the link to learn about our activities.
 
+[Köln Algebra and Representation Theory Seminar](https://sites.google.com/view/oberseminar-algebra-koeln/home)
+
 ### Learning seminar
 
 Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
