@@ -172,7 +172,7 @@ The recordings of most talks that took place at the FD Seminar can be streamed f
 
 {{% back-to-top %}}
 
-### Collaborators
+### Co-authors
 
 {{% list-coauthors %}}
 
