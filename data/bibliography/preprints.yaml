@@ -1,6 +1,16 @@
 - author:
   - family: Jasso
     given: G.
+  id: Jas25
+  issued: 2025
+  title: _Q_-shaped derived categories as derived categories of differential graded bimodules
+  arXiv: 2501.08255
+  url: "https://arxiv.org/abs/2501.08255"
+  type: preprint
+
+- author:
+  - family: Jasso
+    given: G.
   - family: Muro
     given: F.
   id: JKM22
