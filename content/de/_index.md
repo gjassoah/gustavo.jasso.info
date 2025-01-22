@@ -86,7 +86,10 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 [![Universität zu Köln Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
 
-**Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany), [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/), [Universität zu Köln](https://www.uni-koeln.de/).
+**2024-04 -- 2025-03** Abteilungsleiter (Mathematik), [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
+
+
+**Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany), [Mathematisch-Naturwissenschaftliche Fakultät](https://mathnat.uni-koeln.de/), [Universität zu Köln](https://www.uni-koeln.de/).
 
 **2023-01-01 -- 2024-08-01** Meine Forschung wurde unterstützt durch ein [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) von der [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
 

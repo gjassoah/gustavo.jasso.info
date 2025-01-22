@@ -84,7 +84,9 @@ Including my student years, I have been affiliated to the following institutions
 [![University of Bonn's Logo](/img/bonn-logo.png)](https://www.uni-bonn.de/)
 [![Lund University's Logo](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
 [![University of Cologne's Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
-{.logo}
+{.logo**
+
+**2024-04 -- 2025-03** Division Head of Mathematics, [Mathematical Institute](https://www.mi.uni-koeln.de/main/index.en.php) of the [University of Cologne](https://www.uni-koeln.de/).
 
 **Since 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany) at the [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/) of the [University of Cologne](https://www.uni-koeln.de/).
 
@@ -172,7 +174,7 @@ The recordings of most talks that took place at the FD Seminar can be streamed f
 
 {{% back-to-top %}}
 
-### Co-authors
+### Co-authors <!--  -->
 
 {{% list-coauthors %}}
 
