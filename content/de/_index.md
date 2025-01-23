@@ -86,7 +86,7 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 [![Universität zu Köln Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
 
-**2025-04-01 -- 2026-03-31** Abteilungsleiter (Mathematik), [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
+**2025-04-01 -- 2026-03-31** Abteilungsleiter, [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
 
 
 **Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany), [Mathematisch-Naturwissenschaftliche Fakultät](https://mathnat.uni-koeln.de/), [Universität zu Köln](https://www.uni-koeln.de/).
