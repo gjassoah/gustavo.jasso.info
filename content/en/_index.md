@@ -122,7 +122,11 @@ My full (legal) name, formed according to the [Spanish Naming Customs](https://e
 
 I am a member of the [Algebra and Representation Theory Group](https://www.mi.uni-koeln.de/RepTheory/) at the University of Cologne. Visit the link to learn about our activities.
 
+#### Current and upcoming activities
+
 [Köln Algebra and Representation Theory Seminar](https://sites.google.com/view/oberseminar-algebra-koeln/home)
+
+[ARTA X Advances in Representation Theory of Algebras](https://sites.google.com/view/arta-x-cologne)
 
 ### Learning seminar
 
