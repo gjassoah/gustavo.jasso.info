@@ -114,6 +114,10 @@ Including my student years, I have been affiliated to the following institutions
 
 My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
 
+### Editorial work
+
+{{% list-editorial-work %}}
+
 {{% back-to-top %}}
 
 ## Activities

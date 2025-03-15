@@ -115,6 +115,10 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 
 Mein vollständiger (rechtlicher) Name, gebildet nach den [spanischen Namensgebräuchen](https://de.wikipedia.org/wiki/Spanischer_Name) (die auch in Mexiko verwendet werden), lautet Gustavo Jasso Ahuja. Beachten Sie jedoch, dass ich meinen zweiten Nachnamen in keinem beruflichen Zusammenhang verwende.
 
+### Redaktionsarbeit
+
+{{% list-editorial-work %}}
+
 {{% back-to-top %}}
 
 ## Aktivitäten

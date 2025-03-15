@@ -1,0 +1,3 @@
+{{ range $i, $e := .Site.Data.editorialwork }}
+* [{{ .journal }}]({{ .url }}){{ if .role }}, {{ .role }}{{ end}}, {{ .period }} {{ end }}
+
