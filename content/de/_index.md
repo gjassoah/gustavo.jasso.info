@@ -153,6 +153,10 @@ Die Aufzeichnungen der meisten Vorträge des FD-Seminars können auf dem [BigBlu
 
 {{% list-students level="phd" %}}
 
+#### Mitbetreute Doktoranden
+
+{{% list-students level="cophd" %}}
+
 ### Gäste
 
 {{% list-guests %}}

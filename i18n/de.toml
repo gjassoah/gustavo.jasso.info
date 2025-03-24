@@ -4,5 +4,7 @@ other = "Publikation"
 other = "Zurück nach oben"
 [submitted]
 other = "eingereichtet"
+[Advisor]
+other = "Betreut von"
 [Afterwards]
 other = "Nachher"

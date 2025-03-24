@@ -152,6 +152,10 @@ The recordings of most talks that took place at the FD Seminar can be streamed f
 
 {{% list-students level="phd" %}}
 
+#### Co-supervised Ph.D. students
+
+{{% list-students level="cophd" %}}
+
 ### Visitors
 
 {{% list-guests %}}
