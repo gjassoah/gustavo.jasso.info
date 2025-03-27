@@ -241,7 +241,7 @@
   type: article
   url: "http://dx.doi.org/10.1016/j.jalgebra.2014.03.029"
   volume: 409
-  arXiv: 1209.4380
+  arXiv: "1209.4380"
   mr: 3198837
 - author:
   - family: Barot
