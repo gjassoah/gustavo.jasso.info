@@ -134,7 +134,7 @@ I am a member of the [Algebra and Representation Theory Group](https://www.mi.un
 
 ### Monday Seminar on Higher Structures
 
-Our research group meets every Monday 10:00-11:30 during the lecture period to hold informal discussions led by one of the participants on topics related to higher structures or on our ongoing research. For more information please see the [course catalogue](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
+Our research group meets every Monday 10:00-11:30 during the lecture period to hold informal discussions led by one of the participants on topics related to higher structures, or to present our ongoing research. For more information please see the [course catalogue](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
 
 ### Learning seminar on Higher Category Theory
 

@@ -135,7 +135,7 @@ Ich bin Mitglied der [Algebra und Darstellungstheorie Gruppe](https://www.mi.uni
 
 ### Monday Seminar on Higher Structures
 
-Unsere Forschungsgruppe trifft sich jeden Montag von 10:00 bis 11:30 Uhr während der Vorlesungszeit, um informelle Diskussionen zu halten, die von einem der Teilnehmer zu Themen im Zusammenhang mit höheren Strukturen oder zu unserer laufenden Forschung geleitet werden. Weitere Informationen entnehmen Sie bitte dem [Vorlesungsverzeichnis](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
+Unsere Forschungsgruppe trifft sich jeden Montag von 10:00 bis 11:30 Uhr während der Vorlesungszeit, um informelle Diskussionen zu halten, die von einem der Teilnehmer zu Themen im Zusammenhang mit höheren Strukturen geleitet werden, oder zur Präsentation unserer laufenden Forschung. Weitere Informationen entnehmen Sie bitte dem [Vorlesungsverzeichnis](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
 
 ### Learning seminar on Higher Category Theory
 
