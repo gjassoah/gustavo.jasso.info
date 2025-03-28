@@ -129,11 +129,15 @@ Ich bin Mitglied der [Algebra und Darstellungstheorie Gruppe](https://www.mi.uni
 
 #### Aktuelle und kommende Aktivitäten
 
-[Köln Algebra and Representation Theory Seminar](https://sites.google.com/view/oberseminar-algebra-koeln/home)
+[Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
 
 [ARTA X Advances in Representation Theory of Algebras](https://sites.google.com/view/arta-x-cologne)
 
-### Learning seminar
+### Monday Seminar on Higher Structures
+
+Unsere Forschungsgruppe trifft sich jeden Montag von 10:00 bis 11:30 Uhr während der Vorlesungszeit, um informelle Diskussionen zu halten, die von einem der Teilnehmer zu Themen im Zusammenhang mit höheren Strukturen oder zu unserer laufenden Forschung geleitet werden. Weitere Informationen entnehmen Sie bitte dem [Vorlesungsverzeichnis](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
+
+### Learning seminar on Higher Category Theory
 
 Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
 
@@ -205,7 +209,7 @@ Nachfolgend finden Sie die Notizen/Folien zu einigen meiner Vorträge sowie ein 
 
 ## Lehre
 
-Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis](http://www.mi.uni-koeln.de/main/Alle/Lehre-Studium/Vorlesungsverzeichnis/index.php).
+Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
 
 Informationen zu den von der Algebra und Darstellungstheorie-Gruppe organisierten Seminaren finden Sie unter folgendem Link:  
 [https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
