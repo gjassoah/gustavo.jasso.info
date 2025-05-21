@@ -28,6 +28,10 @@
     src: url("/fonts/SourceCodePro-Regular.woff2") format("woff2");
 }
 
+:root {
+    color-scheme: light dark;
+}
+
 html, body {
   margin: 0;
   height: 100%;
@@ -35,38 +39,14 @@ html, body {
 }
 
 body {
-    height: fit-content;
-}
-
-@media (prefers-color-scheme: light) {
-    body {
-        color: #4d4c44;
-        background-color: white;
-    }
-}
-
-@media (prefers-color-scheme: dark) {
-    body {
-        color: #4d4c44;
-        background-color: white;
-    }
-}
-
-/*
-@media (prefers-color-scheme: dark) {
-    body {
-        color: white;
-        background-color: rgb(76,76,68);
-    }
-}
-*/
-
-body {
   display: flex;
   flex-direction: column;
+  height: fit-content;
+  color: light-dark(#4d4c44, #F0F0F0);
+  background-color: light-dark(white, #1A1A1A);
 }
 
-header {  
+header {
     text-align: center;
 }
 
@@ -95,7 +75,7 @@ header h1 {
 #TableOfContents ul {
     padding: 0;
     margin: 0;
-    list-style-position: inside;    
+    list-style-position: inside;
 }
 
 #TableOfContents li {
@@ -147,7 +127,7 @@ header h1 {
 }
 
 .me p {
-    padding-top: 1em;    
+    padding-top: 1em;
 }
 
 .photo-credit {
@@ -168,37 +148,15 @@ header h1 {
     padding-left: 1.75em;
 }
 
-@media (prefers-color-scheme: light) {
-    a, a:visited { 
-        color: rgb(50,71,91);
-    }
 
-    a:hover {
-        color: rgb(50,71,91);
-    }
+a, a:visited {
+    color: light-dark(rgb(50,71,91),#0082c6);
 }
 
-@media (prefers-color-scheme: dark) {
-    a, a:visited { 
-        color: rgb(50,71,91);
-    }
-
-    a:hover {
-        color: rgb(50,71,91);
-    }
+a:hover {
+    color: light-dark(rgb(50,71,91),#0082c6);
 }
 
-/*
-@media (prefers-color-scheme: dark) {
-    a, a:visited { 
-        color: white;
-    }
-
-    a:hover {
-        color: white;
-    }
-}
-*/
 .content li {
     padding: 0.5rem;
 }
@@ -208,36 +166,14 @@ code {
     font-family: 'Source Code Pro', monospace;
 }
 
-@media (prefers-color-scheme: light) {
-    footer {
-        color: white;
-        background-color: #253746;
-        border-top: 2em solid #32475b;
-    }
-    footer a:hover {
-        color: white;
-    }
+footer {
+    color: white;
+    background-color: #253746;
+    border-top: 2em solid #32475b;
 }
-
-@media (prefers-color-scheme: dark) {
-    footer {
-        color: white;
-        background-color: #253746;
-        border-top: 2em solid #32475b;
-    }
-    footer a:hover {
-        color: white;
-   }
+footer a:hover {
+    color: white;
 }
-
-/*
-@media (prefers-color-scheme: dark) {
-    footer {
-        color: white;
-        background-color: rgb(76,76,68);
-    }
-}
-*/
 
 .back-to-top {
     text-align: right;
@@ -255,9 +191,12 @@ code {
 
 p.logo {
     text-align: center;
+    background-color: white;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
 }
 
-.logo img {    
+.logo img {
     width: 15%;
     vertical-align: middle;
     padding-left: 0.75em;
@@ -306,7 +245,7 @@ footer p {
     .photo-credit {
         display: none;
     }
-    .logo img {    
+    .logo img {
         width: 15%;
         vertical-align: middle;
         padding-left: 1.5%;
