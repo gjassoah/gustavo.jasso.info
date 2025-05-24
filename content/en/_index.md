@@ -81,6 +81,8 @@ Including my student years, I have been affiliated to the following institutions
 
 [![UNAM's Logo](/img/unam-logo.png)](https://www.unam.mx/)
 [![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
+{.logo}
+
 [![University of Bonn's Logo](/img/bonn-logo.png)](https://www.uni-bonn.de/)
 [![Lund University's Logo](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
 [![University of Cologne's Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
@@ -88,6 +90,8 @@ Including my student years, I have been affiliated to the following institutions
 
 [![UNAM Logo](/img/unam-logo-w.png)](https://www.unam.mx/)
 [![Nagoya University's Logo](/img/nagoya-logo-w.png)](https://en.nagoya-u.ac.jp/)
+{.logo-w}
+
 [![Universität Bonn Logo](/img/bonn-logo-w.png)](https://www.uni-bonn.de/)
 [![Lund University Logo](/img/lu-logo-w.png)](https://www.lunduniversity.lu.se/)
 [![Universität zu Köln Logo](/img/uni-koeln-logo-w.png)](https://www.uni-koeln.de/)
