@@ -1,6 +1,5 @@
 {{ $level := .Get "level" }}{{ range ( index .Site.Data.students $level) }}1. {{ if .website }}[{{ .name }}]({{ .website }}){{ else }}{{ .name }}{{ end }}{{ if .title }}, _{{ .title }}_{{ end }}{{ if .year }} ({{ .year }}){{ else }} ({{ .startyear }} - {{ .endyear }}){{ end }}{{ if .university }}\
 {{ .university }}.{{ end }}{{ if .advisor }}\
 _{{ T "Advisor" }} :_ [{{ .advisor }}]({{ .advisorurl }}).{{ end }}{{ if .afterwards }}\
-_{{ T "Afterwards" }} :_ {{ .afterwards }}.{{ end }}{{ if .url }}\
-[Publication]({{ .url }}){{ end }} {{ if .arXiv }} | [arXiv](https://arxiv.org/abs/{{ .arXiv }}){{ end }}
+_{{ T "Afterwards" }} :_ {{ .afterwards }}.{{ end }}
 {{ end }}{. reversed="reversed"}

@@ -150,29 +150,11 @@ I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an
 
 The recordings of most talks that took place at the FD Seminar can be streamed from the seminar's [BigBlueButton Server](https://bbb.fd-seminar.xyz) (account required).
 
-## Research group
-
-### Ph.D. students
-
-{{% list-students level="phd" %}}
-
-#### Co-supervised Ph.D. students
-
-{{% list-students level="cophd" %}}
-
-### Visitors
-
-{{% list-guests %}}
-
-{{% back-to-top %}}
-
 ## Writings
 
 ### Preprints
 
 {{% list-bib bib="preprints" %}}
-
-{{% back-to-top %}}
 
 ### Publications
 
@@ -184,25 +166,63 @@ The recordings of most talks that took place at the FD Seminar can be streamed f
 * My [master’s thesis](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-21312?func=full-set-set&set_number=210951&set_entry=000001&format=999) comprises part of article [1].
 * My [bachelor’s thesis](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-06523?func=full-set-set&set_number=211056&set_entry=000002&format=999) comprises article [2].
 
-{{% back-to-top %}}
-
 ### Proceedings, extended abstracts and other writings
 
 {{% list-bib bib="proceedings" %}}
 
-{{% back-to-top %}}
-
-### Co-authors <!--  -->
+### Co-authors
 
 {{% list-coauthors %}}
 
-{{% back-to-top %}}
-
-## Resources
+### Resources
 
 Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
 
 {{% list-resources %}}
+
+{{% back-to-top %}}
+
+## Research group
+
+### Ph.D. students
+
+{{% list-students level="phd" %}}
+
+##### Remarks 
+
+* The supervisions of students 1 and 2 began at [Lund University](https://www.maths.lu.se/english/).
+
+### Co-supervised Ph.D. students
+
+{{% list-students level="cophd" %}}
+
+### Master students
+
+{{% list-students level="msc" %}}
+
+##### Remarks
+
+* Students [7-8] were supervised at [Lund University](https://www.maths.lu.se/english/).
+* Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+
+### Bachelor students
+
+{{% list-students level="bsc" %}}
+
+##### Remarks
+
+* Students [7-12] were supervised at [Lund University](https://www.maths.lu.se/english/).
+* Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
+
+### Publications
+
+Publications by current and past members of the research group.
+
+{{% list-bib bib="research_group" %}}
+
+### Visitors
+
+{{% list-guests %}}
 
 {{% back-to-top %}}
 
@@ -222,8 +242,6 @@ Information on the seminars organised by the Algebra and Representation Theory G
 * **Winter Semester 2024/2025**  
   Homotopy theory of simplicial sets
 
-{{% back-to-top %}}
-
 ### Teaching at Lund University (2022-2024)
 
 * **Spring Term 2024**  
@@ -235,8 +253,6 @@ Information on the seminars organised by the Algebra and Representation Theory G
   MATP33 Group and Ring Theory
 * **Fall Term 2022**  
   MATM35 Number Theory
-
-{{% back-to-top %}}
 
 ### Teaching at the University of Bonn (2016--2021)
 
@@ -250,29 +266,5 @@ Information on the seminars organised by the Algebra and Representation Theory G
   S4A2 Graduate Seminar on Representation Theory "τ-tilting theory"
 * **Winter Semester 2016/2017**  
   V5A5 Advanced Topics in Representation Theory "Differential graded categories, a representation theoretic approach"
-
-{{% back-to-top %}}
-
-### Students
-
-#### Master students
-
-{{% list-students level="msc" %}}
-
-##### Remark
-
-* Students [7-8] were supervised at [Lund University](https://www.maths.lu.se/english/).
-* Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
-
-{{% back-to-top %}}
-
-#### Bachelor students
-
-{{% list-students level="bsc" %}}
-
-##### Remark 
-
-* Students [7-12] were supervised at [Lund University](https://www.maths.lu.se/english/).
-* Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
 {{% back-to-top %}}

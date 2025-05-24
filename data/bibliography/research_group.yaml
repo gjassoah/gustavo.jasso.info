@@ -1,0 +1,45 @@
+- author:
+  - family: Mochizuki
+    given: N.
+  - family: Plogmann
+    given: M.
+    member: true
+  id: NP25
+  issued: 2025
+  title: On the Auslander--Reiten Theory for Extended Hearts of Proper Connective DG Algebras
+  arXiv: 2505.16560 [math.RT]
+  url: "https://arxiv.org/abs/2505.16560"
+  type: preprint
+
+- author:
+  - family: Klemenc
+    given: J.
+    member: true
+  id: Kle22
+  journal: Homology Homotopy Appl.
+  issued: 2022
+  title: The stable Hull of an exact ∞-category
+  url: "https://doi.org/10.4310/HHA.2022.v24.n2.a9"
+  arXiv: 2010.04957
+  issue: 2
+  volume: 24
+  page: 195--220
+  mr: 4467024
+  type: article
+
+- author:
+  - family: Asai
+    given: S.
+  - family: Pfeifer
+    given: C.
+    member: true
+  id: AP22
+  journal: Algebr. Represent. Theory
+  issued: 2022
+  title: Wide Subcategories and Lattices of Torsion Classes
+  url: "https://doi.org/10.1007/s10468-021-10079-1"
+  arXiv: 1905.01148
+  volume: 25
+  page: 1611--1629
+  mr: 4512586
+  type: article
