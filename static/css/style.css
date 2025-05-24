@@ -193,6 +193,10 @@ p.logo {
     text-align: center;
 }
 
+p.logo-w {
+    text-align: center;
+}
+
 @media (prefers-color-scheme: dark) {
     .logo {
         display: none;
@@ -206,14 +210,14 @@ p.logo {
 }
 
 .logo img {
-    width: 15%;
+    width: 14%;
     vertical-align: middle;
     padding-left: 0.75em;
     padding-right: 0.75em;
 }
 
 .logo-w img {
-    width: 15%;
+    width: 14%;
     vertical-align: middle;
     padding-left: 0.75em;
     padding-right: 0.75em;
