@@ -191,12 +191,28 @@ footer a:hover {
 
 p.logo {
     text-align: center;
-    background-color: white;
-    padding-top: 0.25em;
-    padding-bottom: 0.25em;
+}
+
+@media (prefers-color-scheme: dark) {
+    .logo {
+        display: none;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    .logo-w {
+        display: none;
+    }
 }
 
 .logo img {
+    width: 15%;
+    vertical-align: middle;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+}
+
+.logo-w img {
     width: 15%;
     vertical-align: middle;
     padding-left: 0.75em;

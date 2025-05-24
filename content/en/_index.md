@@ -86,6 +86,13 @@ Including my student years, I have been affiliated to the following institutions
 [![University of Cologne's Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
 
+[![UNAM Logo](/img/unam-logo-w.png)](https://www.unam.mx/)
+[![Nagoya University's Logo](/img/nagoya-logo-w.png)](https://en.nagoya-u.ac.jp/)
+[![Universität Bonn Logo](/img/bonn-logo-w.png)](https://www.uni-bonn.de/)
+[![Lund University Logo](/img/lu-logo-w.png)](https://www.lunduniversity.lu.se/)
+[![Universität zu Köln Logo](/img/uni-koeln-logo-w.png)](https://www.uni-koeln.de/)
+{.logo-w}
+
 **2025-04-01 -- 2026-03-31** Head of Division, [Mathematical Institute](https://www.mi.uni-koeln.de/main/index.en.php) of the [University of Cologne](https://www.uni-koeln.de/).
 
 **Since 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany) at the [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/) of the [University of Cologne](https://www.uni-koeln.de/).

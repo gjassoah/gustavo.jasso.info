@@ -86,6 +86,13 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 [![Universität zu Köln Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
 
+[![UNAM Logo](/img/unam-logo-w.png)](https://www.unam.mx/)
+[![Nagoya University's Logo](/img/nagoya-logo-w.png)](https://en.nagoya-u.ac.jp/)
+[![Universität Bonn Logo](/img/bonn-logo-w.png)](https://www.uni-bonn.de/)
+[![Lund University Logo](/img/lu-logo-w.png)](https://www.lunduniversity.lu.se/)
+[![Universität zu Köln Logo](/img/uni-koeln-logo-w.png)](https://www.uni-koeln.de/)
+{.logo-w}
+
 **2025-04-01 -- 2026-03-31** Abteilungsleiter, [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
 
 
