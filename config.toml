@@ -1,6 +1,7 @@
 baseURL = "https://gustavo.jasso.info"
 disableKinds = ["taxonomy"]
 
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
