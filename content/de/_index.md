@@ -228,15 +228,15 @@ Nachfolgend finden Sie die Notizen/Folien zu einigen meiner Vorträge sowie ein 
 * Studierende [7-12] wurden an der [Lund University](https://www.maths.lu.se/english/) betreut.
 * Studierende [1-6] wurden an der [University of Bonn](https://www.math.uni-bonn.de/?language=en) betreut.
 
-### Schriften
+### Gäste
+
+{{% list-guests %}}
+
+### Schriften Mitglieder der Forschungsgruppe
 
 Veröffentlichungen aktueller und ehemaliger Mitglieder der Forschungsgruppe.
 
 {{% list-bib bib="research_group" %}}
-
-### Gäste
-
-{{% list-guests %}}
 
 {{% back-to-top %}}
 

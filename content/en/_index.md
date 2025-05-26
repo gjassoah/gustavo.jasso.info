@@ -225,15 +225,15 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 * Students [7-12] were supervised at [Lund University](https://www.maths.lu.se/english/).
 * Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
 
-### Publications
+### Visitors
+
+{{% list-guests %}}
+
+### Publications by research group members
 
 Publications by current and past members of the research group.
 
 {{% list-bib bib="research_group" %}}
-
-### Visitors
-
-{{% list-guests %}}
 
 {{% back-to-top %}}
 
