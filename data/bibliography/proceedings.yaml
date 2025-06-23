@@ -19,6 +19,7 @@
   url: "https://doi.org/10.14760/OWR-2024-20"
   title: Universal Massey Products in Representation Theory of Algebras
   type: proceedings
+  mr: 4831076
   url2: pdf/mfo/OWR-2024-20-jasso.pdf
 - author:
   - family: Jasso
@@ -44,6 +45,7 @@
   type: proceedings
   url: "https://doi.org/10.14760/OWR-2023-7"
   errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
+  mr: 4651718
   url2: pdf/mfo/OWR-2023-7-jasso.pdf
 - author:
   - family: Jasso
@@ -70,6 +72,8 @@
   collection: Abel Symposia
   issued: 2024
   page: 105-140
+  mr: 4786504
+  zbl: 07950525
 - author:
   - family: Jasso
     given: G.
@@ -98,6 +102,7 @@
   url: "https://doi.org/10.4171/owr/2020/3"
   volume: 17
   url2: pdf/mfo/OWR-2020-3-jasso.pdf
+  mr: 4214785
 - author:
   - family: Jasso
     given: G.
@@ -119,6 +124,8 @@
   url: "https://doi.org/10.1090/conm/758/15238"
   volume: 758
   arXiv: 1904.10163
+  mr: 4186973
+  zbl: 1456.18011
 - author:
   - family: Jasso
     given: G.
@@ -146,6 +153,8 @@
   url: "https://doi.org/10.1090/conm/705/14191"
   volume: 705
   arXiv: 2402.15889
+  mr: 3799490
+  zbl: 1414.16014
 - author:
   - family: Jasso
     given: G.
@@ -173,6 +182,7 @@
   url: "https://doi.org/10.4171/OWR/2017/12"
   volume: 14
   url2: pdf/mfo/OWR-2017-12-jasso.pdf
+  mr: 3757080
 - author:
   - family: Jasso
     given: G.
@@ -208,7 +218,8 @@
   title: Cluster-tilted algebras of canonical type and quivers with
     potential
   type: proceedings
-  url: "https://ring-theory-japan.com/ring/oldmeeting/2012/report2012/11.pdf/1000"
+  url: "https://ring-theory-japan.com/ring/oldmeeting/2012/report2012/11.pdf"
+  url2: pdf/proceedings/45SRTST-2012-jasso.pdf
 - author:
   - family: Jasso
     given: G.

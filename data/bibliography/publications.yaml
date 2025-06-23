@@ -11,6 +11,7 @@
   page: 1449-1453
   mr: 4824940
   type: article
+  zbl: 1548.18015
 - author:
   - family: Jasso
     given: G.
@@ -25,6 +26,7 @@
   volume: 362
   page: 279-285
   mr: 4745338
+  zbl: 1540.18016
 - author:
   - family: Dyckerhoff
     given: T.
@@ -45,6 +47,7 @@
   volume: 9
   arXiv: 1911.11719
   mr: 4211943
+  zbl: 1480.16036
 - author:
   - family: Dyckerhoff
     given: T.
@@ -65,6 +68,7 @@
   url: "https://doi.org/10.1093/imrn/rnz194"
   arXiv: 1901.06993
   mr: 4329880
+  zbl: 1536.18016
 - author:
   - family: Dyckerhoff
     given: T.
@@ -84,6 +88,7 @@
   volume: 355
   arXiv: 1811.02461
   mr: 3994443
+  zbl: 1471.16027
   errata: "In 1.10 and 1.11 the endomorphism algebras should be their opposites. In the line after 1.14 'right' should be 'left'. In the proof of Prop. 1.17, '(left)' should be '(right)' and the factors of the tensor product should be commuted. In Remark 2.29, the symbol S_{m}^{n+1} should be be replaced by S^{n+1}."
 - author:
   - family: Jasso
@@ -104,6 +109,7 @@
   volume: 351
   arXiv: 1604.03500
   mr: 3959141
+  zbl: 1427.16011
 - author:
   - family: Jasso
     given: G.
@@ -122,6 +128,7 @@
   volume: 51
   arXiv: 1610.05458
   mr: 3919557
+  zbl: 1423.16016
 - author:
   - family: Demonet
     given: L.
@@ -141,6 +148,7 @@
   url: "https://doi.org/10.1093/imrn/rnx135"
   arXiv: 1503.00285
   mr: 3910476
+  zbl: 1485.16013
 - author:
   - family: Iyama
     given: O.
@@ -159,6 +167,7 @@
   volume: 20
   arXiv: 1602.00127
   mr: 3638352
+  zbl: 1387.16012
 - author:
   - family: Jasso
     given: G.
@@ -174,6 +183,7 @@
   volume: 283
   arXiv: 1405.7805
   mr: 3519980
+  zbl: 1356.18005
   url: https://doi.org/10.1007/s00209-016-1619-8
   errata: "(S. Kvamme) In Lemma 3.22, the adverbs 'contravariantly' and 'covariantly' should be exchanged in items (vi) and (vii). In Theorem 4.14 the ambient additive category should be assumed to be weakly idempotent complete so that the class Y is closed under weak isomorphisms, see Setion 8 in [Kvame's paper](https://arxiv.org/abs/2502.21064) for the correct statement in the non-weakly idempotent complete case."
 - author:
@@ -196,6 +206,7 @@
   volume: 93
   arXiv: 1311.2089
   mr: 3455785
+  zbl: 1371.18009
 - author:
   - family: Jasso
     given: G.
@@ -212,6 +223,7 @@
   volume: 273
   arXiv: 1402.6036
   mr: 3311756
+  zbl: 1453.14051
 - author:
   - family: Jasso
     given: G.
@@ -227,6 +239,7 @@
   url: "http://dx.doi.org/10.1093/imrn/rnu163"
   arXiv: 1302.2709
   mr: 3428959
+  zbl: 1357.16028
 - author:
   - family: Jasso
     given: G.
@@ -243,6 +256,7 @@
   volume: 409
   arXiv: "1209.4380"
   mr: 3198837
+  zbl: 1319.17013
 - author:
   - family: Barot
     given: M.
@@ -264,3 +278,4 @@
   volume: 217
   arXiv: 1202.4816
   mr: 3053518
+  zbl: 1317.13050
