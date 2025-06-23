@@ -20,6 +20,7 @@
   title: Universal Massey Products in Representation Theory of Algebras
   type: proceedings
   mr: 4831076
+  zbl: 1553.00030
   url2: pdf/mfo/OWR-2024-20-jasso.pdf
 - author:
   - family: Jasso
@@ -46,6 +47,7 @@
   url: "https://doi.org/10.14760/OWR-2023-7"
   errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
   mr: 4651718
+  zbl: 1525.00010
   url2: pdf/mfo/OWR-2023-7-jasso.pdf
 - author:
   - family: Jasso
@@ -73,7 +75,7 @@
   issued: 2024
   page: 105-140
   mr: 4786504
-  zbl: 07950525
+  zbl: 7950525
 - author:
   - family: Jasso
     given: G.
@@ -103,6 +105,7 @@
   volume: 17
   url2: pdf/mfo/OWR-2020-3-jasso.pdf
   mr: 4214785
+  zbl: 1460.00031
 - author:
   - family: Jasso
     given: G.
@@ -183,6 +186,7 @@
   volume: 14
   url2: pdf/mfo/OWR-2017-12-jasso.pdf
   mr: 3757080
+  zbl: 1390.00083
 - author:
   - family: Jasso
     given: G.
