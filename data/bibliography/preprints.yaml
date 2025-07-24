@@ -1,6 +1,18 @@
 - author:
   - family: Jasso
     given: G.
+  - family: Muro
+    given: F.
+  id: JM25
+  issued: 2025
+  title: Obstruction theory for _A_-infinity bimodules
+  arXiv: 2507.17568 [math.AT]
+  url: "https://arxiv.org/abs/2507.17568"
+  type: preprint
+
+- author:
+  - family: Jasso
+    given: G.
   id: Jas25
   issued: 2025
   title: _Q_-shaped derived categories as derived categories of differential graded bimodules
