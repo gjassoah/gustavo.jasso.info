@@ -15,12 +15,15 @@
   - family: Solotar
     given: A.
   id: MR
-  issued: to appear
+  issued: 2024
   url: "https://doi.org/10.14760/OWR-2024-20"
   title: Universal Massey Products in Representation Theory of Algebras
   type: proceedings
   mr: 4831076
   zbl: "1553.00030"
+  pages: 1148-1150
+  collectionNo: 2
+  volume: 21
   url2: pdf/mfo/OWR-2024-20-jasso.pdf
 - author:
   - family: Jasso
@@ -40,13 +43,16 @@
   - family: Schröer
     given: J.
   id: MR
-  issued: to appear
+  issued: 2023
   title: Derived Endomorphism Algebras in Higher Auslander--Reiten
     Theory
   type: proceedings
   url: "https://doi.org/10.14760/OWR-2023-7"
   errata: In point (2) of the second theorem, the degree 0 part of B must be basic self-injective.
   mr: 4651718
+  pages: 409-412
+  collectionNo: 1
+  volume: 20
   zbl: "1525.00010"
   url2: pdf/mfo/OWR-2023-7-jasso.pdf
 - author:
