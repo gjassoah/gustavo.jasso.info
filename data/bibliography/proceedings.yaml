@@ -216,7 +216,7 @@
   page: 157-160
   title: Reduction of _τ_-tilting modules and torsion classes
   type: proceedings
-  url: "pdf/proceedings/RAQ-2013-jasso.pdf"
+  url2: "pdf/proceedings/RAQ-2013-jasso.pdf"
 - author:
   - family: Jasso
     given: G.
@@ -243,4 +243,4 @@
   title: Cluster-tilted algebras of canonical type and graded quivers
     with potential
   type: proceedings
-  url: "pdf/proceedings/RAQ-2012-jasso.pdf"
+  url2: "pdf/proceedings/RAQ-2012-jasso.pdf"
