@@ -1,6 +1,16 @@
 - author:
   - family: Jasso
     given: G.
+  - family: Muro
+    given: F.
+  title: 'Minimal A-infinity algebras of endomorphisms: The case of dZ-cluster tilting objects'
+  type: preprint
+  arXiv: 2508.18852 [math.RT]
+  url: "https://arxiv.org/abs/2508.18852"
+  status: to appear in the proceedings of the XXI International Conference on Representations of Algebras
+- author:
+  - family: Jasso
+    given: G.
   collection: Oberwolfach Rep.
   proceedings: "Hochschild (Co)Homology and Applications: Abstracts from the workshop held
     April 14--19, 2024"
