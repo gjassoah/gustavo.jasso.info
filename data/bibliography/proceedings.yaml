@@ -7,13 +7,16 @@
   type: preprint
   arXiv: 2508.18852 [math.RT]
   url: "https://arxiv.org/abs/2508.18852"
-  status: to appear in the proceedings of the XXI International Conference on Representations of Algebras
+  note: Contribution to the proceedings of the ICRA 2024.
+  status: submitted
 - author:
   - family: Jasso
     given: G.
   title: 'Brackets, trees and the Borromean rings'
-  type: unpublished
-  status: contribution to the Snapshots of modern mathematics from Oberwolfach, under review
+  type: preprint
+  status: submitted
+  note: Contribution to the Snapshots of modern mathematics from Oberwolfach.
+  url2: pdf/mfo/gjasso-mfo-snapshot.pdf
 - author:
   - family: Jasso
     given: G.
