@@ -137,11 +137,15 @@ My full (legal) name, formed according to the [Spanish Naming Customs](https://e
 
 I am a member of the [Algebra and Representation Theory Group](https://www.mi.uni-koeln.de/RepTheory/) at the University of Cologne. Visit the link to learn about our activities.
 
-#### Current and upcoming activities
-
 [Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
 
-[ARTA X Advances in Representation Theory of Algebras](https://sites.google.com/view/arta-x-cologne)
+### Upcoming events
+
+[MFO Workshop: Representation Theory of Quivers and Finite-Dimensional Algebras](https://www.mfo.de/occasion/2607/www_view)
+
+### Past events
+
+{{% list-activities %}}
 
 ### Monday Seminar on Higher Structures
 

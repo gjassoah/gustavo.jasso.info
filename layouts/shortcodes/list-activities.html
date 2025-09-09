@@ -1,0 +1,3 @@
+{{ range $i, $e := .Site.Data.activities }}
+1. [{{ .activity }}]({{ .url }}) {{ end }}
+{. reversed="reversed"}

@@ -138,11 +138,15 @@ Mein vollständiger (rechtlicher) Name, gebildet nach den [spanischen Namensgebr
 
 Ich bin Mitglied der [Algebra und Darstellungstheorie Gruppe](https://www.mi.uni-koeln.de/RepTheory/) an der Universität zu Köln. Besuchen Sie den Link, um mehr über unsere Aktivitäten zu erfahren.
 
-#### Aktuelle und kommende Aktivitäten
-
 [Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
 
-[ARTA X Advances in Representation Theory of Algebras](https://sites.google.com/view/arta-x-cologne)
+### Kommende Veranstaltungen
+
+[MFO Workshop: Representation Theory of Quivers and Finite-Dimensional Algebras](https://www.mfo.de/occasion/2607/www_view)
+
+### Vorherige Veranstaltungen
+
+{{% list-activities %}}
 
 ### Monday Seminar on Higher Structures
 
