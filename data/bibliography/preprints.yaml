@@ -3,6 +3,18 @@
     given: G.
   - family: Muro
     given: F.
+  id: JM25b
+  issued: 2025
+  title: "The Derived Auslander-Iyama Correspondence II: Bimodule Calabi-Yau Structures"
+  arXiv: 2509.22625 [math.RT]
+  url: "https://arxiv.org/abs/2509.22625"
+  type: preprint
+
+- author:
+  - family: Jasso
+    given: G.
+  - family: Muro
+    given: F.
   id: JM25
   issued: 2025
   title: Obstruction theory for _A_-infinity bimodules
