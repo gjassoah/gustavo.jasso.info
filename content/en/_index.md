@@ -237,7 +237,7 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 
 ### Publications by research group members
 
-Publications by current and past members of the research group.
+Publications by current and past students and members of the research group.
 
 {{% list-bib bib="research_group" %}}
 
@@ -245,43 +245,43 @@ Publications by current and past members of the research group.
 
 ## Teaching
 
-Detailed information on my current teaching activities can be found in the [course catalogue](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
+Detailed information on my current teaching activities can be found in the [course catalogue]({{% param "vvURl" %}}).
 
-Information on the seminars organised by the Algebra and Representation Theory Group can be found at the following URL:  
+Information on the seminars organised by the Algebra and Representation Theory Group can be found at the following URL:
 [https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
 
 @UzK students: Please write me an e-mail if you are interested in writing a bachelor's or master's thesis under my supervision.
 
 ### Teaching at the University of Cologne (since 2024)
 
-* **Summer Semester 2025**  
+* **Summer Semester 2025**
   Introduction to &#x221E;-category theory
-* **Winter Semester 2024/2025**  
+* **Winter Semester 2024/2025**
   Homotopy theory of simplicial sets
 
 ### Teaching at Lund University (2022-2024)
 
-* **Spring Term 2024**  
+* **Spring Term 2024**
   MATP33 Group and Ring Theory
-* **Fall Term 2023**  
-  MATP43 Representation Theory of Quivers and Algebras  
+* **Fall Term 2023**
+  MATP43 Representation Theory of Quivers and Algebras
   MATM35 Number Theory
-* **Spring Term 2023**  
+* **Spring Term 2023**
   MATP33 Group and Ring Theory
-* **Fall Term 2022**  
+* **Fall Term 2022**
   MATM35 Number Theory
 
 ### Teaching at the University of Bonn (2016--2021)
 
-* **Winter Semester 2021/2022**  
+* **Winter Semester 2021/2022**
   S4A2 Graduate Seminar on Representation Theory "Tilting theory" (co-organised with Prof. Dr. Jan Schröer)
-* **Summer Semester 2021**  
+* **Summer Semester 2021**
   V5A2 Selected topics in Algebra "Differential graded categories"
-* **Summer Semester 2019**  
+* **Summer Semester 2019**
   S4A2 Graduate Seminar on Representation Theory "Triangulated categories in the representation theory of finite-dimensional algebras"
-* **Summer Semester 2018**  
+* **Summer Semester 2018**
   S4A2 Graduate Seminar on Representation Theory "τ-tilting theory"
-* **Winter Semester 2016/2017**  
+* **Winter Semester 2016/2017**
   V5A5 Advanced Topics in Representation Theory "Differential graded categories, a representation theoretic approach"
 
 {{% back-to-top %}}
