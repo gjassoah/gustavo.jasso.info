@@ -165,8 +165,6 @@ Since May 2021, I am one for the maintainers of the [FDLIST](https://fdlist.math
 
 I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an online seminar on representation theory of quivers and finite-dimensional algebras. The seminar ran from May 2020 until May 2024.
 
-The recordings of most talks that took place at the FD Seminar can be streamed from the seminar's [BigBlueButton Server](https://bbb.fd-seminar.xyz) (account required).
-
 ## Writings
 
 ### Preprints
