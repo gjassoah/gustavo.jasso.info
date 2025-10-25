@@ -118,7 +118,9 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 
 **2014-10-01 -- 2017-09-30** [Hausdorff Postdoc](https://www.hcm.uni-bonn.de/people/postdocs/hausdorff-postdocs/), [Hausdorff Center for Mathematics](https://www.hcm.uni-bonn.de/research/research-areas/ra-a2/), [Rheinische Friedrich-Wilhelms-Universität Bonn](http://www3.uni-bonn.de/) (in der Forschungsgruppe von [Prof. Dr. Jan Schröer](http://www.math.uni-bonn.de/~schroer/)).
 
-**2011-10-01 -- 2014-09-29** Doktorand, [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/), [Nagoya University](http://en.nagoya-u.ac.jp/) (unter der Betreuung von [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/)).
+**2011-10-01 -- 2014-09-29** Doktorand, [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/), [Nagoya University](http://en.nagoya-u.ac.jp/) (unter der Betreuung von [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/)**.
+
+**2010-11-03** [Premio Sotero Prieto 2010](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.bb056147ac466033.736f7465726f323031302e706466.pdf) (drei Bachelorarbeiten wurden ausgezeichnet).
 
 **2005-08-15 -- 2011-09-14** Bachelor- und Master- student, [Facultad de Ciencias](http://www.fciencias.unam.mx/) (Bachelor) / [Instituto de Matemáticas](https://www.matem.unam.mx/) (Master), [Universidad Nacional Autónoma de México](https://www.unam.mx/). Unter der Betreuung von [Michael Barot](https://www.matem.unam.mx/~barot/) (Bachelor und Master) and [Prof. Dr. Christof Geiß](https://www.matem.unam.mx/~christof/) (Master, inoffiziell).
 
