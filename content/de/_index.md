@@ -3,7 +3,7 @@ title: Prof. Dr. Gustavo Jasso
 ---
 ![Gustavo Jasso's photograph](/img/gjasso.png)  
 {.me}
-Foto: Birgit Palgen
+Foto (12.2020): Birgit Palgen
 {.photo-credit}
 [Mathematical Insitute](http://www.mi.uni-koeln.de/)  
 [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/)  
