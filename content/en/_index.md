@@ -119,7 +119,8 @@ Including my student years, I have been affiliated to the following institutions
 
 **2011-10-01 -- 2014-09-29** Ph.D student at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) of [Nagoya University](http://en.nagoya-u.ac.jp/) under the supervision of [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/).
 
-**2010-11-03** [Premio Sotero Prieto 2010](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.bb056147ac466033.736f7465726f323031302e706466.pdf) (three bachelor's theses were recognised).
+**2010-11-03** [Premio Sotero Prieto 2010](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.bb056147ac466033.736f7465726f323031302e706466.pdf)
+(three bachelor's theses were recognised).
 
 **2005-08-15 -- 2011-09-14** B.Sc. and M.Sc. student at the [Facultad de Ciencias](http://www.fciencias.unam.mx/) (B.Sc.) and the [Instituto de Matemáticas](https://www.matem.unam.mx/) (M.Sc.) of the [Universidad Nacional Autónoma de México](https://www.unam.mx/) under the supervision of [Michael Barot](https://www.matem.unam.mx/~barot/) (B.Sc. and M.Sc. thesis advisor) and [Prof. Dr. Christof Geiß](https://www.matem.unam.mx/~christof/) (M.Sc. thesis unofficial second advisor).
 
@@ -242,6 +243,10 @@ Publications by current and past students and members of the research group.
 ### Visitors
 
 {{% list-guests %}}
+
+### Research Group Photographs
+
+{{% list-group-photos %}}
 
 ## Teaching
 

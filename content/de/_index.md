@@ -246,6 +246,10 @@ Veröffentlichungen aktueller und ehemaliger Studierende und Mitglieder der Fors
 
 {{% list-guests %}}
 
+### Forschungsgruppe Fotos
+
+{{% list-group-photos %}}
+
 ## Lehre
 
 Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis]({{% param "vvURl" %}}).
