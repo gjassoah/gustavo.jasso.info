@@ -1,0 +1,59 @@
+- course: Algebra und Zahlentheorie
+  year: 2026/2027
+  term: Winter Semester
+  university: uzk
+  type: Vorlesung
+
+- course: Kombinatorische Themen in der Darstellungstheorie von Köchern
+  year: 2026/2027
+  term: Winter Semester
+  university: uzk
+  type: Seminar
+
+- course: Homotopy theory of simplicial sets
+  year: 2026
+  term: Sommer Semester
+  university: uzk
+  type: Vorlesung
+
+- course: Cluster Algebren
+  year: 2026
+  term: Sommer Semester
+  university: uzk
+  type: Seminar
+
+- course: Derived categories of differential graded categories
+  year: 2025/2026
+  term: Winter Semester
+  university: uzk
+  type: Vorlesung
+
+- course: Kategorientheorie
+  year: 2025/2026
+  term: Winter Semester
+  university: uzk
+  type: Seminar
+
+- course: Introduction to infinity-category theory
+  year: 2025
+  term: Sommer Semester
+  university: uzk
+  type: Vorlesung
+
+- course: Tilting Theory
+  year: 2025
+  term: Sommer Semester
+  university: uzk
+  type: Seminar
+
+- course: Homotopy theory of simplicial sets
+  year: 2024/2025
+  term: Winter Semester
+  university: uzk
+  type: Vorlesung
+
+- course: Auslander-Reiten Theory
+  year: 2024/2025
+  term: Winter Semester
+  university: uzk
+  type: Seminar

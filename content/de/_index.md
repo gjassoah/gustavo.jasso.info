@@ -259,36 +259,16 @@ Informationen zu den von der Algebra und Darstellungstheorie-Gruppe organisierte
 
 Bitte schreiben Sie mir eine E-Mail, wenn Sie daran interessiert, eine Abschlussarbeit unter meiner Betreuung zu schreiben.
 
-### Vorlesungen an der Universität zu Köln (seit 2024)
+### Vorlesungen und Seminare an der Universität zu Köln (seit 2024)
 
-* **Summer Semester 2025**
-  Introduction to &#x221E;-category theory
-* **Winter Semester 2024/2025**
-  Homotopy theory of simplicial sets
+{{% list-courses university="uzk" %}}
 
 ### Vorlesungen an der Lund University (2022-2024)
 
-* **Spring Term 2024**
-  MATP33 Group and Ring Theory
-* **Fall Term 2023**
-  MATP43 Representation Theory of Quivers and Algebras
-  MATM35 Number Theory
-* **Spring Term 2023**
-  MATP33 Group and Ring Theory
-* **Fall Term 2022**
-  MATM35 Number Theory
+{{% list-courses university="lund" %}}
 
-### Vorlesungen an der Universität Bonn (2016--2021)
+### Vorlesungen und Seminare an der Universität Bonn (2016--2021)
 
-* **Winter Semester 2021/2022**
-  S4A2 Graduate Seminar on Representation Theory "Tilting theory" (co-organised with Prof. Dr. Jan Schröer)
-* **Summer Semester 2021**
-  V5A2 Selected topics in Algebra "Differential graded categories"
-* **Summer Semester 2019**
-  S4A2 Graduate Seminar on Representation Theory "Triangulated categories in the representation theory of finite-dimensional algebras"
-* **Summer Semester 2018**
-  S4A2 Graduate Seminar on Representation Theory "τ-tilting theory"
-* **Winter Semester 2016/2017**
-  V5A5 Advanced Topics in Representation Theory "Differential graded categories, a representation theoretic approach"
+{{% list-courses university="bonn" %}}
 
 {{% back-to-top %}}

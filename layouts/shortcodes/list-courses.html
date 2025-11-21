@@ -1,0 +1,3 @@
+{{ $university := .Get "university" }}{{ range ( index .Site.Data.courses $university) }}* **{{ .term }} {{ .year }}**
+{{ if eq .type "Seminar" }} {{ .type }}:{{ end }} {{ .course }}
+{{ end }}
