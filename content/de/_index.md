@@ -29,7 +29,7 @@ Telefonnummer: +49 221 470 3715
 
 Sprechstunden: nach Vereinbarung  
 
-Sekretariat: [Ms. Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
+Sekretariat: [Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
 ### E-mail Adresse
 
