@@ -73,6 +73,10 @@ Sie können sich gerne über bevorstehende Stellenausschreibungen in der Gruppe 
 
 Bitte schicken Sie mir keine unaufgeforderten Bewerbungsunterlagen. Aus Sicherheitsgründen werde ich **unverlangt eingesandte Dateien nicht öffnen.**
 
+#### Promotionsinteressierende
+
+Das Hypatia-Netzwerk für Gleichstellung hat eine Broschüre mit [nützlichen Informationen für angehende Doktoranden in Mathematik und Informatik](https://www.mi.uni-koeln.de/hypatia/promowie/) erstellt.
+
 {{% back-to-top %}}
 
 ## Curriculum vitae

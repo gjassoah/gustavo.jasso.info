@@ -73,6 +73,11 @@ You are welcome to inquire about upcoming advertisements of positions in the Alg
 
 _Please do not send me unsolicited application materials. For security reasons, **I will not open unsolicited files.**_
 
+#### For prospective doctoral students
+
+The Hypatia Network for Equality has prepared a brochure with useful [information for prospective doctoral students in Mathematics and Informatics](https://www.mi.uni-koeln.de/hypatia/promowie/)
+
+
 {{% back-to-top %}}
 
 ## Curriculum vitae
