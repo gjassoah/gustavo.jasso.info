@@ -1,4 +1,4 @@
 ---
 type: redirect
-target: /pdf/mfo/gjasso-mfo-snapshot.pdf
+target: https://doi.org/10.14760/SNAP-2025-007-EN
 ---
