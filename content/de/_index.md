@@ -61,7 +61,7 @@ Ich bin Mathematiker. Meine Forschungsinteressen umfassen die folgenden Themen:
 * Homologische und homotopische Algebra, höhere Kategorientheorie
 * Cluster-Algebren und ihre kategorifizierung
 
-Dieser [Snapshot](/pdf/mfo/gjasso-mfo-snapshot.pdf) könnte für Sie von Interesse sein, wenn Sie sich für meine Forschung interessieren, aber kein Mathematiker sind.
+Dieser [Snapshot](https://publications.mfo.de/handle/mfo/4347) könnte für Sie von Interesse sein, wenn Sie sich für meine Forschung interessieren, aber kein Mathematiker sind.
 
 ### Akademische Profile
 
