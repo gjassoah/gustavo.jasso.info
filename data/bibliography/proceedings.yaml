@@ -25,11 +25,11 @@
 - author:
   - family: Jasso
     given: G.
+  journal: Snapshots of modern mathematics from Oberwolfach
+  volume: 2025
+  number: 7
   title: 'Brackets, trees and the Borromean rings'
-  type: preprint
-  status: submitted
-  note: Contribution to the Snapshots of modern mathematics from Oberwolfach.
-  url2: pdf/mfo/gjasso-mfo-snapshot.pdf
+  url1: "https://doi.org/10.14760/SNAP-2025-007-EN"
 - author:
   - family: Jasso
     given: G.
