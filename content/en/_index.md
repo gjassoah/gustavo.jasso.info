@@ -61,7 +61,7 @@ I am a mathematician. My research interests include the following topics:
 * Homological and homotopical algebra, higher category theory
 * Cluster algebras and their categorifications
 
-If you are interested in learning about my research but you are not a mathematician, you might be interested in this [Snapshot](https://publications.mfo.de/handle/mfo/4347).
+If you are interested in learning about my research but you are not a mathematician, you might be interested in this [Snapshot](https://doi.org/10.14760/SNAP-2025-007-EN). This snapshot is also available at the website [IMAGINARY](https://www.imaginary.org/), which also recommend.
 
 ### Academical profiles
 
