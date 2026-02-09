@@ -81,7 +81,7 @@ Das Hypatia-Netzwerk für Gleichstellung hat eine Broschüre mit [nützlichen In
 
 ## Curriculum vitae
 
-Meinen [verkürzten Lebenslauf herunterladen](pdf/gjasso-cv.pdf) (vollständiger Lebenslauf auf Anfrage erhältlich).
+Meinen [verkürzten Lebenslauf herunterladen](/pdf/gjasso-cv.pdf) (vollständiger Lebenslauf auf Anfrage erhältlich).
 
 Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufbahn an den folgenden Einrichtungen beteiligt:
 
@@ -103,7 +103,7 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 [![Universität zu Köln Logo](/img/uni-koeln-logo-w.png)](https://www.uni-koeln.de/)
 {.logo-w}
 
-**2025-04-01 -- 2026-03-31** Abteilungsleiter, [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
+**2025-04-01 -- 2027-03-31** Abteilungsleiter, [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
 
 
 **Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany), [Mathematisch-Naturwissenschaftliche Fakultät](https://mathnat.uni-koeln.de/), [Universität zu Köln](https://www.uni-koeln.de/).
