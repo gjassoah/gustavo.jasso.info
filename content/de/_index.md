@@ -61,7 +61,7 @@ Ich bin Mathematiker. Meine Forschungsinteressen umfassen die folgenden Themen:
 * Homologische und homotopische Algebra, höhere Kategorientheorie
 * Cluster-Algebren und ihre kategorifizierung
 
-Dieser [Snapshot](https://publications.mfo.de/handle/mfo/4347) könnte für Sie von Interesse sein, wenn Sie sich für meine Forschung interessieren, aber kein Mathematiker sind. Dieser Schnappschuss ist auch auf der Website [IMAGINARY](https://www.imaginary.org/) verfügbar, die ebenfalls empfehlenswert ist. Sie können auch [die Folien](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings) des zu diesem Snapshot gehörenden Vortrags herunterladen.
+Dieser [Snapshot](https://publications.mfo.de/handle/mfo/4347) könnte für Sie von Interesse sein, wenn Sie sich für meine Forschung interessieren, aber kein Mathematiker sind. Dieser Schnappschuss ist auch auf der Website [IMAGINARY](https://www.imaginary.org/) verfügbar, die ebenfalls empfehlenswert ist. Sie können auch [die Folien](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings.pdf) des zu diesem Snapshot gehörenden Vortrags herunterladen.
 
 ### Akademische Profile
 
