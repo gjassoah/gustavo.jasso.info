@@ -61,7 +61,7 @@ I am a mathematician. My research interests include the following topics:
 * Homological and homotopical algebra, higher category theory
 * Cluster algebras and their categorifications
 
-If you are interested in learning about my research but you are not a mathematician, you might be interested in this [Snapshot](https://doi.org/10.14760/SNAP-2025-007-EN). This snapshot is also available at the website [IMAGINARY](https://www.imaginary.org/), which I also recommend.
+If you are interested in learning about my research but you are not a mathematician, you might be interested in this [Snapshot](https://doi.org/10.14760/SNAP-2025-007-EN). This snapshot is also available at the website [IMAGINARY](https://www.imaginary.org/), which I also recommend. You can also [download the slides](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings) of a talk based on this snapshot.
 
 ### Academical profiles
 
