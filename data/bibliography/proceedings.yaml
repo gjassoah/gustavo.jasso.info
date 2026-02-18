@@ -29,7 +29,8 @@
   volume: 2025
   number: 7
   title: 'Brackets, trees and the Borromean rings'
-  url1: "https://doi.org/10.14760/SNAP-2025-007-EN"
+  type: article
+  url: "https://doi.org/10.14760/SNAP-2025-007-EN"
 - author:
   - family: Jasso
     given: G.
