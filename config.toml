@@ -2,7 +2,7 @@ baseURL = "https://gustavo.jasso.info"
 disableKinds = ["taxonomy"]
 
 [params]
-  vvURL = "https://math.uni-koeln.de/sites/math_career/studium/Vorlesungs-Seminarverzeichnisse/KVV_WiSe2526.pdf"
+  vvURL = "https://math.uni-koeln.de/sites/math_career/studium/Vorlesungs-Seminarverzeichnisse/KVV_SoSe26.pdf"
 
 [markup]
   [markup.goldmark]
