@@ -1,4 +1,15 @@
 - author:
+  - family: Plogmann
+    given: M.
+    member: true
+  id: Plo26
+  issued: 20256
+  title: Complicial simple-minded collections
+  arXiv: 2603.03122 [math.RT]
+  url: "https://arxiv.org/abs/2603.03122"
+  type: preprint
+
+- author:
   - family: Mochizuki
     given: N.
   - family: Plogmann
