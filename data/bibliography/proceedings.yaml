@@ -1,6 +1,15 @@
 - author:
   - family: Jasso
     given: G.
+  title: "Stable infinity-categories for representation theorists"
+  type: preprint
+  arXiv: 2603.14970 [math.RT]
+  url: "https://arxiv.org/abs/2603.14970"
+  status: submitted
+  note: Contribution to the proceedings of the 10th conference on Advances in Representation Theory of Algebras (ARTA X)
+- author:
+  - family: Jasso
+    given: G.
   - family: Krause
     given: H.
   - family: Schroll
