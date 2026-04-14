@@ -1,3 +1,7 @@
+- name: Ryu Tomonaga
+  affiliation: Tokyo
+  period: Jul 2026
+
 - name: Javier Díaz Cabrera
   affiliation: Sevilla
   period: Apr-Jul 2026
@@ -5,6 +9,10 @@
 - name: Mika Norlén Jäderberg
   affiliation: Linköping
   period: Apr-Jul 2026
+
+- name: Omar Gómez
+  affiliation: Bielefeld
+  period: February 2026
 
 - name: Jonathan Lindell
   affiliation: Uppsala
