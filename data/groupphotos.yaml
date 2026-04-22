@@ -1,9 +1,14 @@
-- period: 2025-WS
-  periodtext: "WS 2025/2026"
+- period: 2026-SoSe
+  periodtext: "SoSe 2026"
+  names: Gustavo Jasso, Edoardo Tachetti (guest), Javier Díaz Cabrera (guest), Mika Jäderberg (guest), Jan Thomm, Marvin Plogmann, Leah Manzanilla
+  date: 2026-04-21
+
+- period: 2025-WiSe
+  periodtext: "WiSe 2025/2026"
   names: Leah Manzanilla, Jan Thomm, Jonathan Lindell (guest), Marvin Plogmann, Gustavo Jasso
   date: 2025-12-18
 
-- period: 2024-WS
-  periodtext: "WS 2024/2025"
+- period: 2024-WiSe
+  periodtext: "WiSe 2024/2025"
   names: David Nkansah (guest), Marvin Plogmann, Jan Thomm, Gustavo Jasso, Leah Manzanilla
   date: 2025-10-28
