@@ -1,6 +1,19 @@
 - author:
   - family: Jasso
     given: G.
+  - family: Muro
+    given: F.
+  id: JKM22
+  issued: 2022
+  title: The Derived Auslander--Iyama Correspondence
+  subtitle: with an appendix by B. Keller
+  arXiv: 2208.14413 [math.RT]
+  url: "https://arxiv.org/abs/2208.14413"
+  status: accepted for publication in J. Amer. Math. Soc.
+  type: preprint
+- author:
+  - family: Jasso
+    given: G.
   id: Jas25
   issued: 2025
   title: _Q_-shaped derived categories as derived categories of differential graded bimodules
