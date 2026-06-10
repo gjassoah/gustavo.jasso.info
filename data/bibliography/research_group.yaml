@@ -1,4 +1,24 @@
 - author:
+  - family: Bauwens
+    given: Finn.
+  - family: Hanihara
+    given: N.
+  - family: Marczinzik
+    given: R.
+  - family: Plogmann
+    given: M.
+    member: true
+  - family: Thomm
+    given: J.
+    member: true
+  id: BHMPT
+  issued: 20256
+  title: Spherical modules and the Auslander--Gorenstein condition for Auslander--Yoneda algebras
+  arXiv: 2606.10901 [math.RT]
+  url: "https://arxiv.org/abs/2606.10901"
+  type: preprint
+
+- author:
   - family: Plogmann
     given: M.
     member: true
@@ -21,6 +41,7 @@
   arXiv: 2505.16560 [math.RT]
   url: "https://arxiv.org/abs/2505.16560"
   type: preprint
+  status: accepted for publication in Bull. Lond. Math. Soc.
 
 - author:
   - family: Klemenc
