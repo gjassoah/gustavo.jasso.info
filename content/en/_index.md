@@ -262,6 +262,8 @@ Information on the seminars organised by the Algebra and Representation Theory G
 
 @UzK students: Please write me an e-mail if you are interested in writing a bachelor's or master's thesis under my supervision.
 
+[Recommendations for the use of generative AI programmes in our Mathematics study programmes](https://math.uni-koeln.de/sites/math_career/studium/KI/Empfehlungen_KI_Nutzung.pdf)
+
 ### Teaching at the University of Cologne (since 2024)
 
 {{% list-courses university="uzk" %}}

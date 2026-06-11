@@ -263,6 +263,8 @@ Informationen zu den von der Algebra und Darstellungstheorie-Gruppe organisierte
 
 Bitte schreiben Sie mir eine E-Mail, wenn Sie daran interessiert, eine Abschlussarbeit unter meiner Betreuung zu schreiben.
 
+[Empfehlungen zum Einsatz generativer KI-Programme im Mathematikstudium](https://math.uni-koeln.de/sites/math_career/studium/KI/Empfehlungen_KI_Nutzung.pdf)
+
 ### Vorlesungen und Seminare an der Universität zu Köln (seit 2024)
 
 {{% list-courses university="uzk" %}}
