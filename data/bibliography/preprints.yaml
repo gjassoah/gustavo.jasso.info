@@ -1,4 +1,17 @@
 - author:
+  - family: Gómez
+    given: J. O.
+  - family: Jasso
+    given: G.
+  - family: Nielsen
+    given: M.
+  id: GJN
+  issued: 2026
+  title: Hopfological algebra, revisited
+  arXiv: 2606.19485 [math.RT]
+  url: "https://arxiv.org/abs/2606.19485"
+  type: preprint
+- author:
   - family: Jasso
     given: G.
   - family: Muro
