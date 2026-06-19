@@ -1,33 +1,30 @@
 - name: Ryu Tomonaga
-  affiliation: Tokyo
+  affiliation: Tokyo, JP
   period: Jul 2026
 
 - name: Erik Darpö
-  affiliation: Linköping
+  affiliation: Linköping, SE
   period: Jun 2026
 
 - name: Edoardo Tachetti
-  affiliation: Verona/Trento
+  affiliation: Verona/Trento, IT
   period: Apr-Dec 2026
 
 - name: Norihiro Hanihara
   affiliation: Kyushu, JP
   period: Apr-May 2026
 
-- name: Javier Díaz Cabrera
-  affiliation: Sevilla, ES
-  period: Apr-Jul 2026
 
 - name: Mika Norlén Jäderberg
   affiliation: Linköping, SE
   period: Apr-Jul 2026
 
 - name: Javier Díaz Cabrera
-  affiliation: Sevilla
+  affiliation: Sevilla, ES
   period: Apr-Jul 2026
 
 - name: Dr. Omar Gómez
-  affiliation: Bielefeld
+  affiliation: Bielefeld, DE
   period: February 2026
 
 - name: Jonathan Lindell
