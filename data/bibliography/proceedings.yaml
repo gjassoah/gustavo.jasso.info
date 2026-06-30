@@ -6,7 +6,7 @@
   arXiv: 2603.14970 [math.RT]
   url: "https://arxiv.org/abs/2603.14970"
   status: submitted
-  note: Contribution to the proceedings of the 10th conference on Advances in Representation Theory of Algebras (ARTA X)
+  note: Invited contribution to the proceedings of the 10th conference on Advances in Representation Theory of Algebras (ARTA X)
 - author:
   - family: Jasso
     given: G.
@@ -14,11 +14,17 @@
     given: H.
   - family: Schroll
     given: S.
-  title: "Rickard's Derived Morita Theory: Review and Outlook"
-  type: preprint
-  arXiv: 2509.06369 [math.RT]
-  url: "https://arxiv.org/abs/2509.06369"
-  status: Accepted for publication in the J. Lond. Math. Soc.
+  title: "Rickard's Derived Morita Theory: Review and outlook"
+  type: article
+  arXiv: 2509.06369
+  url: "https://doi.org/10.1112/jlms.70577"
+  journal: J. Lond. Math. Soc.
+  volume: 113
+  issue: 6
+  mr: 5089620
+  page: Paper No. e70577
+  doi: 10.1112/jlms.70577
+  issued: 2026
   note: Contribution to the 100th anniversary volume of the J. Lond. Math. Soc.
 - author:
   - family: Jasso
