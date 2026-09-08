@@ -199,17 +199,13 @@ I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an
 
 ## Resources
 
+[Experiments with generative AI](https://experiments.jasso.info)
+
 ### Notes and slides from talks and other materials
 
 Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
 
 {{% list-resources %}}
-
-{{% back-to-top %}}
-
-### Experimental software
-
-Visit the following link: [https://experimental.jasso.info](https://experimental.jasso.info)
 
 {{% back-to-top %}}
 
