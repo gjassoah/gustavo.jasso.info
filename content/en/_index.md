@@ -211,8 +211,6 @@ Below are the notes/slides from some of my talks and also a poster. Click on the
 
 Visit the following link: [https://experimental.jasso.info](https://experimental.jasso.info)
 
-{{% list-software %}}
-
 {{% back-to-top %}}
 
 ## Research group
