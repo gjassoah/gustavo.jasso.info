@@ -200,7 +200,7 @@ Ich war einer der Organisatoren des [FD-Seminars](https://www.fd-seminar.xyz), e
 
 ## Ressourcen
 
-[Experimente mit generativer KI](https://experiments.jasso.info)
+[Experimente mit KI](https://experiments.jasso.info)
 
 Nachfolgend finden Sie die Notizen/Folien zu einigen meiner Vorträge sowie ein Poster. Klicken Sie auf die Titel, um die entsprechende PDF-Datei zu öffnen/herunterzuladen.
 

@@ -199,7 +199,7 @@ I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an
 
 ## Resources
 
-[Experiments with generative AI](https://experiments.jasso.info)
+[Experiments with AI](https://experiments.jasso.info)
 
 ### Notes and slides from talks and other materials
 
