@@ -3,14 +3,14 @@
     given: G.
   - family: Muro
     given: F.
-  id: JKM22
-  issued: 2022
+  id: JKM26
+  issued: 2026, electronically published
   title: The Derived Auslander--Iyama Correspondence
   subtitle: with an appendix by B. Keller
-  arXiv: 2208.14413 [math.RT]
-  url: "https://arxiv.org/abs/2208.14413"
-  status: accepted for publication in J. Amer. Math. Soc.
-  type: preprint
+  arXiv: 2208.14413
+  url: "https://doi.org/10.1090/jams/1079"
+  journal: J. Amer. Math. Soc.
+  type: article
 - author:
   - family: Jasso
     given: G.
