@@ -20,6 +20,11 @@
   university: lund
 
 - course: MATM35 Number Theory
-  year: 2023
+  year: 2022
+  term: Fall Term
+  university: lund
+
+- course: MATM35 Number Theory
+  year: 2021
   term: Fall Term
   university: lund
