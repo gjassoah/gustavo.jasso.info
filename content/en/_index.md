@@ -151,7 +151,7 @@ I am a member of the [Algebra and Representation Theory Group](https://www.mi.un
 
 ### Upcoming events
 
-[MFO Workshop: Representation Theory of Quivers and Finite-Dimensional Algebras](https://www.mfo.de/occasion/2607/www_view)
+[Winter School: Homotopical Methods in Geometry and Representation Theory](https://sites.google.com/view/hmgrt/)
 
 ### Past events
 
