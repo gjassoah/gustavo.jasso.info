@@ -200,7 +200,13 @@ Ich war einer der Organisatoren des [FD-Seminars](https://www.fd-seminar.xyz), e
 
 ## Ressourcen
 
+### KI-Experimente
+
+Auf der folgenden Website habe ich einige meiner nichtwissenschaftlichen Experimente mit KI zusammengestellt. Klicken Sie auf den Link, um weitere Informationen zu erhalten.
+
 [Experimente mit KI](https://experiments.jasso.info)
+
+### Notizen und Folien aus Vorträgen sowie weitere Materialien.
 
 Nachfolgend finden Sie die Notizen/Folien zu einigen meiner Vorträge sowie ein Poster. Klicken Sie auf die Titel, um die entsprechende PDF-Datei zu öffnen/herunterzuladen.
 

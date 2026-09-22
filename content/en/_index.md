@@ -199,6 +199,10 @@ I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an
 
 ## Resources
 
+### Experiments with AI
+
+The webpage below collects some of my non-scientific experiments with AI. Click on the link for more details.
+
 [Experiments with AI](https://experiments.jasso.info)
 
 ### Notes and slides from talks and other materials
