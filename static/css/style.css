@@ -306,7 +306,7 @@ code {
 footer {
     color: white;
     background-color: var(--primary);
-    border-top: 4px solid var(--secondary);
+    border-top: 10px solid var(--secondary);
 }
 footer a:hover {
     color: white;
