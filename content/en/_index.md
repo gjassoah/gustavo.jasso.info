@@ -201,9 +201,15 @@ I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an
 
 ### Experiments with AI
 
-The webpage below collects some of my non-scientific experiments with AI. Click on the link for more details.
+The following experimental web applications are AI-generated. Use at your own risk!
 
-[Experiments with AI](https://experiments.jasso.info)
+- [AI disclosures in math.{RT,RA}](https://experiments.jasso.info/mathRTRA-AI)  
+Submission and AI-disclosure statistics of arXiv preprints with primary category math.RT or math.RA, submitted since January 2026.
+- [gentle](https://experiments.jasso.info/gentle)  
+Invariant calculator for gentle algebras, based on work by Chaparro, Schroll, Solotar and Suárez-Álvarez, and by Amiot, Plamondon and Schroll.
+
+
+For more details see the following webpage: [Experiments with AI](https://experiments.jasso.info)
 
 ### Notes and slides from talks and other materials
 

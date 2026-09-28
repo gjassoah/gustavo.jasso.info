@@ -202,7 +202,12 @@ Ich war einer der Organisatoren des [FD-Seminars](https://www.fd-seminar.xyz), e
 
 ### KI-Experimente
 
-Auf der folgenden Website habe ich einige meiner nichtwissenschaftlichen Experimente mit KI zusammengestellt. Klicken Sie auf den Link, um weitere Informationen zu erhalten.
+Die folgenden experimentellen Webanwendungen wurden durch KI generiert. Die Nutzung erfolgt auf eigene Gefahr!
+
+- [AI disclosures in math.{RT,RA}](https://experiments.jasso.info/mathRTRA-AI)  
+Statistiken zu Einreichungen und zur Offenlegung der KI-Nutzung in arXiv-Preprints mit der Hauptkategorie math.RT oder math.RA, die seit Januar 2026 eingereicht wurden.
+- [gentle](https://experiments.jasso.info/gentle)  
+Rechner für Invarianten von Gentle-Algebren, basierend auf Arbeiten von Chaparro, Schroll, Solotar und Suárez-Álvarez sowie von Amiot, Plamondon und Schroll.
 
 [Experimente mit KI](https://experiments.jasso.info)
 
