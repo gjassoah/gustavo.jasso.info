@@ -19,7 +19,8 @@
         <a class="skip-link" href="#main-content">{{ i18n "skip-to-content" }}</a>
         <nav id="site-navigation" aria-label="{{ i18n "main-navigation" }}">
             <div class="navigation-inner">
-                <ul>
+                <button id="menu-toggle" type="button" aria-controls="main-menu" aria-expanded="false" hidden>{{ i18n "menu" }}</button>
+                <ul id="main-menu">
                     {{ range .Site.Menus.main }}
                     <li><a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
                     {{ end }}

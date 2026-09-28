@@ -29,3 +29,6 @@ other = "Main navigation"
 
 [page-contents]
 other = "Page contents"
+
+[menu]
+other = "Menu"

@@ -136,21 +136,47 @@ header h1 {
     color: white;
 }
 
-#TableOfContents {
-    margin: 0 0 2.5rem;
+#site-navigation [hidden] {
+    display: none;
 }
 
-.home #TableOfContents {
-    margin-top: 2rem;
+#menu-toggle {
+    min-height: 44px;
+    padding: 0.25rem 0.75rem;
+    border: 0;
+    background: transparent;
+    color: white;
+    font: inherit;
+    cursor: pointer;
+}
+
+#menu-toggle[aria-expanded="true"] {
+    text-decoration: underline;
+}
+
+#TableOfContents {
+    margin: 0 0 2rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid light-dark(#d4dadd, #40494d);
+    font-size: 0.9375rem;
 }
 
 #TableOfContents ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
     margin: 0;
-    padding-left: 1.25em;
+    padding: 0;
+    list-style: none;
 }
 
 #TableOfContents li {
-    padding: 0.125rem 0;
+    padding: 0;
+}
+
+#TableOfContents a {
+    display: inline-block;
+    padding-block: 0.25rem;
 }
 
 #language-switcher {
@@ -164,7 +190,7 @@ header h1 {
     padding: 0.25rem 0.5rem;
 }
 
-a:focus-visible {
+a:focus-visible, button:focus-visible {
     outline: 2px solid currentColor;
     outline-offset: 3px;
 }
@@ -220,7 +246,7 @@ a:focus-visible {
 .content {
     padding: 1rem;
     margin: 0 auto;
-    max-width: 34rem;
+    max-width: 38rem;
 }
 
 .content {
@@ -228,15 +254,27 @@ a:focus-visible {
 }
 
 .content h2 {
-    margin: 3rem 0 1rem;
+    margin: 3.5rem 0 1rem;
 }
 
 .content h3 {
-    margin: 2rem 0 0.75rem;
+    margin: 1.75rem 0 0.625rem;
 }
 
 .content h4 {
     margin: 1.5rem 0 0.5rem;
+}
+
+.content > h2:first-child, #TableOfContents + h2 {
+    margin-top: 1rem;
+}
+
+.home .content h3 {
+    margin-top: 1.25rem;
+}
+
+.home .content h3 + p {
+    margin-top: 0.5rem;
 }
 
 .content h2, .content h3, .content h4 {
@@ -268,7 +306,7 @@ code {
 footer {
     color: white;
     background-color: var(--primary);
-    border-top: 2em solid var(--secondary);
+    border-top: 4px solid var(--secondary);
 }
 footer a:hover {
     color: white;
@@ -336,13 +374,13 @@ footer {
     text-align: center;
     font-size: 0.8em;
     margin-top: auto;
-    padding: 1.5rem;
+    padding: 1rem;
     width: auto;
 }
 
 footer p {
     margin: auto;
-    max-width: 34rem;
+    max-width: 38rem;
 }
 
 footer a, footer a:visited {
@@ -350,7 +388,7 @@ footer a, footer a:visited {
 }
 
 footer p {
-    padding: 0.5em;
+    padding: 0.25em;
 }
 
 #uni-koeln-logo {
@@ -370,19 +408,26 @@ footer p {
     }
 
     .navigation-inner {
-        display: flex;
-        flex-wrap: wrap;
+        grid-template-columns: minmax(0, 1fr) auto;
         align-items: center;
-        justify-content: center;
         gap: 0.25rem;
     }
 
+    #menu-toggle {
+        grid-column: 1;
+        grid-row: 1;
+        justify-self: start;
+    }
+
     #language-switcher {
-        flex-shrink: 0;
+        grid-column: 2;
+        grid-row: 1;
     }
 
     #site-navigation ul {
-        display: contents;
+        grid-column: 1 / -1;
+        grid-row: 2;
+        justify-content: center;
     }
 
     #site-navigation a {
@@ -412,11 +457,12 @@ footer p {
 }
 
 .bibliography > li {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .publication-links {
-    margin-top: 0.25rem;
+    font-size: 0.9375rem;
+    margin-top: 0.375rem;
 }
 
 .publication-links a {
@@ -433,5 +479,7 @@ footer p {
 }
 
 .publication-note, .publication-errata {
-    margin-top: 0.5rem;
+    font-size: 0.9375rem;
+    margin-top: 0.625rem;
+    margin-left: 0.75rem;
 }

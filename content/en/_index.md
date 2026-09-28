@@ -14,8 +14,6 @@ Photo (Dec 2020): Birgit Palgen
 [University of Cologne](https://www.uni-koeln.de/)
 {.me}
 
-{{< table-of-contents >}}
-
 ## About me
 
 Pronouns: he / him

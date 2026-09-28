@@ -14,8 +14,6 @@ Foto (12.2020): Birgit Palgen
 [Universität zu Köln](https://www.uni-koeln.de/)
 {.me}
 
-{{< table-of-contents >}}
-
 ## Infos
 
 Pronomen: er / ihm
