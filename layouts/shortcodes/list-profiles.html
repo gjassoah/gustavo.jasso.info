@@ -1,1 +1,1 @@
-{{ range $i, $e := .Site.Data.profiles }}{{ if $i }} | {{ end }}[{{ .profile }}]({{ .url }}){{ end }}
+{{ range $i, $e := .Site.Data.profiles }}{{ if $i }} · {{ end }}[{{ .profile }}]({{ .url }}){{ end }}

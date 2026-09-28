@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>AMS citations for gustavo.jasso.info</title>
+    <title-short>AMS (website adaptation)</title-short>
+    <id>https://gustavo.jasso.info/styles/ams-website</id>
+    <link href="https://gustavo.jasso.info/styles/ams-website" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-mathematical-society-numeric" rel="template"/>
+    <link href="https://www.ams.org/arc/styleguide" rel="documentation"/>
+    <link href="https://mirrors.ctan.org/biblio/bibtex/contrib/misc/amsplain.bst" rel="documentation"/>
+    <author>
+      <name>American Mathematical Society</name>
+      <uri>https://www.ams.org</uri>
+      <email>tech-support@ams.org</email>
+    </author>
+    <contributor>
+      <name>Lucian Chauvin</name>
+      <uri>https://lucianchauvin.com</uri>
+      <email>me@lucianchauvin.com</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="math"/>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize="true" initialize-with=". " delimiter=", " and="text" delimiter-precedes-last="contextual"/>
+      <label form="short" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name initialize="true" initialize-with=". " delimiter=", " and="text"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="title">
+    <text variable="title" font-style="italic"/>
+  </macro>
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="article-journal">
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <group delimiter=" ">
+            <label variable="issue" form="short"/>
+            <text variable="issue"/>
+          </group>
+          <date variable="issued" prefix="(" suffix=")">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text term="volume" form="short"/>
+            <text variable="volume"/>
+          </group>
+          <text variable="collection-title"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <!-- Numbering and resource links are supplied by Hugo, outside citeproc. -->
+  <bibliography entry-spacing="0">
+    <layout suffix=".">
+      <group delimiter=", ">
+        <text macro="author"/>
+        <text macro="title"/>
+        <choose>
+          <if type="manuscript" variable="number" match="all">
+            <group delimiter=" ">
+              <text variable="number"/>
+              <date variable="issued" prefix="(" suffix=")"><date-part name="year"/></date>
+            </group>
+          </if>
+          <else-if type="article-journal">
+            <group delimiter=" ">
+              <text variable="container-title"/>
+              <text variable="volume"/>
+              <date variable="issued" prefix="(" suffix=")"><date-part name="year"/></date>
+            </group>
+            <text variable="issue" prefix="no. "/>
+            <text variable="page"/>
+          </else-if>
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=" ">
+              <text variable="container-title"/>
+              <text macro="editor" prefix="(" suffix=")"/>
+            </group>
+            <group delimiter=" ">
+              <text variable="collection-title"/>
+              <text variable="volume"/>
+            </group>
+            <text macro="publisher"/>
+            <date variable="issued"><date-part name="year"/></date>
+            <text variable="page" prefix="pp. "/>
+          </else-if>
+          <else-if type="thesis">
+            <text variable="genre"/>
+            <text macro="publisher"/>
+            <date variable="issued"><date-part name="year"/></date>
+          </else-if>
+          <else>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <date variable="issued"><date-part name="year"/></date>
+          </else>
+        </choose>
+      </group>
+      <text variable="status" prefix=" (" suffix=")"/>
+    </layout>
+  </bibliography>
+</style>

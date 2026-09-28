@@ -2,3 +2,7 @@ public/
 *.~undo-tree~
 *.lock
 *.tar.gz
+.tools/
+.venv/
+__pycache__/
+data/bibliography_generated.json

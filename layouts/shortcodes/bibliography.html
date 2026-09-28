@@ -1,0 +1,19 @@
+{{- $group := .Get "bib" -}}
+{{- $data := .Site.Data.bibliography_generated -}}
+{{- if not $data -}}
+  {{- errorf "Bibliography data missing. Run python3 tools/site.py build or serve." -}}
+{{- end -}}
+<ol class="bibliography" reversed>
+{{- range index $data $group }}
+  <li id="ref-{{ .key }}" value="{{ .number }}">
+    <div class="citation">{{ .citation | safeHTML }}</div>
+    {{- with .links }}
+    <div class="publication-links">
+      {{- range $i, $link := . }}{{ if $i }}<span class="link-separator" aria-hidden="true"> · </span>{{ end }}<a href="{{ $link.url }}">{{ $link.label }}</a>{{ end -}}
+    </div>
+    {{- end }}
+    {{- with .note }}<div class="publication-note"><em>Note:</em> {{ . | safeHTML }}</div>{{ end }}
+    {{- with .errata }}<div class="publication-errata"><em>Errata:</em> {{ . | safeHTML }}</div>{{ end }}
+  </li>
+{{- end }}
+</ol>

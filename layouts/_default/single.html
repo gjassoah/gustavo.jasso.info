@@ -9,12 +9,14 @@
         {{ errorf "Missing content source in language %s for %s" . $.RelPermalink }}
     {{ end }}
 {{ end }}
-<main lang="{{ $contentPage.Language.Lang }}">
+<main id="main-content" tabindex="-1" lang="{{ $contentPage.Language.Lang }}">
     <header>
         <h1>{{ $contentPage.Title }}</h1>
     </header>
     <div class="content">
-        {{ $contentPage.Fragments.ToHTML 2 ($contentPage.Params.tocEndLevel | default 3) false }}
+        {{ $tocLabel := "Page contents" }}
+        {{ if eq $contentPage.Language.Lang "de" }}{{ $tocLabel = "Seiteninhalt" }}{{ end }}
+        {{ replace ($contentPage.Fragments.ToHTML 2 ($contentPage.Params.tocEndLevel | default 3) false) `<nav id="TableOfContents">` (printf `<nav id="TableOfContents" aria-label="%s">` $tocLabel) | safeHTML }}
         {{/* Keep same-page fragment links within the current navigation language. */}}
         {{ replace $contentPage.Content (printf `href="%s#` $contentPage.RelPermalink) (printf `href="%s#` .RelPermalink) | safeHTML }}
     </div>

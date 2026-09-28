@@ -59,6 +59,7 @@ header {
 }
 
 header h1 {
+    overflow-wrap: anywhere;
     font-size: 2.5rem;
     line-height: 1.2;
     padding: 1.5rem 1rem 0.5rem;
@@ -87,17 +88,18 @@ header h1 {
 
 .navigation-inner {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    column-gap: clamp(1rem, 3vw, 2rem);
+    grid-template-columns: minmax(44px, 3em) minmax(0, 1fr) minmax(44px, 3em);
+    column-gap: 0.5em;
     align-items: start;
     box-sizing: border-box;
-    width: fit-content;
+    width: 100%;
     max-width: 100%;
     margin: 0 auto;
     padding: 0 0.75rem;
 }
 
 #site-navigation ul {
+    grid-column: 2;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -151,15 +153,36 @@ header h1 {
     padding: 0.125rem 0;
 }
 
+#language-switcher {
+    grid-column: 3;
+    justify-self: end;
+}
+
 #language-switcher a {
     font-size: 0.8em;
-    font-weight: normal;
+    font-weight: bold;
     padding: 0.25rem 0.5rem;
 }
 
 a:focus-visible {
     outline: 2px solid currentColor;
     outline-offset: 3px;
+}
+
+.skip-link {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.75rem;
+    z-index: 20;
+    padding: 0.75rem 1rem;
+    background: white;
+    color: var(--primary);
+    transform: translateY(calc(-100% - 1rem));
+}
+
+.skip-link:focus {
+    transform: none;
+    color: var(--primary);
 }
 
 .me {
@@ -337,6 +360,36 @@ footer p {
     margin: 0;
 }
 
+@media all and (max-width: 48em) {
+    html {
+        scroll-padding-top: 1rem;
+    }
+
+    #site-navigation {
+        position: static;
+    }
+
+    .navigation-inner {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 0.25rem;
+    }
+
+    #language-switcher {
+        flex-shrink: 0;
+    }
+
+    #site-navigation ul {
+        display: contents;
+    }
+
+    #site-navigation a {
+        padding-inline: 0.5rem;
+    }
+}
+
 @media all and (max-width: 32em){
     #site-navigation {
         font-size: 0.875rem;
@@ -356,4 +409,29 @@ footer p {
         padding-left: 1.5%;
         padding-right: 1.5%;
     }
+}
+
+.bibliography > li {
+    margin-bottom: 1rem;
+}
+
+.publication-links {
+    margin-top: 0.25rem;
+}
+
+.publication-links a {
+    display: inline-block;
+    padding-block: 0.125rem;
+}
+
+.publication-note p, .publication-errata p {
+    margin: 0.5rem 0 0;
+}
+
+.publication-note > p:first-of-type, .publication-errata > p:first-of-type {
+    display: inline;
+}
+
+.publication-note, .publication-errata {
+    margin-top: 0.5rem;
 }

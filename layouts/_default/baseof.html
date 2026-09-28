@@ -16,7 +16,8 @@
         <script src="/js/navigation.js" defer></script>
     </head>
     <body id="top">
-        <nav id="site-navigation">
+        <a class="skip-link" href="#main-content">{{ i18n "skip-to-content" }}</a>
+        <nav id="site-navigation" aria-label="{{ i18n "main-navigation" }}">
             <div class="navigation-inner">
                 <ul>
                     {{ range .Site.Menus.main }}
@@ -24,7 +25,7 @@
                     {{ end }}
                 </ul>
                 {{ range .Translations }}
-                <span id="language-switcher"><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}" hreflang="{{ .Language.Lang }}">{{ upper .Language.Lang }}</a></span>
+                <span id="language-switcher"><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}" hreflang="{{ .Language.Lang }}" aria-label="{{ if eq .Language.Lang "de" }}Deutsch{{ else }}English{{ end }}">{{ upper .Language.Lang }}</a></span>
                 {{ end }}
             </div>
         </nav>

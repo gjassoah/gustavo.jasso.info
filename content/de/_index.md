@@ -71,7 +71,7 @@ Der Fingerabdruck meines öffentlichen Schlüssels lautet wie folgt:
 
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
-[Öffentlichen Schlüssel herunterladen (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) | [Was ist PGP?](https://www.openpgp.org/about/)
+[Öffentlichen Schlüssel herunterladen (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) · [Was ist PGP?](https://www.openpgp.org/about/)
 
 {{% back-to-top %}}
 

@@ -20,3 +20,12 @@ other = "Frühjahrssemester"
 
 ["Fall Term"]
 other = "Herbstsemester"
+
+[skip-to-content]
+other = "Zum Inhalt springen"
+
+[main-navigation]
+other = "Hauptnavigation"
+
+[page-contents]
+other = "Seiteninhalt"

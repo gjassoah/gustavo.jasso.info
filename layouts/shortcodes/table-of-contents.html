@@ -1,1 +1,1 @@
-{{ .Page.Fragments.ToHTML 2 2 false }}
+{{ replace (.Page.Fragments.ToHTML 2 2 false) `<nav id="TableOfContents">` (printf `<nav id="TableOfContents" aria-label="%s">` (i18n "page-contents")) | safeHTML }}

@@ -20,3 +20,12 @@ other = "Spring Term"
 
 ["Fall Term"]
 other = "Fall Term"
+
+[skip-to-content]
+other = "Skip to content"
+
+[main-navigation]
+other = "Main navigation"
+
+[page-contents]
+other = "Page contents"

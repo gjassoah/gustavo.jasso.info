@@ -71,7 +71,7 @@ My public key fingerprint is the following:
 
 `7527 92FC FE23 2132 1A9A 62C1 F655 F8F8 B671 FC89`
 
-[Download public key (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) | [What is PGP?](https://www.openpgp.org/about/)
+[Download public key (keys.openpgp.com)](https://keys.openpgp.org/search?q=752792FCFE2321321A9A62C1F655F8F8B671FC89) · [What is PGP?](https://www.openpgp.org/about/)
 
 {{% back-to-top %}}
 

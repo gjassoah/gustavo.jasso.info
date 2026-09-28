@@ -9,21 +9,23 @@ menu:
 
 ### Preprints
 
-{{% list-bib bib="preprints" %}}
+{{< bibliography bib="preprints" >}}
+
+### Books
+
+{{< bibliography bib="books" >}}
 
 ### Publications
 
-{{% list-bib bib="publications" %}}
-
-**Remarks**
-
-* My [Ph.D. thesis](https://nagoya.repo.nii.ac.jp/record/18748/files/k10745_thesis.pdf) comprises articles [3-4] and [6].
-* My [master’s thesis](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-21312?func=full-set-set&set_number=210951&set_entry=000001&format=999) comprises part of article [1].
-* My [bachelor’s thesis](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-06523?func=full-set-set&set_number=211056&set_entry=000002&format=999) comprises article [2].
+{{< bibliography bib="publications" >}}
 
 ### Proceedings, extended abstracts and other writings
 
-{{% list-bib bib="proceedings" %}}
+{{< bibliography bib="proceedings" >}}
+
+### Theses and dissertations
+
+{{< bibliography bib="theses" >}}
 
 ### Co-authors
 
