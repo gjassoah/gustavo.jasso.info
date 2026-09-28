@@ -1,40 +1,33 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ .Site.Language.Lang }}">
     <head>
         <meta charset="utf-8">
         <meta name=author content="{{ .Params.Author }}">
         <meta name="google-site-verification" content="2acTKqBrfBSXaKKpgEKGkM4bau9WaahA5kT3pJOUMk8" />
-        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Home.Title }}{{ end }}{{ end }}</title>
         <link rel="stylesheet" href="/css/style.css">
         <!-- Enable responsiveness on mobile devices -->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
-        <!-- Hide navbar when scrolling -->
-        <script>
-         var prevScrollpos = window.pageYOffset;
-         window.onscroll = function() {
-             var currentScrollPos = window.pageYOffset;
-             var theheight = document.getElementById("TableOfContents").offsetHeight-10;
-             if (prevScrollpos > currentScrollPos) {
-                 document.getElementById("TableOfContents").style.top = "0";
-             } else {
-                 document.getElementById("TableOfContents").style.top = "-" + theheight + "px";
-             }
-             prevScrollpos = currentScrollPos;
-         }
-        </script>
+        <script src="/js/navigation.js" defer></script>
     </head>
-    <body>
-        {{ .TableOfContents }}
-        {{ if eq $.Site.Language.LanguageName "English" }}
-        <span id="language-switcher"><a href="/de">DE</a></span>
-        {{ else }}
-        <span id="language-switcher"><a href="/">EN</a></span>
-        {{ end }}
+    <body id="top">
+        <nav id="site-navigation">
+            <div class="navigation-inner">
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+                {{ range .Translations }}
+                <span id="language-switcher"><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}" hreflang="{{ .Language.Lang }}">{{ upper .Language.Lang }}</a></span>
+                {{ end }}
+            </div>
+        </nav>
         {{ block "main" . }}
         {{ end }}
         <!-- This is the default footer -->

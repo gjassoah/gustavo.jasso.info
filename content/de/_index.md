@@ -1,16 +1,48 @@
 ---
 title: Prof. Dr. Gustavo Jasso
+menu:
+  main:
+    name: Startseite
+    weight: 1
 ---
-![Gustavo Jasso's photograph](/img/gjasso.png)  
+![Foto von Gustavo Jasso](/img/gjasso.png)  
 {.me}
 Foto (12.2020): Birgit Palgen
 {.photo-credit}
-[Mathematical Insitute](http://www.mi.uni-koeln.de/)  
-[Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/)  
-[University of Cologne](https://www.uni-koeln.de/)
+[Mathematisches Institut](http://www.mi.uni-koeln.de/)  
+[Mathematisch-Naturwissenschaftliche Fakultät](https://mathnat.uni-koeln.de/)  
+[Universität zu Köln](https://www.uni-koeln.de/)
 {.me}
 
+{{< table-of-contents >}}
+
+## Infos
+
+Pronomen: er / ihm
+
+Ich bin Mathematiker. Meine Forschungsinteressen umfassen die folgenden Themen:
+
+* Darstellungstheorie von Köchern und Algebren
+* Homologische und homotopische Algebra, höhere Kategorientheorie
+* Cluster-Algebren und ihre Kategorifizierungen
+
+Dieser [Snapshot](https://publications.mfo.de/handle/mfo/4347) könnte für Sie von Interesse sein, wenn Sie sich für meine Forschung interessieren, aber kein Mathematiker sind. Dieser Snapshot ist auch auf der Website [IMAGINARY](https://www.imaginary.org/) verfügbar, die ebenfalls empfehlenswert ist. Sie können auch [die Folien](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings.pdf) des zu diesem Snapshot gehörenden Vortrags herunterladen.
+
+### Akademische Profile
+
+{{% list-profiles %}}
+
+{{% back-to-top %}}
+
 ## Kontakt
+
+### E-Mail-Adresse
+
+Um sicherzustellen, dass Ihre Nachrichten gelesen werden, _kontaktieren Sie mich bitte nur über die folgende E-Mail-Adresse_:
+
+`gjasso[at]math.uni-koeln.de`
+
+Alle anderen offiziellen E-Mail-Adressen von mir wurden oder werden geschlossen.
 
 ### Besuchs- und Postanschrift
 
@@ -31,15 +63,7 @@ Sprechstunden: nach Vereinbarung
 
 Sekretariat: [Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
-### E-mail Adresse
-
-Um sicherzustellen, dass Ihre Nachrichten gelesen werden, _bitte kontaktieren Sie mich nur über die folgende E-Mail-Adresse_:
-
-`gjasso[at]math.uni-koeln.de`
-
-Alle anderen offiziellen E-Mail-Adressen von mir wurden oder werden geschlossen.
-
-### PGP-Schlüssel-Fingerabdruck</h3>
+### PGP-Schlüssel-Fingerabdruck
 
 Ich signiere alle ausgehenden E-Mail-Nachrichten mit PGP.  
 
@@ -51,21 +75,11 @@ Der Fingerabdruck meines öffentlichen Schlüssels lautet wie folgt:
 
 {{% back-to-top %}}
 
-## Infos
+## Algebra- und Darstellungstheorie-Gruppe
 
-Pronomen: er / ihm
+Ich bin Mitglied der [Algebra- und Darstellungstheorie-Gruppe](https://www.mi.uni-koeln.de/RepTheory/) an der Universität zu Köln. Besuchen Sie den Link, um mehr über unsere Aktivitäten zu erfahren.
 
-Ich bin Mathematiker. Meine Forschungsinteressen umfassen die folgenden Themen:
-
-* Darstellungstheorie von Köchern und Algebren
-* Homologische und homotopische Algebra, höhere Kategorientheorie
-* Cluster-Algebren und ihre kategorifizierung
-
-Dieser [Snapshot](https://publications.mfo.de/handle/mfo/4347) könnte für Sie von Interesse sein, wenn Sie sich für meine Forschung interessieren, aber kein Mathematiker sind. Dieser Snapshot ist auch auf der Website [IMAGINARY](https://www.imaginary.org/) verfügbar, die ebenfalls empfehlenswert ist. Sie können auch [die Folien](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings.pdf) des zu diesem Snapshot gehörenden Vortrags herunterladen.
-
-### Akademische Profile
-
-{{% list-profiles %}}
+[Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
 
 ### Offene Stellen
 
@@ -73,9 +87,19 @@ Sie können sich gerne über bevorstehende Stellenausschreibungen in der Gruppe 
 
 Bitte schicken Sie mir keine unaufgeforderten Bewerbungsunterlagen. Aus Sicherheitsgründen werde ich **unverlangt eingesandte Dateien nicht öffnen.**
 
-#### Promotionsinteressierende
+#### Promotionsinteressierte
 
 Das Hypatia-Netzwerk für Gleichstellung hat eine Broschüre mit [nützlichen Informationen für angehende Doktoranden in Mathematik und Informatik](https://www.mi.uni-koeln.de/hypatia/promowie/) erstellt.
+
+### Kommende Veranstaltungen
+
+[Winter School: Homotopical Methods in Geometry and Representation Theory](https://sites.google.com/view/hmgrt/)
+
+{{% back-to-top %}}
+
+## Redaktionsarbeit
+
+{{% list-editorial-work %}}
 
 {{% back-to-top %}}
 
@@ -83,24 +107,24 @@ Das Hypatia-Netzwerk für Gleichstellung hat eine Broschüre mit [nützlichen In
 
 Meinen [verkürzten Lebenslauf herunterladen](/pdf/gjasso-cv.pdf) (vollständiger Lebenslauf auf Anfrage erhältlich).
 
-Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufbahn an den folgenden Einrichtungen beteiligt:
+Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufbahn mit den folgenden Einrichtungen verbunden:
 
-[![UNAM Logo](/img/unam-logo.png)](https://www.unam.mx/)
-[![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
+[![Logo der UNAM](/img/unam-logo.png)](https://www.unam.mx/)
+[![Logo der Universität Nagoya](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
 {.logo}
 
-[![Universität Bonn Logo](/img/bonn-logo.png)](https://www.uni-bonn.de/)
-[![Lund University Logo](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
-[![Universität zu Köln Logo](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
+[![Logo der Universität Bonn](/img/bonn-logo.png)](https://www.uni-bonn.de/)
+[![Logo der Universität Lund](/img/lu-logo-c.png)](https://www.lunduniversity.lu.se/)
+[![Logo der Universität zu Köln](/img/uni-koeln-logo.png)](https://www.uni-koeln.de/)
 {.logo}
 
-[![UNAM Logo](/img/unam-logo-w.png)](https://www.unam.mx/)
-[![Nagoya University's Logo](/img/nagoya-logo-w.png)](https://en.nagoya-u.ac.jp/)
+[![Logo der UNAM](/img/unam-logo-w.png)](https://www.unam.mx/)
+[![Logo der Universität Nagoya](/img/nagoya-logo-w.png)](https://en.nagoya-u.ac.jp/)
 {.logo-w}
 
-[![Universität Bonn Logo](/img/bonn-logo-w.png)](https://www.uni-bonn.de/)
-[![Lund University Logo](/img/lu-logo-w.png)](https://www.lunduniversity.lu.se/)
-[![Universität zu Köln Logo](/img/uni-koeln-logo-w.png)](https://www.uni-koeln.de/)
+[![Logo der Universität Bonn](/img/bonn-logo-w.png)](https://www.uni-bonn.de/)
+[![Logo der Universität Lund](/img/lu-logo-w.png)](https://www.lunduniversity.lu.se/)
+[![Logo der Universität zu Köln](/img/uni-koeln-logo-w.png)](https://www.uni-koeln.de/)
 {.logo-w}
 
 **2025-04-01 -- 2027-03-31** Abteilungsleiter, [Mathematisches Institut](https://www.mi.uni-koeln.de/main/index.php), [Universität zu Köln](https://www.uni-koeln.de/).
@@ -108,9 +132,9 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 
 **Seit 2024-08-15** [Universitätsprofessor für Algebra (W2)](https://en.wikipedia.org/wiki/Academic_ranks_in_Germany), [Mathematisch-Naturwissenschaftliche Fakultät](https://mathnat.uni-koeln.de/), [Universität zu Köln](https://www.uni-koeln.de/).
 
-**2024-04-09** [Grant to recruit a foreign researcher for a postdoctoral position in Sweden](https://kaw.wallenberg.org/en/gustavo-jasso-ahuja), [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en). Declined.
+**2024-04-09** [Förderung zur Einstellung eines ausländischen Forschers auf einer Postdoc-Stelle in Schweden](https://kaw.wallenberg.org/en/gustavo-jasso-ahuja), [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en). Abgelehnt.
 
-**2023-01-01 -- 2024-08-01** Meine Forschung wurde unterstützt durch ein [Research project grant within natural and engineering sciences](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) von der [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/).
+**2023-01-01 -- 2024-08-01** Meine Forschung wurde durch eine [Projektförderung im Bereich der Natur- und Ingenieurwissenschaften](https://www.vr.se/english/applying-for-funding/decisions/2022-08-17-natural-and-engineering-sciences.html) des [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/) unterstützt.
 
 **2022-10-15** [11th Award for Encouragement of Alumni and Students ("Hida Award")](https://www.math.nagoya-u.ac.jp/ja/alumni/hida-prize.html#result-11), Alumni Association of the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/en/index.html), [Nagoya University](https://en.nagoya-u.ac.jp/).
 
@@ -122,174 +146,16 @@ Einschließlich meiner Studentenzeit war ich während meiner akademischen Laufba
 
 **2014-10-01 -- 2017-09-30** [Hausdorff Postdoc](https://www.hcm.uni-bonn.de/people/postdocs/hausdorff-postdocs/), [Hausdorff Center for Mathematics](https://www.hcm.uni-bonn.de/research/research-areas/ra-a2/), [Rheinische Friedrich-Wilhelms-Universität Bonn](http://www3.uni-bonn.de/) (in der Forschungsgruppe von [Prof. Dr. Jan Schröer](http://www.math.uni-bonn.de/~schroer/)).
 
-**2011-10-01 -- 2014-09-29** Doktorand, [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/), [Nagoya University](http://en.nagoya-u.ac.jp/) (unter der Betreuung von [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/)**.
+**2011-10-01 -- 2014-09-29** Doktorand, [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/), [Nagoya University](http://en.nagoya-u.ac.jp/) (unter der Betreuung von [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/)).
 
 **2010-11-03** [Premio Sotero Prieto 2010](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.bb056147ac466033.736f7465726f323031302e706466.pdf) (drei Bachelorarbeiten wurden ausgezeichnet).
 
-**2005-08-15 -- 2011-09-14** Bachelor- und Master- student, [Facultad de Ciencias](http://www.fciencias.unam.mx/) (Bachelor) / [Instituto de Matemáticas](https://www.matem.unam.mx/) (Master), [Universidad Nacional Autónoma de México](https://www.unam.mx/). Unter der Betreuung von [Michael Barot](https://www.matem.unam.mx/~barot/) (Bachelor und Master) and [Prof. Dr. Christof Geiß](https://www.matem.unam.mx/~christof/) (Master, inoffiziell).
+**2005-08-15 -- 2011-09-14** Bachelor- und Masterstudent, [Facultad de Ciencias](http://www.fciencias.unam.mx/) (Bachelor) / [Instituto de Matemáticas](https://www.matem.unam.mx/) (Master), [Universidad Nacional Autónoma de México](https://www.unam.mx/). Unter der Betreuung von [Michael Barot](https://www.matem.unam.mx/~barot/) (Bachelor und Master) und [Prof. Dr. Christof Geiß](https://www.matem.unam.mx/~christof/) (Master, inoffiziell).
 
 **1987-03-18** Geboren in [Guadalajara](https://de.wikipedia.org/wiki/Guadalajara_(Mexiko)), [Jalisco](https://de.wikipedia.org/wiki/Jalisco), [Mexiko](https://de.wikipedia.org/wiki/Mexiko).
 
-##### Bemerkungen
+**Bemerkungen**
 
 Mein vollständiger (rechtlicher) Name, gebildet nach den [spanischen Namensgebräuchen](https://de.wikipedia.org/wiki/Spanischer_Name) (die auch in Mexiko verwendet werden), lautet Gustavo Jasso Ahuja. Beachten Sie jedoch, dass ich meinen zweiten Nachnamen in keinem beruflichen Zusammenhang verwende.
 
-### Redaktionsarbeit
-
-{{% list-editorial-work %}}
-
 {{% back-to-top %}}
-
-## Aktivitäten
-
-### Cologne Algebra and Representation Theory Group
-
-Ich bin Mitglied der [Algebra und Darstellungstheorie Gruppe](https://www.mi.uni-koeln.de/RepTheory/) an der Universität zu Köln. Besuchen Sie den Link, um mehr über unsere Aktivitäten zu erfahren.
-
-[Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
-
-### Kommende Veranstaltungen
-
-[Winter School: Homotopical Methods in Geometry and Representation Theory](https://sites.google.com/view/hmgrt/)
-
-### Vorherige Veranstaltungen
-
-{{% list-activities %}}
-
-### Monday Seminar on Higher Structures
-
-Unsere Forschungsgruppe trifft sich jeden Montag von 10:00 bis 11:30 Uhr während der Vorlesungszeit, um informelle Diskussionen zu halten, die von einem der Teilnehmer zu Themen im Zusammenhang mit höheren Strukturen geleitet werden, oder zur Präsentation unserer laufenden Forschung. Weitere Informationen entnehmen Sie bitte dem [Vorlesungsverzeichnis](https://www.mi.uni-koeln.de/KVV/aktuell.pdf).
-
-### Learning seminar on Higher Category Theory
-
-Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
-
-### FDLIST
-
-Seit Mai 2021 bin ich einer der Betreuer der [FDLIST](https://fdlist.math.uni-bielefeld.de), einer Informationsliste, die ein Forum für den Austausch von Informationen, Ideen, Problemen und Fragen bietet, die mit der Darstellungstheorie endlich-dimensionaler Algebren zusammenhängen.
-
-### FD Seminar
-
-Ich war einer der Organisatoren des [FD-Seminars](https://www.fd-seminar.xyz), eines Online-Seminars zur Darstellungstheorie von Köchern und endlich-dimensionalen Algebren. Das Seminar lief von Mai 2020 bis Mai 2024.
-
-## Schriften
-
-### Preprints
-
-{{% list-bib bib="preprints" %}}
-
-### Veröffentlichungen
-
-{{% list-bib bib="publications" %}}
-
-##### Bemerkungen
-
-* Meine [Doktorarbeit](https://nagoya.repo.nii.ac.jp/record/18748/files/k10745_thesis.pdf) umfasst Artikel [3-4] und [6].
-* Meine [Masterarbeit](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-21312?func=full-set-set&set_number=210951&set_entry=000001&format=999) umfasst einen Teil von Artikel [1].
-* Meine [Bachelorarbeit](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-06523?func=full-set-set&set_number=211056&set_entry=000002&format=999) umfasst Artikel [2].
-
-### Proceedings, erweiterte Zusammenfassungen und andere Schriften
-
-{{% list-bib bib="proceedings" %}}
-
-{{% back-to-top %}}
-
-### Koautoren
-
-{{% list-coauthors %}}
-
-## Ressourcen
-
-### KI-Experimente
-
-Die folgenden experimentellen Webanwendungen wurden durch KI generiert. Die Nutzung erfolgt auf eigene Gefahr!
-
-- [AI disclosures in math.{RT,RA}](https://experiments.jasso.info/mathRTRA-AI)  
-Statistiken zu Einreichungen und zur Offenlegung der KI-Nutzung in arXiv-Preprints mit der Hauptkategorie math.RT oder math.RA, die seit Januar 2026 eingereicht wurden.
-- [gentle](https://experiments.jasso.info/gentle)  
-Rechner für Invarianten von Gentle-Algebren, basierend auf Arbeiten von Chaparro, Schroll, Solotar und Suárez-Álvarez sowie von Amiot, Plamondon und Schroll.
-
-[Experimente mit KI](https://experiments.jasso.info)
-
-### Notizen und Folien aus Vorträgen sowie weitere Materialien.
-
-Nachfolgend finden Sie die Notizen/Folien zu einigen meiner Vorträge sowie ein Poster. Klicken Sie auf die Titel, um die entsprechende PDF-Datei zu öffnen/herunterzuladen.
-
-{{% list-resources %}}
-
-{{% back-to-top %}}
-
-## Forschungsgruppe
-
-### Doktoranden
-
-{{% list-students level="phd" %}}
-
-##### Bemerkungen
-
-* Die Betreuung der Doktoranden 1 und 2 begann an der [Lund University](https://www.maths.lu.se/english/).
-
-### Mitbetreute Doktoranden
-
-{{% list-students level="cophd" %}}
-
-### Master-Studierende
-
-{{% list-students level="msc" %}}
-
-##### Bemerkungen
-
-* Studierende [7-8] wurden an der [Lund University](https://www.maths.lu.se/english/) betreut.
-* Studierende [1-5] wurden an der [University of Bonn](https://www.math.uni-bonn.de/?language=en) betreut.
-
-### Bachelor-Studierende
-
-{{% list-students level="bsc" %}}
-
-##### Bemerkungen
-
-* Studierende [7-12] wurden an der [Lund University](https://www.maths.lu.se/english/) betreut.
-* Studierende [1-6] wurden an der [University of Bonn](https://www.math.uni-bonn.de/?language=en) betreut.
-
-### Schriften Mitglieder der Forschungsgruppe
-
-Veröffentlichungen aktueller und ehemaliger Studierende und Mitglieder der Forschungsgruppe.
-
-{{% list-bib bib="research_group" %}}
-
-{{% back-to-top %}}
-
-### Gäste
-
-{{% list-guests %}}
-
-### Forschungsgruppe Fotos
-
-{{% list-group-photos %}}
-
-## Lehre
-
-Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis]({{% param "vvURl" %}}).
-
-Informationen zu den von der Algebra und Darstellungstheorie-Gruppe organisierten Seminaren finden Sie unter folgendem Link:
-[https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
-
-Bitte schreiben Sie mir eine E-Mail, wenn Sie daran interessiert, eine Abschlussarbeit unter meiner Betreuung zu schreiben.
-
-[Empfehlungen zum Einsatz generativer KI-Programme im Mathematikstudium](https://math.uni-koeln.de/sites/math_career/studium/KI/Empfehlungen_KI_Nutzung.pdf)
-
-### Vorlesungen und Seminare an der Universität zu Köln (seit 2024)
-
-{{% list-courses university="uzk" %}}
-
-### Vorlesungen an der Lund University (2022-2024)
-
-{{% list-courses university="lund" %}}
-
-### Vorlesungen und Seminare an der Universität Bonn (2016--2021)
-
-{{% list-courses university="bonn" %}}
-
-{{% back-to-top %}}
-
-

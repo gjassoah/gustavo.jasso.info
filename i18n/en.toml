@@ -7,4 +7,16 @@ other = "submitted"
 [Advisor]
 other = "Advisor"
 [Afterwards]
-other = "Aftwerwards"
+other = "Afterwards"
+
+["Winter Semester"]
+other = "Winter Semester"
+
+["Summer Semester"]
+other = "Summer Semester"
+
+["Spring Term"]
+other = "Spring Term"
+
+["Fall Term"]
+other = "Fall Term"

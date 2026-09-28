@@ -1,16 +1,48 @@
 ---
 title: Prof. Dr. Gustavo Jasso
+menu:
+  main:
+    name: Home
+    weight: 1
 ---
 ![Gustavo Jasso's photograph](/img/gjasso.png)  
 {.me}
 Photo (Dec 2020): Birgit Palgen
 {.photo-credit}
-[Mathematical Insitute](http://www.mi.uni-koeln.de/)  
+[Mathematical Institute](http://www.mi.uni-koeln.de/)  
 [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/)  
 [University of Cologne](https://www.uni-koeln.de/)
 {.me}
 
+{{< table-of-contents >}}
+
+## About me
+
+Pronouns: he / him
+
+I am a mathematician. My research interests include the following topics:
+
+* Representation theory of quivers and algebras
+* Homological and homotopical algebra, higher category theory
+* Cluster algebras and their categorifications
+
+If you are interested in learning about my research but you are not a mathematician, you might be interested in this [Snapshot](https://doi.org/10.14760/SNAP-2025-007-EN). This snapshot is also available at the website [IMAGINARY](https://www.imaginary.org/), which I also recommend. You can also [download the slides](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings.pdf) of a talk based on this snapshot.
+
+### Academic profiles
+
+{{% list-profiles %}}
+
+{{% back-to-top %}}
+
 ## Contact
+
+### E-mail address
+
+In order to ensure that your messages are read, _please contact me only through the following e-mail address_:
+
+`gjasso[at]math.uni-koeln.de`
+
+Any other institutional e-mail addresses of mine have been or will be closed.
 
 ### Visiting and postal address
 
@@ -31,15 +63,7 @@ Office hours: by appointment
 
 Secretary: [Leah Manzanilla](http://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Manzanilla,Leah/index.en.php)
 
-### E-mail address
-
-In order to ensure that your messages are read, _please contact me only through the following e-mail address_:
-
-`gjasso[at]math.uni-koeln.de`
-
-Any other institutional e-mail addresses of mine have been or will be closed.
-
-### PGP key fingerprint</h3>
+### PGP key fingerprint
 
 I sign all outgoing e-mail messages using PGP.  
 
@@ -51,21 +75,11 @@ My public key fingerprint is the following:
 
 {{% back-to-top %}}
 
-## About me
+## Algebra and Representation Theory Group
 
-Pronouns: he / him
+I am a member of the [Algebra and Representation Theory Group](https://www.mi.uni-koeln.de/RepTheory/) at the University of Cologne. Visit the link to learn about our activities.
 
-I am a mathematician. My research interests include the following topics:
-
-* Representation theory of quivers and algebras
-* Homological and homotopical algebra, higher category theory
-* Cluster algebras and their categorifications
-
-If you are interested in learning about my research but you are not a mathematician, you might be interested in this [Snapshot](https://doi.org/10.14760/SNAP-2025-007-EN). This snapshot is also available at the website [IMAGINARY](https://www.imaginary.org/), which I also recommend. You can also [download the slides](/pdf/resources/2026-jasso-brackets_trees_and_the_borromean_rings.pdf) of a talk based on this snapshot.
-
-### Academical profiles
-
-{{% list-profiles %}}
+[Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
 
 ### Open positions
 
@@ -75,8 +89,18 @@ _Please do not send me unsolicited application materials. For security reasons, 
 
 #### For prospective doctoral students
 
-The Hypatia Network for Equality has prepared a brochure with useful [information for prospective doctoral students in Mathematics and Informatics](https://www.mi.uni-koeln.de/hypatia/promowie/)
+The Hypatia Network for Equality has prepared a brochure with useful [information for prospective doctoral students in Mathematics and Informatics](https://www.mi.uni-koeln.de/hypatia/promowie/).
 
+
+### Upcoming events
+
+[Winter School: Homotopical Methods in Geometry and Representation Theory](https://sites.google.com/view/hmgrt/)
+
+{{% back-to-top %}}
+
+## Editorial work
+
+{{% list-editorial-work %}}
 
 {{% back-to-top %}}
 
@@ -84,7 +108,7 @@ The Hypatia Network for Equality has prepared a brochure with useful [informatio
 
 Download my [abridged CV](/pdf/gjasso-cv.pdf) (comprehensive CV available upon request).
 
-Including my student years, I have been affiliated to the following institutions during my academical career:
+Including my student years, I have been affiliated to the following institutions during my academic career:
 
 [![UNAM's Logo](/img/unam-logo.png)](https://www.unam.mx/)
 [![Nagoya University's Logo](/img/nagoya-logo.png)](https://en.nagoya-u.ac.jp/)
@@ -122,7 +146,7 @@ Including my student years, I have been affiliated to the following institutions
 
 **2014-10-01 -- 2017-09-30** [Hausdorff Postdoc](https://www.hcm.uni-bonn.de/people/postdocs/hausdorff-postdocs/) at the [Hausdorff Center for Mathematics](https://www.hcm.uni-bonn.de/research/research-areas/ra-a2/) of the [Rheinische Friedrich-Wilhelms-Universität Bonn](http://www3.uni-bonn.de/) under the mentorship of [Prof. Dr. Jan Schröer](http://www.math.uni-bonn.de/~schroer/).
 
-**2011-10-01 -- 2014-09-29** Ph.D student at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) of [Nagoya University](http://en.nagoya-u.ac.jp/) under the supervision of [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/).
+**2011-10-01 -- 2014-09-29** Ph.D. student at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) of [Nagoya University](http://en.nagoya-u.ac.jp/) under the supervision of [Prof. Dr. Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/).
 
 **2010-11-03** [Premio Sotero Prieto 2010](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.bb056147ac466033.736f7465726f323031302e706466.pdf)
 (three bachelor's theses were recognised).
@@ -131,164 +155,8 @@ Including my student years, I have been affiliated to the following institutions
 
 **1987-03-18** Born in [Guadalajara](https://en.wikipedia.org/wiki/Guadalajara), [Jalisco](https://en.wikipedia.org/wiki/Jalisco), [Mexico](https://en.wikipedia.org/wiki/Mexico).
 
-##### Remark
+**Remark**
 
 My full (legal) name, formed according to the [Spanish Naming Customs](https://en.wikipedia.org/wiki/Spanish_naming_customs) (used also in Mexico), is Gustavo Jasso Ahuja. Note, however, that I do not utilise my second last name in any professional context.
 
-### Editorial work
-
-{{% list-editorial-work %}}
-
 {{% back-to-top %}}
-
-## Activities
-
-### Cologne Algebra and Representation Theory Group
-
-I am a member of the [Algebra and Representation Theory Group](https://www.mi.uni-koeln.de/RepTheory/) at the University of Cologne. Visit the link to learn about our activities.
-
-[Köln Algebra and Representation Theory Seminar (Oberseminar)](https://sites.google.com/view/oberseminar-algebra-koeln/home)
-
-### Upcoming events
-
-[Winter School: Homotopical Methods in Geometry and Representation Theory](https://sites.google.com/view/hmgrt/)
-
-### Past events
-
-{{% list-activities %}}
-
-### Monday Seminar on Higher Structures
-
-Our research group meets every Monday 10:00-11:30 during the lecture period to hold informal discussions led by one of the participants on topics related to higher structures, or to present our ongoing research. For more information please see the [course catalogue]({{% param "vvURl" %}}).
-
-### Learning seminar on Higher Category Theory
-
-Together with [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) (Université Paris Cité) I organise an online _Learning Seminar on Higher Category Theory and its Applications to Algebra and Geometry_. At the moment this is private seminar; if you are interested in participating please contact either Bernhard or myself by e-mail.
-
-### FDLIST
-
-Since May 2021, I am one for the maintainers of the [FDLIST](https://fdlist.math.uni-bielefeld.de), an information list that provides a forum for the exchange of information, ideas, problems and questions, which are related to representation theory of finite-dimensional algebras.
-
-### FD Seminar
-
-I was one for the organisers of the [FD Seminar](https://www.fd-seminar.xyz), an online seminar on representation theory of quivers and finite-dimensional algebras. The seminar ran from May 2020 until May 2024.
-
-## Writings
-
-### Preprints
-
-{{% list-bib bib="preprints" %}}
-
-### Publications
-
-{{% list-bib bib="publications" %}}
-
-##### Remarks
-
-* My [Ph.D. thesis](https://nagoya.repo.nii.ac.jp/record/18748/files/k10745_thesis.pdf) comprises articles [3-4] and [6].
-* My [master’s thesis](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-21312?func=full-set-set&set_number=210951&set_entry=000001&format=999) comprises part of article [1].
-* My [bachelor’s thesis](https://tesiunam.dgb.unam.mx/F/RFXTK95AQF18PMN83JUABX9VQ4QX691QK8SFSM7LXDQIU8UBAE-06523?func=full-set-set&set_number=211056&set_entry=000002&format=999) comprises article [2].
-
-### Proceedings, extended abstracts and other writings
-
-{{% list-bib bib="proceedings" %}}
-
-### Co-authors
-
-{{% list-coauthors %}}
-
-## Resources
-
-### Experiments with AI
-
-The following experimental web applications are AI-generated. Use at your own risk!
-
-- [AI disclosures in math.{RT,RA}](https://experiments.jasso.info/mathRTRA-AI)  
-Submission and AI-disclosure statistics of arXiv preprints with primary category math.RT or math.RA, submitted since January 2026.
-- [gentle](https://experiments.jasso.info/gentle)  
-Invariant calculator for gentle algebras, based on work by Chaparro, Schroll, Solotar and Suárez-Álvarez, and by Amiot, Plamondon and Schroll.
-
-
-For more details see the following webpage: [Experiments with AI](https://experiments.jasso.info)
-
-### Notes and slides from talks and other materials
-
-Below are the notes/slides from some of my talks and also a poster. Click on the titles to open/download the corresponding PDF file.
-
-{{% list-resources %}}
-
-{{% back-to-top %}}
-
-## Research group
-
-### Ph.D. students
-
-{{% list-students level="phd" %}}
-
-##### Remarks 
-
-* The supervisions of students 1 and 2 began at [Lund University](https://www.maths.lu.se/english/).
-
-### Co-supervised Ph.D. students
-
-{{% list-students level="cophd" %}}
-
-### Master students
-
-{{% list-students level="msc" %}}
-
-##### Remarks
-
-* Students [7-8] were supervised at [Lund University](https://www.maths.lu.se/english/).
-* Students [1-5] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
-
-### Bachelor students
-
-{{% list-students level="bsc" %}}
-
-##### Remarks
-
-* Students [7-12] were supervised at [Lund University](https://www.maths.lu.se/english/).
-* Students [1-6] were supervised at the [University of Bonn](https://www.math.uni-bonn.de/?language=en).
-
-### Publications by research group members
-
-Publications by current and past students and members of the research group.
-
-{{% list-bib bib="research_group" %}}
-
-{{% back-to-top %}}
-
-### Visitors
-
-{{% list-guests %}}
-
-### Research Group Photographs
-
-{{% list-group-photos %}}
-
-## Teaching
-
-Detailed information on my current teaching activities can be found in the [course catalogue]({{% param "vvURl" %}}).
-
-Information on the seminars organised by the Algebra and Representation Theory Group can be found at the following URL:
-[https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
-
-@UzK students: Please write me an e-mail if you are interested in writing a bachelor's or master's thesis under my supervision.
-
-[Recommendations for the use of generative AI programmes in our Mathematics study programmes](https://math.uni-koeln.de/sites/math_career/studium/KI/Empfehlungen_KI_Nutzung.pdf) (in German)
-
-### Teaching at the University of Cologne (since 2024)
-
-{{% list-courses university="uzk" %}}
-
-### Teaching at Lund University (2022-2024)
-
-{{% list-courses university="lund" %}}
-
-### Teaching at the University of Bonn (2016--2021)
-
-{{% list-courses university="bonn" %}}
-
-{{% back-to-top %}}
-

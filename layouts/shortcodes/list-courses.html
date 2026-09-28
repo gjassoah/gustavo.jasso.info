@@ -1,3 +1,13 @@
-{{ $university := .Get "university" }}{{ range ( index .Site.Data.courses $university) }}* **{{ .term }} {{ .year }}**
-{{ if eq .type "Seminar" }} {{ .type }}:{{ end }} {{ .course }}
+{{ $university := .Get "university" }}
+{{ $courses := index .Site.Data.courses $university }}
+{{ $seen := slice }}
+{{ range $courses }}
+{{ $key := printf "%s/%v" .term .year }}
+{{ if not (in $seen $key) }}
+{{ $seen = $seen | append $key }}
+**{{ T .term | default .term }} {{ .year }}**
+
+{{ range where (where $courses "term" .term) "year" .year }}* {{ if eq .type "Seminar" }}{{ .type }}: {{ end }}{{ .course }}
+{{ end }}
+{{ end }}
 {{ end }}

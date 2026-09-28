@@ -35,7 +35,7 @@
   url: 2023-jasso-luminy.pdf
 
 - title: The Donovan–Wemyss Conjecture via the Derived Auslander–Iyama Correspondence
-  conference "Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry"
+  conference: "Workshop: Silting in Representation Theory, Singularities, and Noncommutative Geometry"
   location: Casa Matemática Oaxaca, Mexico
   year: 2023
   url: 2023-jasso-cmo.pdf
@@ -90,7 +90,7 @@
   url: 2022-jasso-alesund.pdf
   url2: https://personal.us.es/fmuro/files/slides/aalesund.pdf
 
-- title: La conjectura “optimista” de Lekili y Polishchuk
+- title: La conjetura “optimista” de Lekili y Polishchuk
   conference: Coloquio Oaxaqueño de Matemáticas
   location: Oaxaca, Mexico
   year: 2022
@@ -103,7 +103,7 @@
   url: 2022-jasso-ipm.pdf
 
 - title: Generalised BGP reflection functors
-  conference "Workshop: Representation Theory of Alegbras and Sheaves"
+  conference: "Workshop: Representation Theory of Algebras and Sheaves"
   location: Bielefeld, Germany
   year: 2021
   url: 2021-jasso-generalised_bgp_reflection_functors.pdf

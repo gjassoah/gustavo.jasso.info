@@ -3,8 +3,20 @@ other = "Publikation"
 [back-to-top]
 other = "Zurück nach oben"
 [submitted]
-other = "eingereichtet"
+other = "eingereicht"
 [Advisor]
 other = "Betreut von"
 [Afterwards]
 other = "Nachher"
+
+["Winter Semester"]
+other = "Wintersemester"
+
+["Summer Semester"]
+other = "Sommersemester"
+
+["Spring Term"]
+other = "Frühjahrssemester"
+
+["Fall Term"]
+other = "Herbstsemester"

@@ -1,0 +1,26 @@
+
+{{ define "main" }}
+{{ $contentPage := . }}
+{{ with .Params.contentLanguage }}
+    {{ $sources := where $.AllTranslations "Language.Lang" . }}
+    {{ if eq (len $sources) 1 }}
+        {{ $contentPage = index $sources 0 }}
+    {{ else }}
+        {{ errorf "Missing content source in language %s for %s" . $.RelPermalink }}
+    {{ end }}
+{{ end }}
+<main lang="{{ $contentPage.Language.Lang }}">
+    <header>
+        <h1>{{ $contentPage.Title }}</h1>
+    </header>
+    <div class="content">
+        {{ $contentPage.Fragments.ToHTML 2 ($contentPage.Params.tocEndLevel | default 3) false }}
+        {{/* Keep same-page fragment links within the current navigation language. */}}
+        {{ replace $contentPage.Content (printf `href="%s#` $contentPage.RelPermalink) (printf `href="%s#` .RelPermalink) | safeHTML }}
+    </div>
+</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partial "footer.html" . }}
+{{ end }}
