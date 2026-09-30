@@ -5,6 +5,7 @@
         <meta name=author content="{{ .Params.Author }}">
         <meta name="google-site-verification" content="2acTKqBrfBSXaKKpgEKGkM4bau9WaahA5kT3pJOUMk8" />
         <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Home.Title }}{{ end }}{{ end }}</title>
+        <script src="/js/theme.js"></script>
         <link rel="stylesheet" href="/css/style.css">
         <!-- Enable responsiveness on mobile devices -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,9 +26,21 @@
                     <li><a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
                     {{ end }}
                 </ul>
+                <div class="navigation-tools">
                 {{ range .Translations }}
                 <span id="language-switcher"><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}" hreflang="{{ .Language.Lang }}" aria-label="{{ if eq .Language.Lang "de" }}Deutsch{{ else }}English{{ end }}">{{ upper .Language.Lang }}</a></span>
                 {{ end }}
+                <div id="theme-switcher" hidden>
+                    <button id="theme-toggle" type="button" aria-label="{{ i18n "theme" }}" title="{{ i18n "theme" }}" aria-controls="theme-options" aria-expanded="false">
+                        <svg width="1em" height="1em" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 0 1 0 18Z" fill="currentColor"/></svg>
+                    </button>
+                </div>
+                </div>
+                <div id="theme-options" role="group" aria-label="{{ i18n "theme" }}" hidden>
+                    {{ range slice "system" "light" "dark" }}
+                    <button type="button" data-theme-choice="{{ . }}" aria-pressed="{{ if eq . "system" }}true{{ else }}false{{ end }}">{{ i18n (printf "theme-%s" .) }}</button>
+                    {{ end }}
+                </div>
             </div>
         </nav>
         {{ block "main" . }}

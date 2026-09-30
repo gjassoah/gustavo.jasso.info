@@ -105,10 +105,7 @@ Run the bibliography tests with:
 .venv/bin/python tools/test_bibliography.py
 ```
 
-The [GitHub Actions workflow](.github/workflows/hugo.yml) installs the build
-tools, runs these tests, builds the site and deploys it to GitHub Pages. It runs
-on pushes to `main` and can also be started manually. Local build and preview
-commands do not publish the site.
+Local build and preview commands do not publish the site.
 
 See [LICENSE.md](LICENSE.md) for the repository licence. The CSL files retain
 their own attribution and CC BY-SA 3.0 licence notices.

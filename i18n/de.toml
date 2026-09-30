@@ -32,3 +32,15 @@ other = "Seiteninhalt"
 
 [menu]
 other = "Menü"
+
+[theme]
+other = "Farbschema"
+
+[theme-system]
+other = "System"
+
+[theme-light]
+other = "Hell"
+
+[theme-dark]
+other = "Dunkel"

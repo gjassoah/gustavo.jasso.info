@@ -1,6 +1,6 @@
 {{ range $i, $e := .Site.Data.groupphotos }}
 ### {{ .periodtext }}
-![](/img/photos/uzk/{{ .period }}-small.jpg)
+![{{ .names }}](/img/photos/uzk/{{ .period }}-small.jpg)
 {.groupphoto}
 [{{ .date }}] {{ .names }}
 {{ end }}

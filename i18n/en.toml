@@ -32,3 +32,15 @@ other = "Page contents"
 
 [menu]
 other = "Menu"
+
+[theme]
+other = "Theme"
+
+[theme-system]
+other = "System"
+
+[theme-light]
+other = "Light"
+
+[theme-dark]
+other = "Dark"
