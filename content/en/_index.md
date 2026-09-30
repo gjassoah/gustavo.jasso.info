@@ -7,7 +7,7 @@ menu:
 ---
 ![Gustavo Jasso's photograph](/img/gjasso.png)  
 {.me}
-Photo (Dec 2020): Birgit Palgen
+Photo (Sep 2026): Self-portrait
 {.photo-credit}
 [Mathematical Institute](http://www.mi.uni-koeln.de/)  
 [Faculty of Mathematics and Natural Sciences](https://mathnat.uni-koeln.de/)  
