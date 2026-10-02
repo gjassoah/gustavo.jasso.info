@@ -5,6 +5,17 @@ menu:
     name: Teaching
     weight: 2
 ---
+
+| WiSe 26/27 | SoSe 27   | WiSe 27/28 | SoSe 28          | 
+|:--------------:|:-----------:|:--------------:|:------------------:|
+| A/ZT           | Aufbau A/ZT | Ma A/ZT    | Funktionentheorie   |
+{.full-width-table}
+
+| WiSe 28/29 | SoSe 29    | WiSe 29/30 | SoSe 30 |
+|:--------------:|:------------:|:--------------:|:---------:|
+|  Ma A/ZT    | Ma A/ZT  | LA 1           | LA 2      |
+{.full-width-table}
+
 Detailed information on my current teaching activities can be found in the [course catalogue]({{% param "vvURl" %}}).
 
 Information on the seminars organised by the Algebra and Representation Theory Group can be found at the following URL:

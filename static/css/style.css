@@ -532,3 +532,13 @@ footer p {
 @media all and (max-width: 48em) {
     #theme-options { grid-row: 3; }
 }
+
+.full-width-table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.full-width-table th, .full-width-table td {
+    width: 25%;
+    text-align: center;
+}
