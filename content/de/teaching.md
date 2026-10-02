@@ -5,6 +5,17 @@ menu:
     name: Lehre
     weight: 2
 ---
+
+| WiSe 26/27 | SoSe 27   | WiSe 27/28 | SoSe 28          | 
+|:--------------:|:-----------:|:--------------:|:------------------:|
+| A/ZT           | Aufbau A/ZT | Ma A/ZT    | Funktionentheorie   |
+{.full-width-table}
+
+| WiSe 28/29 | SoSe 29    | WiSe 29/30 | SoSe 30 |
+|:--------------:|:------------:|:--------------:|:---------:|
+|  Ma A/ZT    | Ma A/ZT  | LA 1           | LA 2      |
+{.full-width-table}
+
 Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis]({{% param "vvURl" %}}).
 
 Informationen zu den von der Algebra- und Darstellungstheorie-Gruppe organisierten Seminaren finden Sie unter folgendem Link:
