@@ -2,7 +2,9 @@
 import contextlib
 import io
 import json
+import os
 from pathlib import Path
+import shutil
 import tempfile
 import unittest
 from unittest.mock import patch
@@ -40,7 +42,7 @@ class BibliographyTests(unittest.TestCase):
             (root / 'data').mkdir()
             (root / 'static').symlink_to(bib.ROOT / 'static', target_is_directory=True)
             output = root / 'data/bibliography_generated.json'
-            pandoc = str(bib.ROOT / '.tools/pandoc/bin/pandoc')
+            pandoc = os.environ.get('PANDOC') or (str(bib.ROOT / '.tools/pandoc/bin/pandoc') if (bib.ROOT / '.tools/pandoc/bin/pandoc').exists() else shutil.which('pandoc'))
             with patch.object(bib, 'ROOT', root), patch.object(bib, 'OUTPUT', output), patch.dict('os.environ', {'PANDOC': pandoc}), contextlib.redirect_stdout(io.StringIO()):
                 data = bib.generate()
                 self.assertEqual([len(data[k]) for k in bib.GROUPS], [1, 1, 3, 1, 1])
