@@ -16,6 +16,8 @@ below install the Python dependencies in a virtual environment and download a
 verified Pandoc binary into `.tools/`. The Pandoc installer supports Linux
 x86_64; on other platforms, install Pandoc separately and make it available on
 `PATH`, or set `PANDOC` to its executable path.
+A system Pandoc also works: the bibliography tests pass with Pandoc 3.11 (Arch
+`pandoc-cli`), which only adds a `--mathml` deprecation warning.
 
 ```sh
 git clone git@git.sr.ht:~gjasso/gustavo.jasso.info

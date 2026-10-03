@@ -18,6 +18,7 @@ The installer verifies the pinned Pandoc 3.6.4 archive and installs only its
 binary inside ignored `.tools/`; it does not change system packages. On other
 platforms, install Pandoc 3.6.4 separately. `PANDOC` can override the executable.
 Otherwise the local pinned binary takes precedence over the system version.
+A system Pandoc without the local binary also works; the tests pass with 3.11.
 The same setup runs in GitHub Actions.
 
 ## Build and preview
