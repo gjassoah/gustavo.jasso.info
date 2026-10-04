@@ -5,11 +5,11 @@ import hashlib
 import subprocess
 import sys
 import time
-from bibliography import ROOT, generate
+from bibliography import BIBTEX, ROOT, generate
 
 
 def fingerprint():
-    paths = sorted((ROOT / 'resources/bibtex').glob('*.bib')) + sorted((ROOT / 'tools/csl').glob('*.csl'))
+    paths = sorted((ROOT / BIBTEX).glob('*.bib')) + sorted((ROOT / 'tools/csl').glob('*.csl'))
     return [(str(p), hashlib.sha256(p.read_bytes()).hexdigest()) for p in paths]
 
 

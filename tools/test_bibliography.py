@@ -3,6 +3,7 @@ import contextlib
 import io
 import json
 import os
+import re
 from pathlib import Path
 import shutil
 import tempfile
@@ -26,7 +27,7 @@ class BibliographyTests(unittest.TestCase):
     def test_full_generation_and_updates(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            sources = root / 'resources/bibtex'
+            sources = root / bib.BIBTEX
             sources.mkdir(parents=True)
             fixtures = {
                 'preprints': r'@online{GJN26, author={Gómez, Juan Omar}, title={Sample}, eprint={2606.19485}, primaryclass={math.RT}, publisher={arXiv}, webstatus={submitted}, note={submitted}}',
@@ -61,7 +62,7 @@ class BibliographyTests(unittest.TestCase):
                 original = output.read_bytes()
                 bib.generate()
                 self.assertEqual(original, output.read_bytes())
-                publications = root / 'resources/bibtex/publications.bib'
+                publications = root / bib.BIBTEX / 'publications.bib'
                 saved = publications.read_text()
                 # Removing the oldest article requires updating its cross-reference too.
                 # Removing an unrelated entry renumbers the remaining list automatically.
@@ -79,13 +80,13 @@ class BibliographyTests(unittest.TestCase):
                 self.assertIn('A. Example', changed['publications'][-1]['citation'])
                 # Duplicate keys across files fail before replacing the last good output.
                 last_good = output.read_bytes()
-                with (root / 'resources/bibtex/books.bib').open('a') as f:
+                with (root / bib.BIBTEX / 'books.bib').open('a') as f:
                     f.write('\n@book{TestNew, author={Other, Bob}, title={Duplicate}}\n')
                 with self.assertRaisesRegex(ValueError, 'Duplicate'):
                     bib.generate()
                 self.assertEqual(last_good, output.read_bytes())
                 (sources / 'books.bib').write_text('@book{Broken,\n  @Comment note = {Hidden}\n}\n')
-                with self.assertRaisesRegex(ValueError, r'resources/bibtex/books.bib:.*line 2'):
+                with self.assertRaisesRegex(ValueError, re.escape(bib.BIBTEX) + r'/books.bib:.*line 2'):
                     bib.generate()
                 self.assertEqual(last_good, output.read_bytes())
 

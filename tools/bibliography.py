@@ -14,6 +14,7 @@ from pybtex.exceptions import PybtexError
 
 ROOT = Path(__file__).resolve().parents[1]
 GROUPS = ('preprints', 'books', 'publications', 'proceedings', 'theses')
+BIBTEX = 'resources/my-publications/bib'  # git submodule: the my-publications repository
 OUTPUT = ROOT / 'data/bibliography_generated.json'
 STYLE = ROOT / 'tools/csl/ams-website.csl'
 
@@ -126,7 +127,7 @@ def generate():
     references = []
     seen = set()
     for group in GROUPS:
-        path = ROOT / 'resources/bibtex' / (group + '.bib')
+        path = ROOT / BIBTEX / (group + '.bib')
         try:
             database = parse_file(path)
         except PybtexError as error:

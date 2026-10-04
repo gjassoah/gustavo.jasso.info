@@ -20,7 +20,7 @@ A system Pandoc also works: the bibliography tests pass with Pandoc 3.11 (Arch
 `pandoc-cli`), which only adds a `--mathml` deprecation warning.
 
 ```sh
-git clone git@git.sr.ht:~gjasso/gustavo.jasso.info
+git clone --recurse-submodules git@git.sr.ht:~gjasso/gustavo.jasso.info
 cd gustavo.jasso.info
 python3 -m venv .venv
 .venv/bin/python -m pip install -r tools/requirements.txt
@@ -55,7 +55,7 @@ example `serve --port 1314` or `build --minify`.
 | --- | --- |
 | `content/en/`, `content/de/` | Page text and navigation metadata |
 | `data/` | Courses, students, activities and other structured content |
-| `resources/bibtex/` | Personal bibliography |
+| `resources/my-publications/` | Git submodule: the personal bibliography (`bib/*.bib`), shared with the CV; see `tools/BIBLIOGRAPHY.md` |
 | `layouts/` | Hugo templates and shortcodes |
 | `static/css/style.css` | Site styles |
 | `static/js/navigation.js` | Navbar behaviour |

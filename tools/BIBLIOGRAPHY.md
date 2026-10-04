@@ -1,7 +1,12 @@
 # Bibliography workflow
 
-The five files in `resources/bibtex/` are the only editable source for the
-Research page's bibliography. Edit entries there, including notes and errata.
+The five files in `resources/my-publications/bib/` are the only source for the
+Research page's bibliography. They belong to the private `my-publications`
+repository (`gjassoah/my-publications`), a git submodule shared with the CV, and
+are not edited here: edit them in that repository (or in the submodule checkout),
+commit and push there, then record the new version in this repository with
+`git add resources/my-publications`. After cloning, run
+`git submodule update --init`. Edit entries there, including notes and errata.
 The Research group page still uses its separate existing YAML bibliography.
 
 ## Setup
@@ -78,7 +83,9 @@ is supplied, the first-submission year is taken from the identifier. Math is emi
 field. `@Comment` starts a separate BibTeX entry; it cannot comment out fields
 inside another entry.
 
-`file` is a private JabRef attachment field and is never exposed as a website link.
+The fields `selected` and `significant` are used by the CV and ignored here.
+`file` was a private JabRef attachment field and has been removed from the data;
+the paper copies are in `my-publications/pdfs/KEY.pdf` and are not published.
 Local PDF paths are checked against `static/`; missing files fail the build.
 An arXiv subject suffix such as `~[math.RT]` is removed from generated URLs.
 A DOI/URL disagreement produces a warning and uses the explicit URL.
