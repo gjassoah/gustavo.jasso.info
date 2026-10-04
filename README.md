@@ -20,7 +20,7 @@ A system Pandoc also works: the bibliography tests pass with Pandoc 3.11 (Arch
 `pandoc-cli`), which only adds a `--mathml` deprecation warning.
 
 ```sh
-git clone --recurse-submodules git@git.sr.ht:~gjasso/gustavo.jasso.info
+git clone --recurse-submodules git@github.com:gjassoah/gustavo.jasso.info.git
 cd gustavo.jasso.info
 python3 -m venv .venv
 .venv/bin/python -m pip install -r tools/requirements.txt
@@ -108,6 +108,13 @@ Run the bibliography tests with:
 ```
 
 Local build and preview commands do not publish the site.
+
+The site is deployed by GitHub Actions (`.github/workflows/pages.yml`): every push to
+`main` builds it with `tools/site.py build` and publishes it with GitHub Pages. The
+workflow needs the repository secret `MY_PUBLICATIONS_DEPLOY_KEY`, the private half of a
+read-only deploy key of the private `my-publications` repository (the bibliography
+submodule). GitHub Pages must be set to the source "GitHub Actions"; the custom domain
+`gustavo.jasso.info` is configured in the repository's Pages settings.
 
 See [LICENSE.md](LICENSE.md) for the repository licence. The CSL files retain
 their own attribution and CC BY-SA 3.0 licence notices.
