@@ -23,8 +23,8 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.MY_PUBLICATIONS_DEPLOY_KEY }}
       - uses: actions/checkout@v4
-        with:
-          submodules: recursive
+      # Not `submodules: recursive`: that rewrites the SSH URL to HTTPS and ignores the deploy key.
+      - run: git submodule update --init --depth 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
