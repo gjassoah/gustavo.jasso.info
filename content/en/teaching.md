@@ -18,6 +18,8 @@ menu:
 
 Detailed information on my current teaching activities can be found in the [course catalogue]({{% param "vvURl" %}}).
 
+The lecture notes for some of my courses can be found in this [webpage](https://skripte.jasso.info).
+
 Information on the seminars organised by the Algebra and Representation Theory Group can be found at the following URL:
 [https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
 

@@ -18,6 +18,8 @@ menu:
 
 Detaillierte Informationen zu meinem aktuellen Lehrangebot finden Sie im [Vorlesungsverzeichnis]({{% param "vvURl" %}}).
 
+Die Vorlesungsskripte zu einigen meiner Vorlesungen finden Sie auf dieser [Webseite](https://skripte.jasso.info).
+
 Informationen zu den von der Algebra- und Darstellungstheorie-Gruppe organisierten Seminaren finden Sie unter folgendem Link:
 [https://www.mi.uni-koeln.de/RepTheory/](https://www.mi.uni-koeln.de/RepTheory/)
 
